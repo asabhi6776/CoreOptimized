@@ -1,0 +1,13 @@
+name = "Shulker+"
+filename = "shulkerplus-mc1.21-v1.3.3-fabric.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/eU7ZC3fy/versions/LhoY3LyT/shulkerplus-mc1.21-v1.3.3-fabric.jar"
+hash-format = "sha512"
+hash = "b2126829a4dec7c7da4decfda03a35c356c41f7307920184016b7c2d15108442eb9547352650436cec06ef8adccd7dc2204537f3123bc0b9a9fd9dfd0f343939"
+
+[update]
+[update.modrinth]
+mod-id = "eU7ZC3fy"
+version = "LhoY3LyT"
