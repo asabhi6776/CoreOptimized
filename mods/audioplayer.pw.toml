@@ -1,0 +1,13 @@
+name = "AudioPlayer"
+filename = "audioplayer-fabric-1.21.1-1.13.1.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/SRlzjEBS/versions/DSyTFnau/audioplayer-fabric-1.21.1-1.13.1.jar"
+hash-format = "sha512"
+hash = "4b9c86117123f3721f4bc5daa272a5fae6e0a91e12056d9cc624280b0a45d379974762a4999ed526f1d4bd80dccaab113a1add87b783ab0fe3610e67f2a38ce9"
+
+[update]
+[update.modrinth]
+mod-id = "SRlzjEBS"
+version = "DSyTFnau"
