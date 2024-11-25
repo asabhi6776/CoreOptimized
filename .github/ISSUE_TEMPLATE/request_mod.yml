@@ -12,7 +12,7 @@ body:
   attributes:
     label: CurseForge link
     description: Please paste the curseforge link.
-    placeholder: https://www.curseforge.com/minecraft/mc-mods/...
+    placeholder: https://www.curseforge.com/minecraft/mc-mods/___
   validations:
     required: false
 
@@ -20,15 +20,15 @@ body:
   attributes:
     label: Modrinth link
     description: Please paste the modrinth link.
-    placeholder: https://modrinth.com/mod/...
+    placeholder: https://modrinth.com/mod/___
   validations:
     required: false
 
 - type: input
   attributes:
-    label: Source/other link
-    description: For example, Mediafire link or a GitHub repository. Optional.
-    placeholder: https://...
+    label: Other link
+    description: For example, Mediafire link or a GitHub repository.
+    placeholder: https://___
   validations:
     required: false
 
@@ -39,11 +39,3 @@ body:
     description: How can the mod benefit everyone while keeping the experience "vanilla-like"?
   validations:
     required: true
-
-    
-- type: textarea
-  attributes:
-    label: Additional details
-    description: Anything else you want to add?
-  validations:
-    required: false
