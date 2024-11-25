@@ -1,28 +1,8 @@
 hash-format = "sha256"
 
 [[files]]
-file = ".github/ISSUE_TEMPLATE/bug_report.yml"
-hash = "06fce331f0d5e4244382ebc2c6a20a8eb465ac081d09b1bdc6007934eee53ebe"
-
-[[files]]
-file = ".github/ISSUE_TEMPLATE/request_mod.yml"
-hash = "f866c290f35b73f759d15ba01a6a258a290efe939b101e3f647a45f4ca188d1f"
-
-[[files]]
-file = "CODE_OF_CONDUCT.md"
-hash = "5e0b61ead71ba00d047719bc35cc5fac0a88ecd1c903c6ea7cfb9830a69d9dfa"
-
-[[files]]
-file = "CONTRIBUTING.md"
-hash = "ab9867eb36207658d31a70914b687c49ed13b465599d9394478914c8d9e74e5c"
-
-[[files]]
-file = "LICENSE"
-hash = "2939ddb9d5ca4237ea47b7e9dd54208f042c4eb8403831b8cdf7d66d28da97d5"
-
-[[files]]
-file = "README.md"
-hash = "1607774d561be0b97935c8bd8503b636d465c964b51a8e205044b85a689eb9a6"
+file = "config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
 
 [[files]]
 file = "config/presencefootsteps/updater.json"
@@ -371,3 +351,287 @@ metafile = true
 file = "shaderpacks/bsl-shaders.pw.toml"
 hash = "95b28fe2091b763d5c4338830af58de79efe17d754bd7e961a3cb9657ac4afdb"
 metafile = true
+
+[[files]]
+file = "test/manifest.json"
+hash = "515d42d516f607f50fe736ecddc16700fd8475110271d02c05fb121e141bccab"
+
+[[files]]
+file = "test/modlist.html"
+hash = "31f056c35cf399964f943ff823c49f9c9a62eed33884630f393352b76648d35a"
+
+[[files]]
+file = "test/overrides/config/dynamicfps.toml"
+hash = "00adc4f855ed41412f3c3eb48b859c4ae68b5f2c30ba4c332e66f38e79a0c449"
+
+[[files]]
+file = "test/overrides/config/presencefootsteps/updater.json"
+hash = "ff3a63b93f6d4613ef17cee40ebdfcf990fa6e2a04b2367136057393a10342f1"
+
+[[files]]
+file = "test/overrides/config/presencefootsteps/userconfig.json"
+hash = "6023db1aa873ab81785cfe9327770f32ab4abf3e42bd2e5a2f07b4e0878ea9be"
+
+[[files]]
+file = "test/overrides/mods/ArmorPoser-fabric-1.21.1-6.1.3.jar"
+hash = "8f76ad743992ce5fb206125ccbdd92b438de479094ef18189d70f3b3e226bffe"
+
+[[files]]
+file = "test/overrides/mods/BetterAdvancements-Fabric-1.21.1-0.4.3.21.jar"
+hash = "7542d8f2f280fad5698f114ab28c28300e52bdcf80622f3c104b96434162fcf5"
+
+[[files]]
+file = "test/overrides/mods/BetterF3-11.0.3-Fabric-1.21.1.jar"
+hash = "e0e4bb25fbe23b16b7574474ee9fde5cdc9757d05885bc43978f4ea5e8e258ad"
+
+[[files]]
+file = "test/overrides/mods/Debugify-1.21.1+1.0.jar"
+hash = "e61e83875190150337a2366d9374f04865654de7bdf83e6ab29d9915899f8d7a"
+
+[[files]]
+file = "test/overrides/mods/ImmediatelyFast-Fabric-1.3.2+1.21.1.jar"
+hash = "b8d1673f2883c590a640ed17bc882d088124b21eee79f287d9b8203b43a205c2"
+
+[[files]]
+file = "test/overrides/mods/Jade-1.21.1-Fabric-15.8.3.jar"
+hash = "99771589b04e00f4a6b1c5c34a621ba2b9591b4808600e38c7444bc7f5e63691"
+
+[[files]]
+file = "test/overrides/mods/NoChatReports-FABRIC-1.21.1-v2.9.1.jar"
+hash = "413c3952cbbf641b492bb2e47763ed7e48d1d72db0863d9d2274a74ce5269849"
+
+[[files]]
+file = "test/overrides/mods/PresenceFootsteps-1.10.1+1.21.jar"
+hash = "2837f523cce247bf179b807086d5a9355e457ab647ae814a3eeb846658d6a6d1"
+
+[[files]]
+file = "test/overrides/mods/YetAnotherConfigLib-3.6.1+1.21-fabric.jar"
+hash = "ccd271ecf7edbb6068eeac0c5e56cb24b862cb618c60e297c75d9e5ec1091698"
+
+[[files]]
+file = "test/overrides/mods/Zoomify-2.14.2+1.21.1.jar"
+hash = "2c80482f7f2c1e06001a280d14c161356d4e5521e6eafe91920f71996f3bb9a0"
+
+[[files]]
+file = "test/overrides/mods/animatica-0.6.1+1.21.jar"
+hash = "dd46dd3e1d78e5874ad8723b177c4b1f7bf19cb5954e47c1021f388e6104947c"
+
+[[files]]
+file = "test/overrides/mods/bettermounthud-1.2.4.jar"
+hash = "5b410574728e30edc4732d3a4d4cfa7dfce954424a866459565acc6056d57547"
+
+[[files]]
+file = "test/overrides/mods/betterstats-3.13.3+fabric-1.21.jar"
+hash = "a733a447644f3e7765699b3fff2da80614cb666ce2af431601cd99990e11dd60"
+
+[[files]]
+file = "test/overrides/mods/chat_heads-0.13.6-fabric-1.21.jar"
+hash = "a4ec5ee7c390697314e153b672a1e7a1b8ddb28ec431f3ea52ed53b650fe9294"
+
+[[files]]
+file = "test/overrides/mods/citresewn-1.2.2+1.21.jar"
+hash = "27f960a57597539cb8dfdd7a926268a123177322b14bea113415a56825c01776"
+
+[[files]]
+file = "test/overrides/mods/cloth-config-15.0.140-fabric.jar"
+hash = "33894e95da3af59014b39d126586d5241e07ea39f8618763e30dab637405f95f"
+
+[[files]]
+file = "test/overrides/mods/continuity-3.0.0-beta.5+1.21.jar"
+hash = "9bb470dddfcc3d745e229c7fd9f9663a9411d22d37aa703e13abf986d06ee33b"
+
+[[files]]
+file = "test/overrides/mods/dynamic-fps-3.7.6+minecraft-1.21.0-fabric.jar"
+hash = "f7619e7b4fa143fe37761377cceb72719afc6fdab2f118bccebcd61f08817351"
+
+[[files]]
+file = "test/overrides/mods/dynamiclights-v1.8.4-mc1.17x-1.21x-mod.jar"
+hash = "8bbc1917601f622dff92425ec85e28e6064659f8151aad79b14c2447f2445fc9"
+
+[[files]]
+file = "test/overrides/mods/enhancedblockentities-0.10.2+1.21.jar"
+hash = "61396ddd5990ae8177165492067c4b02e2ebacbd7be3e97eb37a46aae13c9679"
+
+[[files]]
+file = "test/overrides/mods/entity_model_features_fabric_1.21-2.2.6.jar"
+hash = "8850dc0718eb251cabb456c38d25b2952f94e35f02eae6d84a6c1b8adb89fb4b"
+
+[[files]]
+file = "test/overrides/mods/entity_texture_features_fabric_1.21.1-6.2.8.jar"
+hash = "eb5ad6217609d19ec24d1f69914170d90e95d18eb3dfce0120c2fe6b125362b2"
+
+[[files]]
+file = "test/overrides/mods/entityculling-fabric-1.7.1-mc1.21.jar"
+hash = "ef395aa94f622b47e4665fced0b6a34ae3cd68b414c14a9ba8b401876d939460"
+
+[[files]]
+file = "test/overrides/mods/fabric-api-0.109.0+1.21.1.jar"
+hash = "9afff3b80f49f589dbb047213360ef93f78f9a38e9e84092cdc19a7b69b5da6e"
+
+[[files]]
+file = "test/overrides/mods/fabric-language-kotlin-1.12.3+kotlin.2.0.21.jar"
+hash = "87737ead3546a4f09c80ffa45d786cce2f3a49650ad9386c1a5a0439b0467f8a"
+
+[[files]]
+file = "test/overrides/mods/fabricskyboxes-0.7.4+mc1.21.jar"
+hash = "2f5ac4450a5ba163946aa73fe84f989f99f0b216d7703a38bd9e75f630571efd"
+
+[[files]]
+file = "test/overrides/mods/fastquit-3.0.0+1.20.6.jar"
+hash = "313369c36d3f63d42c01851eaba903f726b5f81a08b432aa6ec8590658625c74"
+
+[[files]]
+file = "test/overrides/mods/ferritecore-7.0.2-hotfix-fabric.jar"
+hash = "e3fae8e321474a35e94f9bb09eafd0440ce0fe98f4aebbc067e392889700a4fa"
+
+[[files]]
+file = "test/overrides/mods/freecam-fabric-modrinth-1.3.0+mc1.21.jar"
+hash = "3b3672d871251dd895cd8e29dff1ab70f6209f777699e1c816257d42b6d9a1f2"
+
+[[files]]
+file = "test/overrides/mods/fsb-interop-1.4.0+mc1.21-build.54.jar"
+hash = "2910e0dbf307409801b36bda5ac353bfe3e48d7d0891bcdbe397ee27b6e0d455"
+
+[[files]]
+file = "test/overrides/mods/held-item-info-1.7.0.jar"
+hash = "c859283ee500ae80ca7554640abc565e2965a7be1cf25036215daf8f6e2bdbcb"
+
+[[files]]
+file = "test/overrides/mods/indium-1.0.35+mc1.21.jar"
+hash = "13bd78303315ca8f08ea19dfacce8566e152c56615e93a07c490965f390d4ed8"
+
+[[files]]
+file = "test/overrides/mods/iris-fabric-1.8.0+mc1.21.1.jar"
+hash = "09ddff07b810692a556e932299a271d7ba4efc4648dcef13c6aa931ee50695aa"
+
+[[files]]
+file = "test/overrides/mods/jei-1.21.1-fabric-19.21.0.247.jar"
+hash = "5963d08d7891ef4d8f9071828a94465b88c6171b0ceb136e42e5802929f6dd29"
+
+[[files]]
+file = "test/overrides/mods/libjf-3.17.3.jar"
+hash = "bcf972e8a0ffc24ddff25319e3fc89feb7cee3d26833bf16e8f53d16ae01b359"
+
+[[files]]
+file = "test/overrides/mods/litematica-fabric-1.21-0.19.51.jar"
+hash = "3e2f97ca7d566459e7cdfc8787e8ee3b31c155f62500bff2d46a6ecbba7fbd7b"
+
+[[files]]
+file = "test/overrides/mods/lithium-fabric-0.14.2-snapshot+mc1.21.1-build.90.jar"
+hash = "4eacbf0dd6af75d0ca6cab1d8a7fca69f13dd447e64aaa31e77689aa6033aa84"
+
+[[files]]
+file = "test/overrides/mods/malilib-fabric-1.21-0.21.2.jar"
+hash = "4c708f66950393e7791bc7ecddb43b0d0486dc5af17f6e24423f20e298ea11e1"
+
+[[files]]
+file = "test/overrides/mods/minihud-fabric-1.21-0.32.51.jar"
+hash = "cbddea1eda5b8775b6f1641257b16fe78275deb23bafc727c6babf0f175a2937"
+
+[[files]]
+file = "test/overrides/mods/modelfix-1.21-1.6-fabric.jar"
+hash = "53a0701f3583e2b794825858d2e4b7613df8b2dd22c277544c4b55f4bd08537a"
+
+[[files]]
+file = "test/overrides/mods/modernfix-fabric-5.19.5+mc1.21.1.jar"
+hash = "86b8b4a7e6cb2a24e2ef618343ebf8efa05dced0b43decb042130f431c6786aa"
+
+[[files]]
+file = "test/overrides/mods/modmenu-11.0.3.jar"
+hash = "a45a12807a29f0e5b23b87cd380fd6fe8589ffe4a665cadce234168a4dabe428"
+
+[[files]]
+file = "test/overrides/mods/morechathistory-1.3.1.jar"
+hash = "f6032e46826b63e18c8848a3053e32652fc5298892a216a53dce66598925fc6c"
+
+[[files]]
+file = "test/overrides/mods/moreculling-fabric-1.21.1-1.0.1.jar"
+hash = "50c71b4f7635204fc786621f66b343c72021d0ce76e14c5f854241fae81afd53"
+
+[[files]]
+file = "test/overrides/mods/optigui-2.3.0-beta.6+1.21.jar"
+hash = "eec14b5dc1edb7d7232ddf046e8e59f4f009991c356dc315f87fa7a7be7b6595"
+
+[[files]]
+file = "test/overrides/mods/placeholder-api-2.4.1+1.21.jar"
+hash = "4ff847074a09e4d66a94b0de278c732626f160c2d759f16e9e92001ab9a79b70"
+
+[[files]]
+file = "test/overrides/mods/polytone-1.21-2.5.12-fabric.jar"
+hash = "470be9ccee20bfef0f31bbc9ec47950ed174835a260b994d1194113753a5d33c"
+
+[[files]]
+file = "test/overrides/mods/puzzle-fabric-2.0.1+1.21.jar"
+hash = "85611b4c8940784d5600ec28a5c71822ab1755abd8a5a3bd3a80352ffd8cd953"
+
+[[files]]
+file = "test/overrides/mods/reeses-sodium-options-fabric-1.8.0+mc1.21.3.jar"
+hash = "967d4872bf8c3475c4e07f88e75051aeba235709e24f613d8d6e6f0beb39969a"
+
+[[files]]
+file = "test/overrides/mods/respackopts-4.11.3.jar"
+hash = "1c3634a90548c839cb9e78409d346d712b1af73be839fa7c7ad59428b6398dea"
+
+[[files]]
+file = "test/overrides/mods/shulkerplus-mc1.21-v1.3.3-fabric.jar"
+hash = "7478923184bbbecbad3bf0a66205822883bcc721d0160396c123a0f9f23d1fc4"
+
+[[files]]
+file = "test/overrides/mods/sodium-extra-fabric-0.6.0+mc1.21.1.jar"
+hash = "1a7434e444c851d82efbe3d5a8fd2dbb142e9bdf0012d7c6a0e4741c641b1a2d"
+
+[[files]]
+file = "test/overrides/mods/sodium-fabric-0.6.0+mc1.21.1.jar"
+hash = "21b3371f52ab2b2d9abd05e28a4eba3675fb2dbd174614719569d0c365bbf01e"
+
+[[files]]
+file = "test/overrides/mods/spark-1.10.109-fabric.jar"
+hash = "fafc121ac53dab1c32e74b7a1cae47d54435ba4cbeeda1180dc96675a7757047"
+
+[[files]]
+file = "test/overrides/mods/tcdcommons-3.12.4+fabric-1.21.jar"
+hash = "10ce8bdc98459ff75244e4d1ee4d63c18c164b7d68c9b389c9ea194e04334790"
+
+[[files]]
+file = "test/overrides/mods/tweakeroo-fabric-1.21-0.21.53.jar"
+hash = "548cade92a8f7f818038a5f3829420d046726b2b8c57f5b66e504ffdaa2963e7"
+
+[[files]]
+file = "test/overrides/mods/visuality-0.7.7+1.21.jar"
+hash = "c10fe78103b659259161330be2f6f2123dedf5f2f00cd243225a88d5ffa8c372"
+
+[[files]]
+file = "test/overrides/mods/voicechat-fabric-1.21.1-2.5.26.jar"
+hash = "740bf4d83c210b932587f5cfc16d649da152c9571f0339ea576a9853ba6efc7f"
+
+[[files]]
+file = "test/overrides/mods/worldplaytime-1.2.2-1.21-FABRIC.jar"
+hash = "f76ca24ee1fa513d44dd3d367022da6f163c05464039e3672e597989df2bf1aa"
+
+[[files]]
+file = "test/overrides/mods/yosbr-0.1.2.jar"
+hash = "db4c744fd71f5617639cb0fdff72378b08d2852004f4045c62090de1bf53afcb"
+
+[[files]]
+file = "test/overrides/resourcepacks/EvenBetterEnchants_v2_r1.zip"
+hash = "bf3879bfe3607936248a070037c730082a46556ef2cdfb285e05ac93a88665ea"
+
+[[files]]
+file = "test/overrides/resourcepacks/FreshAnimations_v1.9.2.zip"
+hash = "7ecee4567bd999ce6d45897b0b196a9342ff325f550031a15fffaaf81342dc1b"
+
+[[files]]
+file = "test/overrides/resourcepacks/Redstone Tweaks 2.4.5.zip"
+hash = "59f20ac3f9515e5c8a85e725d58136ce64972c6da3ffd2bfa759a21fb7cb23fc"
+
+[[files]]
+file = "test/overrides/resourcepacks/enchant icons 1.21 v1.3.zip"
+hash = "78cbfc8aa6994e943cf5247906d1160caff00d7e41430225a517c4a5ba731e24"
+
+[[files]]
+file = "test/overrides/shaderpacks/BSL_v8.4.zip"
+hash = "f57821c6f0d744ca72b41d3ad9762452e53d5b0eb3a888c0636ad29b7d0d1548"
+
+[[files]]
+file = "test/test.zip"
+hash = "1e119b509f33cb3c47c11af3de25b4b83c18bd2f9a09ac1560b47fe90c6c4806"

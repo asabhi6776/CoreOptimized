@@ -1,4 +1,4 @@
-name = "SniperXJohn_VanillaPlus_Playground"
+name = "CoreOptimized"
 author = "SniperXJohn"
 version = "1.0.0"
 pack-format = "packwiz:1.1.0"
@@ -6,7 +6,7 @@ pack-format = "packwiz:1.1.0"
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "3ae0ac66fb7d6cd2d888e034b1567a4cc71d7c536a1f6d8d4c6dd2f580e1c64a"
+hash = "878eecd2a3d8e5bc1d811d4a7e3a622010cb1abd671f9e6762dccc61a50b7993"
 
 [versions]
 fabric = "0.16.9"
