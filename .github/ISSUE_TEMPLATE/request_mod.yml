@@ -1,0 +1,49 @@
+name: Mod request
+description: Suggest a new mod to be added in modpack.
+labels: mod
+body:
+- type: markdown
+  attributes:
+    value: |
+      ## Mod name
+      Please make sure that, mod which is requesting for does not add any game changing element.
+
+- type: input
+  attributes:
+    label: CurseForge link
+    description: Please paste the curseforge link.
+    placeholder: https://www.curseforge.com/minecraft/mc-mods/...
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: Modrinth link
+    description: Please paste the modrinth link.
+    placeholder: https://modrinth.com/mod/...
+  validations:
+    required: false
+
+- type: input
+  attributes:
+    label: Source/other link
+    description: For example, Mediafire link or a GitHub repository. Optional.
+    placeholder: https://...
+  validations:
+    required: false
+
+
+- type: textarea
+  attributes:
+    label: Why should it be in the modpack
+    description: How can the mod benefit everyone while keeping the experience "vanilla-like"?
+  validations:
+    required: true
+
+    
+- type: textarea
+  attributes:
+    label: Additional details
+    description: Anything else you want to add?
+  validations:
+    required: false

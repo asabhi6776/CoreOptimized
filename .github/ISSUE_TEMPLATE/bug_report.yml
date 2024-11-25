@@ -1,0 +1,36 @@
+name: Bug report
+description: Report your bugs.
+labels: bug
+body:
+- type: markdown
+  attributes:
+    value: |
+      Please make sure not to create duplicate issues.
+
+- type: input
+  attributes:
+    label: Modpack version
+    description: ModPack Version
+    placeholder: Modpack Version
+  validations:
+    required: true
+
+- type: dropdown
+  attributes:
+    label: Launcher
+    description: Which launcher are you using?
+    options:
+      - ATLauncher
+      - Modrinth App
+      - Prism Launcher
+      - Other (Mention in Description)
+  validations:
+    required: true
+
+
+- type: textarea
+  attributes:
+    label: Describe Your Problem Here.
+    description: Please explain your issue in detail.
+  validations:
+    required: true
