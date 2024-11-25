@@ -1,6 +1,38 @@
 hash-format = "sha256"
 
 [[files]]
+file = ".github/ISSUE_TEMPLATE/bug_report.yml"
+hash = "06fce331f0d5e4244382ebc2c6a20a8eb465ac081d09b1bdc6007934eee53ebe"
+
+[[files]]
+file = ".github/ISSUE_TEMPLATE/request_mod.yml"
+hash = "f866c290f35b73f759d15ba01a6a258a290efe939b101e3f647a45f4ca188d1f"
+
+[[files]]
+file = "CODE_OF_CONDUCT.md"
+hash = "5e0b61ead71ba00d047719bc35cc5fac0a88ecd1c903c6ea7cfb9830a69d9dfa"
+
+[[files]]
+file = "CONTRIBUTING.md"
+hash = "ab9867eb36207658d31a70914b687c49ed13b465599d9394478914c8d9e74e5c"
+
+[[files]]
+file = "LICENSE"
+hash = "2939ddb9d5ca4237ea47b7e9dd54208f042c4eb8403831b8cdf7d66d28da97d5"
+
+[[files]]
+file = "README.md"
+hash = "1607774d561be0b97935c8bd8503b636d465c964b51a8e205044b85a689eb9a6"
+
+[[files]]
+file = "config/presencefootsteps/updater.json"
+hash = "ff3a63b93f6d4613ef17cee40ebdfcf990fa6e2a04b2367136057393a10342f1"
+
+[[files]]
+file = "config/presencefootsteps/userconfig.json"
+hash = "6023db1aa873ab81785cfe9327770f32ab4abf3e42bd2e5a2f07b4e0878ea9be"
+
+[[files]]
 file = "mods/animatica.pw.toml"
 hash = "ff31791271197f8122fb52893e7e67d86ba038dd0e77e57227ef84de8f7e069e"
 metafile = true
