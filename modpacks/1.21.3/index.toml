@@ -211,6 +211,11 @@ hash = "105338866b8c2d65977794f70af8e44bd0db9e3951441bdaf7c64fd7697bdade"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "53baa31369bfb31684a7c012b85691bd5b2490f3ef99e4038c50423e1906a49c"
+metafile = true
+
+[[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
 metafile = true
