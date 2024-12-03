@@ -86,6 +86,11 @@ hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "ad20d3e789bcb91821155cdb3d99c0edcaf090ef2c040516af4e5071a1425210"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "2b1c864b1db540dc758f0f6ac9057bcb55c3facac1331b82d5886909164d4763"
 metafile = true
@@ -101,6 +106,11 @@ hash = "743e2829fd76c27c711c54b045880f64f9e67444c78476096fec18879c441764"
 metafile = true
 
 [[files]]
+file = "mods/jade.pw.toml"
+hash = "028375b9c27285827cb36bb064f92cabb4a1efe8beb13a9833ea31fa1b2a174a"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "698d4ef94817abda13fd1b052bec4c5ed51fe7f84fbc218bbe545ed2a23a9622"
 metafile = true
@@ -111,8 +121,23 @@ hash = "7823121c9475ef1c89e59fda5ead69d63b9879837633c1f9f54a999ea8b7258f"
 metafile = true
 
 [[files]]
+file = "mods/litematica.pw.toml"
+hash = "4bd1afc0d4a5b2a83ef6261bf7ce280a229cd84ca2235e10dd804f3c72d2e7dc"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "92fa35a4712bf3ef1220d4d5d5542dfdb18fef07d04044aee03781e76aada1ee"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "c0bccda9dcb2aa9dc6ade6d3586f35dec9b7edbd1325212a3bcf8fc57e4edc61"
+metafile = true
+
+[[files]]
+file = "mods/minihud.pw.toml"
+hash = "77892325b6ec144ae320663b816cb8806ddeeeb13192786c939697393d6176c8"
 metafile = true
 
 [[files]]
@@ -151,6 +176,11 @@ hash = "fd22f5f9da296d9bd424515a60c8cdcd165664f0ad210d0efc24e0bc70170422"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "8518c9db9d7242c3ec1f1f619c9c887d300c7d6c37ecbea35e8cb2b97c17f625"
+metafile = true
+
+[[files]]
 file = "mods/rei.pw.toml"
 hash = "79e4add7bb3d7d9ca319aa255a6d1f8f1b0d4ecb54428b3821f63164a79672e9"
 metafile = true
@@ -158,6 +188,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "5294c6ef3df6878b12c980c9ed18ecbff1a147da631f0faab6e7e7d933e46be6"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "90c188a415287020a0a05aedc6c20e5d28054a7db3e9404a191ddd322f2a1a96"
 metafile = true
 
 [[files]]
@@ -178,6 +213,21 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "95b4e72d3bb5459b33b7860a8a430ca935ab2486938f39a1ea2f157f1b964988"
+metafile = true
+
+[[files]]
+file = "mods/tweakeroo.pw.toml"
+hash = "1052a22b00ab9b0ab8a0cc83c2de88158643be15731174b39851ec89b26200dc"
+metafile = true
+
+[[files]]
+file = "mods/world-play-time.pw.toml"
+hash = "d381e862b3f1a29cabe97e64c96024ac2e8d9071969e91ae0390024488f9e7fb"
+metafile = true
+
+[[files]]
+file = "mods/worldedit.pw.toml"
+hash = "48bf7ab591ee2eb745ab182821ee095564c3a59d5311f4fabf9ca276001a336c"
 metafile = true
 
 [[files]]
