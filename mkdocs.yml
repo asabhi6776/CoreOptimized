@@ -5,7 +5,7 @@ theme:
   features:
     - navigation.footer
   logo: assets/logo.png
-  # favicon: fontawesome/solid/CO
+  favicon: assets/favicon.io
   font: 
     text: Merriweather Sans
     code: Red Hat Mono
