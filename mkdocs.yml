@@ -1,5 +1,9 @@
 site_name: CoreOptimized Documentation
 site_url: https://coreoptimized.readthedocs.io
+site_description: CoreOptimized modpack Documentation.
+repo_url: https://github.com/asabhi6776/CoreOptimized
+repo_name: CoreOptimized
+edit_uri: blob/master/docs/
 theme: 
   name: material
   features:
