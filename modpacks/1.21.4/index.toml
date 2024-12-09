@@ -125,6 +125,11 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/freecam.pw.toml"
+hash = "09bcf1e1abce352091c58d70abc50c413fc10dbd7ddf68910118b259b5dc2478"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5087a82c36758425256481a169f9186904d423304b62a427d6a45c9a434ae20d"
+hash = "dfaaf00b15443f4ffe5aae92e6cbee259a4686921a8f512a2d40d504996bb584"
 metafile = true
 
 [[files]]
@@ -246,195 +251,11 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8222e64b0bbbb7785388d2068cf66e3c5b3379cc5eb7bc70847fe39deb59765d"
+hash = "af20b2c319eadcc9175252bf167d62e5e34f1ec48bf8794e948fe2bdc0db2282"
 
 [[files]]
-file = "resourcepacks/Redstone Tweaks 2.4.5.zip.rpo"
+file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
-
-[[files]]
-file = "resourcepacks/SniperPaintings.zip"
-hash = "505244a69e913385a3590c0fd0bf309b73ab6e97ade514c2b351f5015da4973b"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/Pack.mcmeta"
-hash = "facb61c25ebc20aca30d61e0a87864f56a1a02f29b0d530f11d4c84e97b920df"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/carved_pumpkin.json"
-hash = "d27ff570483df6fc708c664856274548700f039a360e660c726ea03aa4da41d2"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/chorus_fruit.json"
-hash = "5c24ae69ac8fb28d9d47f15fa041e4ae8f9e9cf15ba2e596c91639b8bdbffdab"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/cup_of_milk.json"
-hash = "d37289f7e249f88fc56188d174c3ac909bc34b21dfef88953aecc9ab92b4e881"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/dirty_coin.json"
-hash = "296c22a37cdd67b5901e483928b4b954635f09be61bbb589f2a3360f9e098b05"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/diving_goggles.json"
-hash = "d072b5c9be8e7ff3c3e133cb646bdd5a127a169b4d1571d8ba793c4690831d86"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/elvan_cookie.json"
-hash = "de4b5d4f92b84baf2f4cafb76d3bac182eb15d46d69c4c20bb1f33d8c2d00e4a"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/hoe.json"
-hash = "1b5fee34eb05ec3f1e48f0cd0a04f03d404674a02dff740bdb43ed9bcee91d3d"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/parashu.json"
-hash = "ad6d4fc20aaf65781f2959ad47765a5c1209914553f91db2761fc24622555d55"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/samehada.json"
-hash = "4a6ab65bba964f2708a28d8d278daa55bc2961b2ea9ac5cfd174e1e1d0bb4526"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/sky_blade.json"
-hash = "2d2c538dc48a1ce6c9b211e7e5b185aee99063f4dba1b30dad9f748de98af089"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/snipertoy.json"
-hash = "ae34d98adb0f4fee07734e685ecfe8df717f8eee5ba259b11b46c054ba89247f"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/sunglasses.json"
-hash = "c546ad4d8a96d5affa1546d0b099462b420cabb504cdca5319adc60bb4b001a0"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/custom/very_dirty_coin.json"
-hash = "c7f44fd4ce4bd95b1f43505afca92573cdf48f068f7d057b54dc43634c9ffab6"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/diamond_sword.json"
-hash = "6be1b3375cad3f98c357f93155b9bd0adadec989dd627dd9bc285c2d7a91943e"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/gold_nugget.json"
-hash = "68969e35a1e60483bc92f19a0183f4f84946f86abc065f093ad18d6818328c67"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/iron_nugget.json"
-hash = "3ade676ead3d49ade5525f04a5f45312d731d7af5a408ee0242cce9830d5e08b"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/milk_bucket.json"
-hash = "04d8ceb01aca5031e5aa090ce2c8ba82a237a22b58c34b80891b96057b4c25e0"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/netherite_axe.json"
-hash = "dc325602675093b8d8694e9164e22b7ca28501caa09babbde11b5ecb2b7532f8"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/netherite_hoe.json"
-hash = "46ccefadc70bae0841ce5e2cd568b809be57f9350b89eb4cfa6dc5b4fcafcaf5"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/netherite_sword.json"
-hash = "1595fc9e2a6670c0e144a1183ad3195108ca2ca46faa4d95179c4a1705f51c09"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/totem_of_undying.json"
-hash = "cdeb091a46de9eca8c5c61e6918e46cee156c72061f813ce1eddfffe544f2eab"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/models/item/turtle_helmet.json"
-hash = "eacf604b37a35c5a79265c9cf8b639309e2d50494cc95ac66fd595c892d3ee17"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/font/ascii.png"
-hash = "b3aa3de3f4a8ecc6f1b71c05f03765b5202178b915df478869b0d74717b7e0df"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_0.png"
-hash = "ca41f27e982bc2642df28f8477d7dc4eda6e37aedafddfda9cf47669d349d63a"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_1.png"
-hash = "6db7b1d6a2e588583d226892f363655a351cc8e3cf17dd3f85b1f0de72f788be"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_2.png"
-hash = "c3d708c215f40390978c4a19692277681fb14d5c1cf3a49da8e9eacc7c396b24"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_3.png"
-hash = "ab30a0505b89bdc26144dd9d04b340f01d35e90c2ba7f5fcb4367719d7ff1c3c"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_4.png"
-hash = "9a5ba06e1333cc623aacfec5283307b9a22959d81ec52522e09bb5603de1d71c"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_5.png"
-hash = "0303ea8ceb402552c36e2f07c5912396b889132aa5e6bada0decd1c56ceae634"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/gui/title/background/panorama_overlay.png"
-hash = "8a8a6d6325c5391079a56dc9a9185ef79618a784232a529db8b9809d3260e4cb"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/cup_of_milk.png"
-hash = "2c10e1fa2d78be967bc7006190089bd10c9273530df059635834f99f22590f72"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/dirty_coin.png"
-hash = "daa3f29ebb6207347f90b412da7a4ad4f6d9d27f32eaa6d8e74a6b92e1740fc9"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/diving_goggles.png"
-hash = "78d10842e312aa716cb627f3ccf8a4b19beb7bd604fe770b6b9ac7ff7542b199"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/elvan_cookie.png"
-hash = "002e1465c2d488ef1e3c509a4c1704f4780c873757749149ef137061e98b7309"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/hoe.png"
-hash = "4e99dfe329ecb4fc4409b570fa1e5f40298f541f61110f1e93196ae4c274d152"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/parashu.png"
-hash = "acf9472447571156fb846e12e2b83bb972752c519302892acc963bfaa1c48201"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/samehada.png"
-hash = "6a5d0611a359eae579ff38c23cc4a30f8374decec6a1b630ff65486d74970ff0"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/sky_blade.png"
-hash = "29c0c19f17cf2590e0974ffe2a67d6d9ba3bfc6b0de3b623696500ef06a8a2ac"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/snipertoy.png"
-hash = "de3b89581d704a4abc15cbb8a760dbea70d45c1c40d67bf5ee71ce802d6ca5be"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/sunglasses.png"
-hash = "f004d0da26d73ae1e135836368b1b5ad26534344f384cd1e716af4f7ec07bc83"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/item/custom/very_dirty_coin.png"
-hash = "9bfe0310b447e3deddee7aa3249e353080992d53f35b7371e31d1e73d60a5d00"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/assets/minecraft/textures/misc/pumpkinblur.png"
-hash = "4e1699d6ba18b37ee386558ee074ee9e3b84dab7d4f3ffef687f057864e482a2"
-
-[[files]]
-file = "resourcepacks/SniperXJohn_Custom_Resources/pack.png"
-hash = "386d4c4a6e2fe8047fa87cb412282224eff56010783eea90eaa606ef90550f54"
-
-[[files]]
-file = "resourcepacks/VanillaTweaks_r657551_MC1.21.x.zip"
-hash = "b175cfda8abbc5c1e621c08be4b16c5b3ffd156870e2f5b87028df4030e58e30"
 
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"

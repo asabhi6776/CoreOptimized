@@ -51,7 +51,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Fast Better Grass.zip","presencefootsteps:default_sound_pack","file/SodiumTranslations.zip","file/SniperPaintings.zip","file/Redstone Tweaks 2.4.7.zip","file/EvenBetterEnchants_v2_r1.zip","file/FreshAnimations_v1.9.2.zip","file/VanillaTweaks_r657551_MC1.21.x.zip","file/Mod Menu Helper.zip","file/SniperXJohn_Custom_Resources","file/enchant icons 1.21 v1.3.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.7.zip","file/Chat Reporting Helper.zip"]
 incompatibleResourcePacks:["cherishedworlds","jade","jei","modernfix","spark","tweakeroo","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us
