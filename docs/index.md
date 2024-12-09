@@ -4,7 +4,7 @@ Welcome to the official documentation for **CoreOptimized**! This project is a p
 
 CoreOptimized is built with performance and quality in mind, ensuring that your gameplay is smooth and enjoyable. This documentation will help you understand how to install, configure, and make the most out of CoreOptimized.
 
-List of Mods: [Click Her](mods.md)
+List of Mods: [Click Here](mods.md)
 
 ## Key Features
 
