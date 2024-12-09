@@ -1,5 +1,4 @@
 *.mrpack
-*.zip
 test
 venv
 .vscode
