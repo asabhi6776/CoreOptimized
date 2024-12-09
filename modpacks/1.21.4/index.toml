@@ -21,6 +21,10 @@ file = "config/entity_texture_features.json"
 hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
 
 [[files]]
+file = "config/freecam.json5"
+hash = "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c"
+
+[[files]]
 file = "config/iris.properties"
 hash = "8300f5b5ded911ef87793040bb91ea43b3624c2c4b30c7432049172fa57a273f"
 
