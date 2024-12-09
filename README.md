@@ -19,7 +19,7 @@ Soon I will be updating wiki page with detailed documentation.
 ## Roadmap
 
 - Soon this modpack will be listed in Curseforge and Other platforms.
-- Wiki page is in queue.
+- Wiki page is live [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
 - Sharing discord server link very soon.
 
 
