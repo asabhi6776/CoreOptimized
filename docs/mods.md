@@ -26,15 +26,15 @@
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ❌     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
-| Even Better Enchants                   | ✅     | ❌     | ❌     | ❌     |
+| Even Better Enchants                   | ✅     | ❌     | ❌     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
 | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
 | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
-| Fast Better Grass                      | ❌     | ✅     | ✅     | ❌     |
+| Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ❌     | ✅     |
-| Flashback                               | ❌     | ❌     | ✅     | ❌     |
+| Flashback                               | ❌     | ❌     | ✅     | ✅     |
 | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ❌     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ❌     | ❌     |
@@ -54,8 +54,9 @@
 | ModernFix                               | ✅     | ❌     | ❌     | ❌     |
 | More Chat History                       | ✅     | ❌     | ❌     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
+| Mouse Tweaks                            | ❌     | ❌     | ❌     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
-| Not Enough Animations                  | ❌     | ❌     | ✅     | ❌     |
+| Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ❌     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ❌     |
@@ -65,7 +66,7 @@
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
 | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ❌     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
-| Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ❌     |
+| Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     |
 | Sodium Extra                           | ✅     | ✅     | ✅     | ✅     |

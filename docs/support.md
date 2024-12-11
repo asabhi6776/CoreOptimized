@@ -24,7 +24,7 @@ Welcome to the support page for **CoreOptimized**! If you encounter any issues o
 If the above solutions do not solve your problem, feel free to open an issue on our [GitHub repository](https://github.com/asabhi6776/CoreOptimized/issues). Please include as much information as possible, such as error messages, logs, and steps to reproduce the issue.
 
 ### Community Support
-Join our community on [Discord](https://discord.gg/example-link) to get help from other players and developers. This is a great place to ask questions, report issues, and share your experiences.
+Join our community on [Discord](https://discord.gg/qWc7c6tZPP) to get help from other players and developers. This is a great place to ask questions, report issues, and share your experiences.
 
 ### FAQ
 Visit the [FAQ](faq.md) page for answers to frequently asked questions about CoreOptimized.
