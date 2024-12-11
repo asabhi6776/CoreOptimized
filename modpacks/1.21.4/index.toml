@@ -129,6 +129,11 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
+file = "mods/flashback.pw.toml"
+hash = "dd52277af430e7ed5df5b3c2ca4e1e4cc2aa4875bb58f80fe5ec956373567a8c"
+metafile = true
+
+[[files]]
 file = "mods/freecam.pw.toml"
 hash = "09bcf1e1abce352091c58d70abc50c413fc10dbd7ddf68910118b259b5dc2478"
 metafile = true
@@ -184,8 +189,18 @@ hash = "e98ab94b7a9717621219a085416783de75c84aecdab6eae5413143bfab874639"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "95ff1073b74b23e62cae94569ffb63e6e2f244d99a6d1a38c4a26bdd183a64eb"
+metafile = true
+
+[[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
 metafile = true
 
 [[files]]
@@ -211,6 +226,11 @@ metafile = true
 [[files]]
 file = "mods/respackopts.pw.toml"
 hash = "302f26267d2e1f53ce9a241b8748b57e817da90a3e3de65f9e62a9d80ef07c81"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "a62b74c73c0d2d2da641462d462c4ce920829eedc0b3a56caaea171f800ca10c"
 metafile = true
 
 [[files]]
@@ -255,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "af20b2c319eadcc9175252bf167d62e5e34f1ec48bf8794e948fe2bdc0db2282"
+hash = "7bf535a288ef905f5f070a1e284534e68d41c78d3f5db169bd2dbad60d4b3272"
 
 [[files]]
 file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"
@@ -264,6 +284,16 @@ hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 [[files]]
 file = "resourcepacks/chat-reporting-helper.pw.toml"
 hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
+metafile = true
+
+[[files]]
+file = "resourcepacks/even-better-enchants.pw.toml"
+hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fast-better-grass.pw.toml"
+hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
 
 [[files]]

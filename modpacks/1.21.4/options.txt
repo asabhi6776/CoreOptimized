@@ -51,7 +51,7 @@ mouseSensitivity:0.5
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.7.zip","file/Chat Reporting Helper.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.4.7.zip","file/Chat Reporting Helper.zip","file/EvenBetterEnchants_v2_r1.zip","file/Fast Better Grass.zip"]
 incompatibleResourcePacks:["cherishedworlds","jade","jei","modernfix","spark","tweakeroo","worldedit","xaerominimap","xaeroworldmap","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us

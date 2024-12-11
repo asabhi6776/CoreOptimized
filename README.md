@@ -3,27 +3,30 @@
 A Vanilla like modpack which focus on Performance optimization and QoL changes.
 
 
-## Installation
+## Installation:
 
-As of now modpack is only available in Modrinth platform. You can use ATLauncher, Prisma or Modrinth launcher and search for CoreOptimized.
+As of now modpack is only available in Modrinth platform. You can use ATLauncher, Prism or Modrinth launcher and search for CoreOptimized.
 
 Soon I will be updating wiki page with detailed documentation.
     
-## Included Mods
+## Included Mods:
 
  - Resource Pack
  - Shaderpack
  - Performance and QoL mods
 
+## Recently Added:
 
-## Roadmap
+- Wiki page is live [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
+- Discord Server is also Live [Discord](https://discord.gg/qWc7c6tZPP)
+- The licensing has been changed to MIT to provide greater freedom to the community.
+
+## Roadmap:
 
 - Soon this modpack will be listed in Curseforge and Other platforms.
-- Wiki page is live [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
-- Sharing discord server link very soon.
 
 
-## Contributing
+## Contributing:
 
 Contributions are always welcome!
 
@@ -39,5 +42,5 @@ Please adhere to this project's `code of conduct`.
 
 ## License
 
-BSD-3-Clause
+[MIT](LICENSE)
 
