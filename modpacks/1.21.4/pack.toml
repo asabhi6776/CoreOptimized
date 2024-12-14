@@ -1,12 +1,12 @@
 name = "CoreOptimized"
 author = "SniperXJohn"
-version = "1.1.1-beta"
+version = "1.1.2-beta"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "444e705c9afb1bd15b8428c054f22aaccd2996cd8eeda625bbb5a4d6f1075098"
+hash = "045831e9d70a16492cd25c8d16460866eebbdd6733eb2a35bb03e4d12dc90dde"
 
 [versions]
 fabric = "0.16.9"
