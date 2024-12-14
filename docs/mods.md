@@ -8,7 +8,8 @@
 | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ❌     | ❌     |
-| Better Mount HUD                        | ✅     | ❌     | ❌     | ❌     |
+| Better Clouds                        | ❌     | ❌     | ❌     | ✅     |
+| Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
 | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
