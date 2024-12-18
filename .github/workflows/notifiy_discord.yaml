@@ -1,0 +1,35 @@
+
+name: Notify Discord on Release
+on:
+  release:
+    types:
+      - published
+jobs:
+  notify-discord:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send Discord Message
+        env:
+          WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          RELEASE_TAG: ${{ github.event.release.tag_name }}
+          RELEASE_NAME: ${{ github.event.release.name }}
+          RELEASE_BODY: ${{ github.event.release.body }}
+        run: |
+          payload=$(jq -n \
+            --arg tag "$RELEASE_TAG" \
+            --arg name "$RELEASE_NAME" \
+            --arg body "$RELEASE_BODY" \
+            '{
+              "content": "**New Release Published!**",
+              "embeds": [{
+                "title": "Release Details",
+                "fields": [
+                  {"name": "Tag", "value": $tag, "inline": true},
+                  {"name": "Name", "value": $name, "inline": true}
+                ],
+                "description": ($body + "\n\n[Modrinth](https://modrinth.com/modpack/core-optimized-by-sniperxjohn) | [CurseForge (Coming Soon)]") 
+              }]
+            }')
+          
+          # Send the payload to Discord
+          curl -X POST -H "Content-Type: application/json" -d "$payload" "$WEBHOOK_URL"
