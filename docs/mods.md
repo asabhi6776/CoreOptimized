@@ -21,7 +21,7 @@
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ❌     | ❌     |
 | Cubes Without Borders                  | ❌     | ❌     | ❌     | ✅     |
-| Debugify                                | ✅     | ❌     | ✅     | ❌     |
+| Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
 | Dynamic Lights                          | ✅     | ❌     | ❌     | ❌     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
@@ -60,12 +60,12 @@
 | Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ❌     |
-| Presence Footsteps                     | ✅     | ❌     | ✅     | ❌     |
+| Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ❌     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
-| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ❌     |
+| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ✅     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |

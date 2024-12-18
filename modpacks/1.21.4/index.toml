@@ -49,6 +49,11 @@ file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
+metafile = true
+
+[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "50395d63fd0f6fb03711f073061cb4f8f230e75af9bd48f306e46b80b62bb77a"
 metafile = true
@@ -104,13 +109,18 @@ hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
 
 [[files]]
+file = "mods/debugify.pw.toml"
+hash = "3e9322e16b6bb4db8237bfbd8e648d514dc17a9e130550c21c39f3e895ce24e9"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "27e3795b88083b8740336158d5b29f19b010d7ba44e1afbd01a6288ecdeb364e"
+hash = "cde649248ca5d9b791fcf10bb45cc1cfbed6b626963839377dcf8ea6c14fd01d"
 metafile = true
 
 [[files]]
@@ -125,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "bae6c7361d1a1dd2ff099c563226526fd86069d68f6bb242bbae1a610a173204"
+hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
 metafile = true
 
 [[files]]
@@ -160,7 +170,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "dfaaf00b15443f4ffe5aae92e6cbee259a4686921a8f512a2d40d504996bb584"
+hash = "9cc22885c02127ac110f7d519eb4f43710e62ab6b32e4fe8d2257dce01c2e612"
 metafile = true
 
 [[files]]
@@ -195,7 +205,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "5b1bc48f697f738fbc8c29a2735f5ee415d37c72a50783ce73e11c04087aa08e"
+hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
 metafile = true
 
 [[files]]
@@ -224,6 +234,11 @@ hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "7c3b837a412d70d43414a5b296340dce9ebf97de84cc5c898c5d744ecc323b0b"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "bedeab81b949543d6e5ba34a496f63543cdcbc33982a44794fc14de48eec5b8b"
 metafile = true
@@ -231,6 +246,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "fd9f9969ca944b96b307ec7ab7750375420e99da3da22b1dd9b2ac525390f248"
 metafile = true
 
 [[files]]
@@ -255,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "ce3c7625502d2e0cf4dccf1685006d47a1f59cabf0b33e08fb7623edcd357bde"
+hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
 metafile = true
 
 [[files]]
@@ -265,7 +285,7 @@ metafile = true
 
 [[files]]
 file = "mods/tcdcommons.pw.toml"
-hash = "82f38a418e9d23011ce3ac428682752b4b3148c5fcf167d79303480cef83babb"
+hash = "8559edeaf210c9a83de3dc51b6041ce3ad27368ffb6a81fd6f39d7a9334198f2"
 metafile = true
 
 [[files]]
