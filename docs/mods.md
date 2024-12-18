@@ -7,38 +7,38 @@
 | Animatica                               | ✅     | ❌     | ❌     | ❌     |
 | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
-| Better Advancements                     | ✅     | ❌     | ❌     | ❌     |
-| Better Clouds                        | ❌     | ❌     | ❌     | ✅     |
+| Better Advancements                     | ✅     | ❌     | ✅     | ❌     |
+| Better Clouds                        | ❌     | ❌     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
 | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
-| Carpet                                  | ✅     | ✅     | ❌     | ❌     |
-| Chat Animation [Smooth Chat]           | ❌     | ❌     | ❌     | ✅     |
+| Carpet                                  | ✅     | ✅     | ✅     | ❌     |
+| Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
 | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
-| Continuity                              | ✅     | ❌     | ❌     | ❌     |
-| Cubes Without Borders                  | ❌     | ❌     | ❌     | ✅     |
+| Continuity                              | ✅     | ❌     | ✅     | ❌     |
+| Cubes Without Borders                  | ❌     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
 | Dynamic Lights                          | ✅     | ❌     | ❌     | ❌     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ❌     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
-| Even Better Enchants                   | ✅     | ❌     | ❌     | ✅     |
+| Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
 | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
 | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
 | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
-| FerriteCore                             | ✅     | ❌     | ❌     | ✅     |
+| FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
 | Flashback                               | ❌     | ❌     | ✅     | ✅     |
 | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
-| Fresh Animations                        | ✅     | ❌     | ❌     | ❌     |
-| Held Item Info                          | ✅     | ✅     | ❌     | ❌     |
+| Fresh Animations                        | ✅     | ❌     | ✅     | ❌     |
+| Held Item Info                          | ✅     | ✅     | ✅     | ❌     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Indium                                  | ✅     | ❌     | ❌     | ❌     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
@@ -51,17 +51,17 @@
 | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
 | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     |
-| Model Gap Fix                           | ✅     | ❌     | ❌     | ✅     |
+| Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     |
 | ModernFix                               | ✅     | ❌     | ❌     | ❌     |
-| More Chat History                       | ✅     | ❌     | ❌     | ✅     |
+| More Chat History                       | ✅     | ❌     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
-| Mouse Tweaks                            | ❌     | ❌     | ❌     | ✅     |
+| Mouse Tweaks                            | ❌     | ❌     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ❌     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     |
-| Puzzle                                  | ✅     | ❌     | ❌     | ✅     |
+| Puzzle                                  | ✅     | ❌     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
