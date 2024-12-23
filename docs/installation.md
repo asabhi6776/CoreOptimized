@@ -47,3 +47,40 @@ To install CoreOptimized using Prism Launcher, follow these steps:
    - Done you are good to go.
 
 That's it! You are now ready to enjoy CoreOptimized with Prism Launcher
+
+## Modrinth App
+
+Follow these simple steps to get started with the Core Optimized modpack using Modrinth:
+
+### 1. Download Modrinth
+   - If you haven't installed Modrinth yet, [click here](https://modrinth.com/app) to download it.
+
+### 2. Install Modrinth
+   - Double-click the downloaded file and follow the on-screen instructions to install Modrinth on your system.
+
+### 3. Launch the Modrinth App
+   - Once the installation is complete, open the Modrinth application.
+
+### 4. Search for Core Optimized
+   - Click on the search icon on the left-hand side of the app.
+   - In the search bar, type Core Optimized.
+
+### 5. Install the Modpack
+   - When Core Optimized appears in the search results, click the Install button.
+
+### 6. Wait for Installation
+   - Let the installation process complete. It may take a few moments.
+
+### 7. Start the Modpack
+
+   - Click the home icon in the app.
+   - Hover over the Core Optimized modpack icon.
+   - Click the Play button.
+### 8. Sign in with Your Minecraft Account
+   - If you're not already signed in, the app will prompt you to log in with your Minecraft account.
+
+### 9. Enjoy the Modpack!
+   - You're all set! Dive into Minecraft and enjoy your new Core Optimized experience.
+
+!!! danger "Important Note"
+      We do not support or endorse the use of cracked versions of Minecraft. Please ensure that you purchase a licensed copy of Minecraft to enjoy the game legally and ethically.
