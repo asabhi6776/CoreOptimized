@@ -49,11 +49,6 @@ file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "c517eccd62ae7e0b30463a781f243fa608ace64f8734862e8813fc6082e7c337"
-metafile = true
-
-[[files]]
 file = "mods/armor-poser.pw.toml"
 hash = "911c0db634da75a850be06938871c10b6c20fa7a176ec7bd7e417ebe497b284e"
 metafile = true
@@ -286,11 +281,6 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "2912afb1010c3ca055faa50056ce2adf233923bb6330e0802b7f552b1fadfc6c"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "833a93b83630904a6b24dc73776b02b3bfe08b42c02b211ac3f5bcae57032dc3"
 metafile = true
 
 [[files]]

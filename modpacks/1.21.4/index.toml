@@ -13,6 +13,10 @@ file = "config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
 
 [[files]]
+file = "config/debugify.json"
+hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
 
@@ -47,11 +51,6 @@ hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
-
-[[files]]
-file = "mods/architectury-api.pw.toml"
-hash = "126a1b72c154478d7d18d733fcc5e79bae93df7e37ee3f0b6e00db1b1ea66ac5"
-metafile = true
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
@@ -234,6 +233,11 @@ hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "3ac1a3edd5883b50c82a58dc18f4f3d1b774a5621443c947ac9d178871182e1c"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "7c3b837a412d70d43414a5b296340dce9ebf97de84cc5c898c5d744ecc323b0b"
 metafile = true
@@ -246,11 +250,6 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
-metafile = true
-
-[[files]]
-file = "mods/rei.pw.toml"
-hash = "fd9f9969ca944b96b307ec7ab7750375420e99da3da22b1dd9b2ac525390f248"
 metafile = true
 
 [[files]]
@@ -276,6 +275,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "735fda3406823ac4001cd2ff295c6197aed8d3804252c8e5e763456d634762c4"
 metafile = true
 
 [[files]]
@@ -305,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "7bf535a288ef905f5f070a1e284534e68d41c78d3f5db169bd2dbad60d4b3272"
+hash = "25d00bf8e1fd19cc231a899215aac8d2e73779f2a66207b59969e11e184529a7"
 
 [[files]]
 file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"
@@ -324,6 +328,11 @@ metafile = true
 [[files]]
 file = "resourcepacks/fast-better-grass.pw.toml"
 hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
+metafile = true
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "8a9f38930714c828285ac7c422302380d939d80384a90ed1148d6d26e8863870"
 metafile = true
 
 [[files]]
