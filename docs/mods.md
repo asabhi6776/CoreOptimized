@@ -59,13 +59,13 @@
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
-| Polytone                                | ✅     | ❌     | ✅     | ❌     |
+| Polytone                                | ✅     | ❌     | ✅     | ✅     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
-| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ✅     |
+| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ❌     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
