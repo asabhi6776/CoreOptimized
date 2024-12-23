@@ -23,7 +23,7 @@
 | Cubes Without Borders                  | ❌     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
-| Dynamic Lights                          | ✅     | ❌     | ❌     | ❌     |
+| Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ❌     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
@@ -43,10 +43,10 @@
 | Indium                                  | ✅     | ❌     | ❌     | ❌     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
-| Just Enough Items                      | ✅     | ❌     | ❌     | ❌     |
+| Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
-| Litematica                              | ✅     | ✅     | ✅     | ❌     |
+| Litematica                              | ✅     | ✅     | ✅     | 🛑     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     |
 | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
 | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
@@ -65,7 +65,7 @@
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
-| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | ❌     |
+| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
@@ -77,7 +77,7 @@
 | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ❌     |
-| WorldEdit                              | ✅     | ❌     | ✅     | ❌     |
+| WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     |
 | Your Options Shall Be Respected (YOSBR)| ✅     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     |
