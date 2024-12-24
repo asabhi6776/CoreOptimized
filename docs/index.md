@@ -1,4 +1,4 @@
-# CoreOptimized
+# **CoreOptimized**
 
 Welcome to the official documentation for **CoreOptimized**! This project is a performance-optimized modpack that provides a great gaming experience, focusing on efficient resource usage and Quality of Life (QoL) enhancements. Whether you're a player looking for a smoother Minecraft experience or you're just curious about how CoreOptimized works, you've come to the right place.
 
@@ -17,7 +17,7 @@ To get started, head over to the [Installation Guide](installation.md) to learn 
 
 ## Contributing
 
-CoreOptimized is an open-source project, and we welcome contributions! Check out our [Contributing Guide](contributing.md) to find out how you can help improve CoreOptimized.
+CoreOptimized is an open-source project, and we welcome contributions! Check out our [Contributing Guide](https://github.com/asabhi6776/CoreOptimized/blob/master/CONTRIBUTING.md) to find out how you can help improve CoreOptimized.
 
 ## Need Help?
 
