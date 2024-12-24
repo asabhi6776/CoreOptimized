@@ -82,5 +82,5 @@ Follow these simple steps to get started with the Core Optimized modpack using M
 ### 9. Enjoy the Modpack!
    - You're all set! Dive into Minecraft and enjoy your new Core Optimized experience.
 
-!!! danger "Important Note"
+!!! failure "Important Note"
       We do not support or endorse the use of cracked versions of Minecraft. Please ensure that you purchase a licensed copy of Minecraft to enjoy the game legally and ethically.
