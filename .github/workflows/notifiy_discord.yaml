@@ -27,7 +27,7 @@ jobs:
                   {"name": "Tag", "value": $tag, "inline": true},
                   {"name": "Name", "value": $name, "inline": true}
                 ],
-                "description": ($body + "\n\n[Modrinth](https://modrinth.com/modpack/core-optimized-by-sniperxjohn) | [CurseForge (Coming Soon)]") 
+                "description": ($body + "\n\n[Modrinth](https://modrinth.com/modpack/core-optimized-by-sniperxjohn) | [CurseForge](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)") 
               }]
             }')
           

@@ -25,12 +25,8 @@ file = "config/entity_texture_features.json"
 hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
 
 [[files]]
-file = "config/freecam.json5"
-hash = "442d3c73c8d0c64a2445ef0c31b618db0034a2f452bf15751ec337287f34ef0c"
-
-[[files]]
 file = "config/iris.properties"
-hash = "fe046276f71920659684558ad6e70b811592985dd78c7676d9ccfe17ad6de003"
+hash = "3ff7b84a7597797fc4069b488090b53b94b195685748c5ee3cac01b0ce951b97"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -63,8 +59,13 @@ hash = "a4c689aa5d767abf6296280862d03b005958463fee3d4b331173277bee8fbf2c"
 metafile = true
 
 [[files]]
+file = "mods/better-advancements.pw.toml"
+hash = "136bc981dbdb4f4f180a9c96282ca9ddd939e01346dfc48ac59438739342c954"
+metafile = true
+
+[[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "186823ec56de2ae6dc4e087625cba5866ebeeb133b586c64562f4f725925f07a"
+hash = "e52475b6187ca83bd5a23d5891ebdd7ce974eda6f92b4e893be1f6f177273d52"
 metafile = true
 
 [[files]]
@@ -103,6 +104,11 @@ hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "7986f751d84536043edd1e67178554f6d4c3f01409feae6c151afa7854db5fa2"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "f32c30de1ae7dbeeae00b654eb15ea358c6d26f631dc292bdb88dba9c30a8cc8"
 metafile = true
@@ -134,7 +140,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "099583c94720ec8089dd1a4fdbe9c475ed0764dcbba904e04dc2459089077783"
+hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
 metafile = true
 
 [[files]]
@@ -148,28 +154,18 @@ hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
 metafile = true
 
 [[files]]
-file = "mods/flashback.pw.toml"
-hash = "dd52277af430e7ed5df5b3c2ca4e1e4cc2aa4875bb58f80fe5ec956373567a8c"
-metafile = true
-
-[[files]]
-file = "mods/freecam.pw.toml"
-hash = "09bcf1e1abce352091c58d70abc50c413fc10dbd7ddf68910118b259b5dc2478"
-metafile = true
-
-[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
 metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "3f032ca0324e6d7cc2126a05e812487f14d7ebd911ff15f510386b94481630c9"
+hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "9cc22885c02127ac110f7d519eb4f43710e62ab6b32e4fe8d2257dce01c2e612"
+hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
 metafile = true
 
 [[files]]
@@ -190,6 +186,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
 metafile = true
 
 [[files]]
@@ -219,7 +220,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "e9066859b6107a8587ec888d859da65a68deb706e1b3c183cccef75c267f43d7"
+hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
 metafile = true
 
 [[files]]
@@ -234,7 +235,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "3ac1a3edd5883b50c82a58dc18f4f3d1b774a5621443c947ac9d178871182e1c"
+hash = "95fb2702c76c1dee3e37b534c196f9184f320e99260f9990689374a7f073214e"
 metafile = true
 
 [[files]]
@@ -249,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "8d9736922772c3affc0a6845bf4ece656e3d7c576dfc3ecab2283b4b9717a290"
+hash = "354ca35e2a2990c6990b3a2c6e00b6843f494bcf274db799e6a4c176a555b92d"
 metafile = true
 
 [[files]]
@@ -264,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4ee204932077b04537814313c3dd4ed82fe2e8bf4b2dbb3fbcee7109852e1375"
+hash = "45da1c92a92078a5d35ce8e043484b7464836e6627beaaac70f21dc3fc1bf648"
 metafile = true
 
 [[files]]
@@ -274,7 +275,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "9e86081bcaf8e26343f5d3a70549abd5130788dca766cea9bb8bdd47f1d65ed6"
+hash = "e0e1e55bfd57838d03dbcd49d3e056352db0284b15e45210205c5d85f83b76d4"
 metafile = true
 
 [[files]]
@@ -341,10 +342,10 @@ hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
 metafile = true
 
 [[files]]
-file = "shaderpacks/BSL_v8.4.01.1.zip.txt"
+file = "shaderpacks/BSL_v8.4.01.2.zip.txt"
 hash = "94ae2e4eb915684787e7f3e6e723d7b4d5d4df666de3aec2319cec291ce26637"
 
 [[files]]
 file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "46037f073fefae9557af4e7130777d4fae8f3ee76a1e46ef6cd677d2eb79cda5"
+hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
 metafile = true

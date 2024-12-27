@@ -7,23 +7,21 @@
 | Animatica                               | ✅     | ❌     | ❌     | ❌     |
 | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
-| Better Advancements                     | ✅     | ❌     | ✅     | ❌     |
+| Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
 | Better Clouds                        | ❌     | ❌     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
 | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
-| Carpet                                  | ✅     | ✅     | ✅     | ❌     |
 | Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
 | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
-| Continuity                              | ✅     | ❌     | ✅     | ❌     |
+| Continuity                              | ✅     | ❌     | ✅     | ✅     |
 | Cubes Without Borders                  | ❌     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
-| Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ❌     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
@@ -35,24 +33,17 @@
 | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
-| Flashback                               | ❌     | ❌     | ✅     | ✅     |
-| Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
-| Fresh Animations                        | ✅     | ❌     | ✅     | ❌     |
+| Fresh Animations                        | ✅     | ❌     | ✅     | ✅     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ❌     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
-| Indium                                  | ✅     | ❌     | ❌     | ❌     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
-| Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
-| Litematica                              | ✅     | ✅     | ✅     | 🛑     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     |
-| MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
-| MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     |
 | Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     |
-| ModernFix                               | ✅     | ❌     | ❌     | ❌     |
+| ModernFix                               | ✅     | ❌     | ❌     | ✅     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                            | ❌     | ❌     | ✅     | ✅     |
@@ -65,7 +56,6 @@
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
-| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
@@ -74,10 +64,29 @@
 | spark                                  | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     |
-| Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ❌     |
-| WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     |
 | Your Options Shall Be Respected (YOSBR)| ✅     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     |
+
+## Discontinued Mods
+
+| Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
+|-----------------------------------------|--------|--------|--------|--------|
+| Carpet                                  | ✅     | ✅     | ✅     | ❌     |
+| Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+| Flashback                               | ❌     | ❌     | ✅     | ✅     |
+| Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
+| Indium                                  | ✅     | ❌     | ❌     | ❌     |
+| Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
+| Litematica                              | ✅     | ✅     | ✅     | 🛑     |
+| MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
+| MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
+| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
+| Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
+| WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
+
+
+!!! warning "Discontinuation Warning"
+    We have removed these mods from the modpack to ensure that players can join any multiplayer server without issues. Based on feedback from our beta testers, several servers do not allow or support the aforementioned mods. We appreciate your understanding as we strive to maintain broad compatibility and improve the overall gameplay experience.
