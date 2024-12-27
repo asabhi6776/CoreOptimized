@@ -2,3 +2,4 @@
 test
 venv
 .vscode
+*.zip
