@@ -34,7 +34,7 @@
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     |
-| Held Item Info                          | ✅     | ✅     | ✅     | ❌     |
+| Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
@@ -65,7 +65,7 @@
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     |
-| World Play Time                        | ✅     | ✅     | ✅     | ❌     |
+| World Play Time                        | ✅     | ✅     | ✅     | ✅     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     |
 | Your Options Shall Be Respected (YOSBR)| ✅     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     |
