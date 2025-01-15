@@ -82,5 +82,41 @@ Follow these simple steps to get started with the Core Optimized modpack using M
 ### 9. Enjoy the Modpack!
    - You're all set! Dive into Minecraft and enjoy your new Core Optimized experience.
 
+## MultiMC
+
+Follow this step-by-step guide to download, install, and play the **Core Optimized** modpack using MultiMC.
+
+
+### 1. Download MultiMC
+ - Download MultiMC if it's not already installed on your PC by [clicking here](https://multimc.org/#Download).
+
+### 2. Install MultiMC
+ - MultiMC does not require installation. Simply:
+      -  Extract the downloaded source file.
+      - Open `MultiMC.exe`.
+      - Set your preferred language.
+      - Select the correct version of Java for Minecraft.
+
+### 3. Search and Install the Modpack
+   - Open MultiMC and click on **Add Instance** on the top bar.
+   - In the **New Instance Wizard**, click on the **Modrinth** icon in the sidebar.
+   - Search for **Core Optimized**.
+   - Click on the first result and then click **OK**.
+
+### 4. Wait for Installation
+ - Let the modpack install. MultiMC will automatically download all the required mods. Once complete, you will see the modpack listed on the homepage.
+
+### 5. Start the Modpack
+ - Double-click the **Core Optimized** icon on the MultiMC homepage. This will launch the modpack.
+
+### 6. Sign In with Your Minecraft Account
+ - If you are not already signed in, MultiMC will prompt you to log in with your Minecraft account.
+
+### 7. **Enjoy the Modpack!**
+ - You're all set! Dive into Minecraft and enjoy your new **Core Optimized** experience.
+
+---
+
+
 !!! failure "Important Note"
       We do not support or endorse the use of cracked versions of Minecraft. Please ensure that you purchase a licensed copy of Minecraft to enjoy the game legally and ethically.
