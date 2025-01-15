@@ -29,6 +29,10 @@ file = "config/iris.properties"
 hash = "3ff7b84a7597797fc4069b488090b53b94b195685748c5ee3cac01b0ce951b97"
 
 [[files]]
+file = "config/isxander-main-menu-credits.json"
+hash = "f312ca595fae3ba8c4a0ab8aaf5a3e1a25668dda2f057cb892f3f36eb41a39e7"
+
+[[files]]
 file = "config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
@@ -50,12 +54,12 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "mods/armor-poser.pw.toml"
-hash = "50395d63fd0f6fb03711f073061cb4f8f230e75af9bd48f306e46b80b62bb77a"
+hash = "a6d3948c701ecaf43717a3fc304d9f12b62ae364b838626f36091d349bba470b"
 metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "a4c689aa5d767abf6296280862d03b005958463fee3d4b331173277bee8fbf2c"
+hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
 
 [[files]]
@@ -75,12 +79,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1fcc771366f6bf06deb079e6ae76fcee6500eedd38955a4959dc138a80a2a3da"
+hash = "73e0cb72af02c0399c345df40ba0d856fa8fb1adc9b6fcbdd2c54f614fdbdab4"
 metafile = true
 
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "cbc0973dadd8e4a191ce8e819f212bcfb58708885b4a46a9de7afa29e71aadad"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "3abafd7524e53c4c2fb25e2812f1a6f44150dba9667f5e8d68b2aa5e65d5f46e"
 metafile = true
 
 [[files]]
@@ -135,12 +144,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "0f63df0b45aa0c992668d92019caaf050b742b23705c05046ce173697d009eec"
+hash = "187026fe5d603008a4b30559103487f0ebf08682bf3e470ab743227f5265a422"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "722f5b9319e99e1842346afad18e52586c5ec0ff16785a07fe384654b2b5dcf0"
+hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
 metafile = true
 
 [[files]]
@@ -169,8 +178,13 @@ hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
 
 [[files]]
+file = "mods/item-scroller.pw.toml"
+hash = "593abfee26c3b8b773331bbcefd55a6e103054ac8f5ba1d415ea5ac25b718368"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
-hash = "127d7a682272ce34d92d7df93b7e495b744a967d894e52d1c59227e96319a95b"
+hash = "31ace44873127d8fcf90009159895ff9e8bb1c921638c2829ecc159c19e74f3a"
 metafile = true
 
 [[files]]
@@ -189,18 +203,28 @@ hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
 metafile = true
 
 [[files]]
+file = "mods/main-menu-credits.pw.toml"
+hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/malilib.pw.toml"
+hash = "13f4a38022d7e100dc13b05b0513b6693f2de8a5d8a8ee6d40d8099981c4a929"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "78946e7851174a7462125185cb6306f5bac4fe5b90a3f4396cd8a79d56084661"
 metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "1f1f933b88a8c5ff9a2311607a54d90170b1484ab7ab6f4341e0c3423b2c613e"
+hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "73690bd10798a8d38fbd2001b083cbe09c57997c81945ec545f3c572b2441799"
+hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
 metafile = true
 
 [[files]]
@@ -210,12 +234,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "8cd7ef0e7719d1e7edc6d68a3723ccb13a0b6adcf5fc38346692f725396484b5"
-metafile = true
-
-[[files]]
-file = "mods/mouse-tweaks.pw.toml"
-hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
 metafile = true
 
 [[files]]
@@ -240,7 +259,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "95fb2702c76c1dee3e37b534c196f9184f320e99260f9990689374a7f073214e"
+hash = "90b2c0e8794bdb55fe220160c69248bf7ff68450f98d81d2436cbf2fb94df19b"
 metafile = true
 
 [[files]]
@@ -320,7 +339,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "25d00bf8e1fd19cc231a899215aac8d2e73779f2a66207b59969e11e184529a7"
+hash = "d4d926d2bfc41259fbb9703df0064376b47ccf76118e8ba3107cc31b0f68a43d"
 
 [[files]]
 file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"
@@ -334,11 +353,6 @@ metafile = true
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
-metafile = true
-
-[[files]]
-file = "resourcepacks/fast-better-grass.pw.toml"
-hash = "8c602ce7585fa682923bd847fb5b6dfa560ce80ba7a7879007809bb4db4b740a"
 metafile = true
 
 [[files]]
