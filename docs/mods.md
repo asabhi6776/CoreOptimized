@@ -12,6 +12,7 @@
 | Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
+| BetterGrassify                          | ❌     | ❌     | ❌     | ✅     |
 | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
@@ -30,13 +31,13 @@
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
 | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
 | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
-| Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
+| Item Scroller                            | ❌     | ❌     | ❌     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
@@ -46,7 +47,6 @@
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
-| Mouse Tweaks                            | ❌     | ❌     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
@@ -76,6 +76,7 @@
 |-----------------------------------------|--------|--------|--------|--------|
 | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
 | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+| Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | Flashback                               | ❌     | ❌     | ✅     | ✅     |
 | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
 | Indium                                  | ✅     | ❌     | ❌     | ❌     |
@@ -83,6 +84,7 @@
 | Litematica                              | ✅     | ✅     | ✅     | 🛑     |
 | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
 | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
+| Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     |
 | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
 | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
 | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
