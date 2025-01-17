@@ -12,7 +12,7 @@
 | Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
-| BetterGrassify                          | ❌     | ❌     | ❌     | ✅     |
+| BetterGrassify                          | ❌     | ❌     | ✅     | ✅     |
 | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
@@ -37,7 +37,7 @@
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
-| Item Scroller                            | ❌     | ❌     | ❌     | ✅     |
+| Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
@@ -61,6 +61,7 @@
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     |
 | Sodium Extra                           | ✅     | ✅     | ✅     | ✅     |
+| Sound Physics Remastered                           | ❌     | ❌     | ✅     | ✅     |
 | spark                                  | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     |
