@@ -12,7 +12,6 @@ For detailed instruction please visit our Wiki page by [clicking here](https://c
 ## Included Mods:
 
  - Resource Pack
- - Shaderpack
  - Performance and QoL mods
 
 ## Recently Added:

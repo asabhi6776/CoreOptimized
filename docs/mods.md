@@ -12,11 +12,9 @@
 | Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
-| BetterGrassify                          | ❌     | ❌     | ❌     | ✅     |
-| BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
+| BetterGrassify                          | ❌     | ❌     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
-| Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     |
@@ -24,7 +22,7 @@
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
-| Enhanced Block Entities                | ✅     | ❌     | ❌     | ❌     |
+| Enhanced Block Entities                | ✅     | ❌     | ❌     | ✅     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
 | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
@@ -37,7 +35,7 @@
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
-| Item Scroller                            | ❌     | ❌     | ❌     | ✅     |
+| Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
@@ -61,6 +59,7 @@
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     |
 | Sodium Extra                           | ✅     | ✅     | ✅     | ✅     |
+| Sound Physics Remastered                           | ❌     | ❌     | ✅     | ✅     |
 | spark                                  | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     |
@@ -74,7 +73,9 @@
 
 | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
 |-----------------------------------------|--------|--------|--------|--------|
+| BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
 | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
+| Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
 | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
 | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | Flashback                               | ❌     | ❌     | ✅     | ✅     |
