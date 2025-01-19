@@ -3,7 +3,7 @@
     "version": "1.21.3",
     "modLoaders": [
       {
-        "id": "fabric-0.16.9",
+        "id": "fabric-0.16.10",
         "primary": true
       }
     ]
@@ -156,7 +156,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 6087691,
+      "fileID": 6099717,
       "required": true
     },
     {
@@ -181,7 +181,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 6020013,
+      "fileID": 6100525,
       "required": true
     },
     {
@@ -242,11 +242,6 @@
     {
       "projectID": 968891,
       "fileID": 5863729,
-      "required": true
-    },
-    {
-      "projectID": 855981,
-      "fileID": 5944740,
       "required": true
     },
     {

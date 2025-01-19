@@ -204,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "dd076db8a72c9bd258e8a0f9020dee0ba13a1d276c2f6e3e6403941c7f2af0b1"
+hash = "da82ef9cb9353b9ff2701172e56618a60a357bfee92d1c97a875a5d835a6cdc9"
 metafile = true
 
 [[files]]
@@ -244,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "caf911772fdd930591bac244cd990e0cb9520b7e6484c9f71fcd5c9a20a6aa3c"
+hash = "f90d7ae80a29d0dee810a6c65d09d17c887dc43606dc12532b1e93d344c317ed"
 metafile = true
 
 [[files]]
@@ -329,11 +329,6 @@ hash = "d2fc5f7ea65ed37180a7eb55312cf4d2248d264abff5021fe009a819c73a1668"
 [[files]]
 file = "resourcepacks/Redstone Tweaks 2.4.6.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
-
-[[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
-metafile = true
 
 [[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"

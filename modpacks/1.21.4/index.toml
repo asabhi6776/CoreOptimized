@@ -30,7 +30,7 @@ hash = "3ff7b84a7597797fc4069b488090b53b94b195685748c5ee3cac01b0ce951b97"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f312ca595fae3ba8c4a0ab8aaf5a3e1a25668dda2f057cb892f3f36eb41a39e7"
+hash = "e1bc104abfd23a23aa2b5fadc9de6b824c9af620ea80ce5f1a62ae736d03e942"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -124,12 +124,17 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "3e9322e16b6bb4db8237bfbd8e648d514dc17a9e130550c21c39f3e895ce24e9"
+hash = "f605331d864b266407b9d4486a4355febbc80b5e2e6ef75e4d92d45d2b29bc8f"
 metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "dd20f1974e186aff79bb4a6cd970ddb335201be400914b2790b1056a30a1b60b"
 metafile = true
 
 [[files]]
@@ -199,7 +204,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "b8284c53c59f71991c522d190b4bedb7703a86ba27b900c335f1602aecb1510b"
+hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
 metafile = true
 
 [[files]]
@@ -244,7 +249,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "fcb0df05d20aaabd18d184009b26d34873a402ff4152f8079428d8e5e4921450"
+hash = "d2e8ba48532b0a3bbcaeb92b133a85e30bec4ddadf45b0d6df679375817e10a2"
 metafile = true
 
 [[files]]
@@ -259,7 +264,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "90b2c0e8794bdb55fe220160c69248bf7ff68450f98d81d2436cbf2fb94df19b"
+hash = "504e426cee2a2c29c18c4824512025c2493f384659a903a61d872e9dbe4e5b1d"
 metafile = true
 
 [[files]]
@@ -274,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "354ca35e2a2990c6990b3a2c6e00b6843f494bcf274db799e6a4c176a555b92d"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
@@ -346,11 +351,6 @@ file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
-file = "resourcepacks/chat-reporting-helper.pw.toml"
-hash = "8f3093e175ab439cdf381c7f038510e73a07698cc9e9c7c370cb327bd8bbd3cd"
-metafile = true
-
-[[files]]
 file = "resourcepacks/even-better-enchants.pw.toml"
 hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
 metafile = true
@@ -363,13 +363,4 @@ metafile = true
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
-metafile = true
-
-[[files]]
-file = "shaderpacks/BSL_v8.4.01.2.zip.txt"
-hash = "94ae2e4eb915684787e7f3e6e723d7b4d5d4df666de3aec2319cec291ce26637"
-
-[[files]]
-file = "shaderpacks/bsl-shaders.pw.toml"
-hash = "e805a7cb8f79018d7a53b0ab241a5d3d3dd0a1696ca95dbe9a8c373f811df4e5"
 metafile = true
