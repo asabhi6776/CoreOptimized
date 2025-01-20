@@ -17,6 +17,10 @@ file = "config/debugify.json"
 hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
+file = "config/enhanced_bes.properties"
+hash = "c4096fe50711e7c0ca1329120731fdd799655770d35e8aeb9a767fcc34dff087"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
 
