@@ -13,6 +13,7 @@
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ❌     | ❌     | ✅     | ✅     |
+| Boat Item View                              | ❌     | ❌     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
@@ -33,7 +34,6 @@
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
-| Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
@@ -43,6 +43,7 @@
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
+| Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
@@ -81,11 +82,11 @@
 | Flashback                               | ❌     | ❌     | ✅     | ✅     |
 | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
 | Indium                                  | ✅     | ❌     | ❌     | ❌     |
+| Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
 | Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
 | Litematica                              | ✅     | ✅     | ✅     | 🛑     |
 | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
 | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
-| Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     |
 | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
 | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
 | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |

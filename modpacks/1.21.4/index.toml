@@ -1,14 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/armorposer.toml"
-hash = "53b741c6425191d29b8b124c0b4ec48335889ab5e771a7c9396d9e9e12bc7934"
-
-[[files]]
-file = "config/armorposer/User_poses.json"
-hash = "4c344560b538644b857e90879ce372ed651844e9ff9f25416e3b3dcba8827320"
-
-[[files]]
 file = "config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
 
@@ -30,11 +22,11 @@ hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
 
 [[files]]
 file = "config/iris.properties"
-hash = "3ff7b84a7597797fc4069b488090b53b94b195685748c5ee3cac01b0ce951b97"
+hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e1bc104abfd23a23aa2b5fadc9de6b824c9af620ea80ce5f1a62ae736d03e942"
+hash = "e47051f3bfe9504c22f133b713d4628b1404d452201301d0b6864fa4ad68683d"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -55,11 +47,6 @@ hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
-
-[[files]]
-file = "mods/armor-poser.pw.toml"
-hash = "a6d3948c701ecaf43717a3fc304d9f12b62ae364b838626f36091d349bba470b"
-metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -94,6 +81,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "3abafd7524e53c4c2fb25e2812f1a6f44150dba9667f5e8d68b2aa5e65d5f46e"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "4a5a8a8b564dbf5582a916eb0f7d2e6b1d08b510e0e7a16ffe75a1230e06cc1d"
 metafile = true
 
 [[files]]
@@ -187,11 +179,6 @@ hash = "82e7a1244febc6b4699e17bcee523567efc9c8c005d67057f9c4c40e7fba2a5a"
 metafile = true
 
 [[files]]
-file = "mods/item-scroller.pw.toml"
-hash = "593abfee26c3b8b773331bbcefd55a6e103054ac8f5ba1d415ea5ac25b718368"
-metafile = true
-
-[[files]]
 file = "mods/jade.pw.toml"
 hash = "31ace44873127d8fcf90009159895ff9e8bb1c921638c2829ecc159c19e74f3a"
 metafile = true
@@ -244,6 +231,11 @@ metafile = true
 [[files]]
 file = "mods/moreculling.pw.toml"
 hash = "190da82bace64fdc2a741dd665568ad65d0c82b38e71e219edd3af2c76a1db3b"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]

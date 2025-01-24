@@ -5,6 +5,34 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.10-beta.7] 1.21.4 - 
+
+### Added
+  - Mouse Tweaks (Re-added)
+  - Boat item view
+
+### Removed
+  - Item Scroller
+  - Armor Poser
+
+### Changed
+ - Removed ArmorPoser config, no longer needed.
+ - Removed BSL shader entery from iris.properties
+
+## [1.0.6-beta.2] 1.21.3 -
+
+### Added
+  - Mouse Tweaks (Re-added)
+  - Boat item view
+
+### Removed
+  - Item Scroller
+  - Armor Poser
+
+### Changed
+ - Removed ArmorPoser config, no longer needed.
+ - Removed BSL shader entery from iris.properties
+
 ## [1.1.9-beta.6] 1.21.4 - 19-01-2025
 
  - Implementing a fix for crashes caused by Enhanced Block Entities.
