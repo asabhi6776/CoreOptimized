@@ -9,7 +9,7 @@
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
 | Better Clouds                        | ❌     | ❌     | ✅     | ✅     |
-| Better Mount HUD                        | ✅     | ❌     | ❌     | ✅     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ❌     | ❌     | ✅     | ✅     |
@@ -27,8 +27,6 @@
 | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
-| FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
-| FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     |
@@ -77,6 +75,8 @@
 | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
 | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
 | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+| FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
+| FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
 | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
 | Flashback                               | ❌     | ❌     | ✅     | ✅     |
 | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
