@@ -5,6 +5,46 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.10-beta.7] 1.21.4 - 27-01-2025
+
+### Added
+  - Mouse Tweaks (Re-added)
+  - Boat item view
+
+### Removed
+  - Item Scroller
+  - Armor Poser
+  - Removed the previously implemented fix that was intended to address a crash while rendering signs.
+
+### Changed
+ - Removed ArmorPoser config, no longer needed.
+ - Removed BSL shader entery from iris.properties
+ - Updated mods:
+   - Better Stats
+   - Chat Heads
+   - Enhanced Block Entities
+   - Fabric API
+   - ImmediatelyFast
+   - Lithium
+   - Modernfix
+   - ModMenu
+   - Polytone
+   - ShulkerBoxTooltip
+
+## [1.0.6-beta.2] 1.21.3 - 27-01-2025
+
+### Added
+  - Mouse Tweaks (Re-added)
+  - Boat item view
+
+### Removed
+  - Item Scroller
+  - Armor Poser
+
+### Changed
+ - Removed ArmorPoser config, no longer needed.
+ - Removed BSL shader entery from iris.properties
+
 ## [0.0.2] 1.21.1 - 27-01-2025
 
 ### Added
