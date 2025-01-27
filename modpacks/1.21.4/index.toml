@@ -9,10 +9,6 @@ file = "config/debugify.json"
 hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
-file = "config/enhanced_bes.properties"
-hash = "c4096fe50711e7c0ca1329120731fdd799655770d35e8aeb9a767fcc34dff087"
-
-[[files]]
 file = "config/entity_model_features.json"
 hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
 
@@ -70,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "73e0cb72af02c0399c345df40ba0d856fa8fb1adc9b6fcbdd2c54f614fdbdab4"
+hash = "7d73e88045e39585ed44133072365404a37229e66f3f0e7995b6e722f22894f3"
 metafile = true
 
 [[files]]
@@ -95,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "7e01e21989c0b58b0f947238d907839585c3afb1a978d1f2ce22bcf46ef90cfa"
+hash = "1ea25a7af36e8fae96f05d9ebd50aa0aa5018064349cd86d4c4586fd1c65c2b8"
 metafile = true
 
 [[files]]
@@ -130,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/ebe.pw.toml"
-hash = "dd20f1974e186aff79bb4a6cd970ddb335201be400914b2790b1056a30a1b60b"
+hash = "6c94f2d5e791983e7cd4d7f2deb3e0abe1d8531ff42843aab1f7e4d8505a44d4"
 metafile = true
 
 [[files]]
@@ -150,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "ff598f555942476705a5691c20d324cb2c0cacd27729424f94a1a34cb29f75d2"
+hash = "4c4aa73a3c39122d34c95ca5d2b60c26c81aced32760bde7bb3b9c0dfdfa646c"
 metafile = true
 
 [[files]]
@@ -170,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "f54c8f372e98a3bb4808ae4643ef6c22acedf04d8fb17ef2f22b6d9e6a01310f"
+hash = "c7acf68591c9e2e380d2fa7f01bd3b8f37a9e91ee53c59e043c4189a86c162a9"
 metafile = true
 
 [[files]]
@@ -195,7 +191,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f419d8fb92a7567a747f3f448b357c1c31198826ce3e0e61966489561bfdf67"
+hash = "f4070441d1f1bdeb3e6a594b5ba1c3f314b8f13815a67619cb38621c0f6a1fec"
 metafile = true
 
 [[files]]
@@ -215,12 +211,12 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "348bd2931980c466e83f985747904f271c82ef7e23a4e33bbe9b882b0e7e5c94"
+hash = "189ffd9cebd2dd46397826288ab8946429bdd47e1d43e0000159ebbf34757c25"
 metafile = true
 
 [[files]]
 file = "mods/modmenu.pw.toml"
-hash = "e0ee868032501d71c583621a03fbb7317aa4997c234f5efe59fe498e10e0bf9b"
+hash = "57d85950ff52812e642cc62cdb703e1397b5c635e8f159216963b29b0225b2b2"
 metafile = true
 
 [[files]]
@@ -260,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "504e426cee2a2c29c18c4824512025c2493f384659a903a61d872e9dbe4e5b1d"
+hash = "ba791b61aea6def351d0b7344f45342141a17c1d9016c4e949675f2fc7665b7c"
 metafile = true
 
 [[files]]
@@ -285,7 +281,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "a62b74c73c0d2d2da641462d462c4ce920829eedc0b3a56caaea171f800ca10c"
+hash = "d57629759d9302c3680478d32c0f24f5f02b6dd5a0c665b82bfa52e8342dd5a5"
 metafile = true
 
 [[files]]

@@ -14,10 +14,22 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Removed
   - Item Scroller
   - Armor Poser
+  - Removed the previously implemented fix that was intended to address a crash while rendering signs.
 
 ### Changed
  - Removed ArmorPoser config, no longer needed.
  - Removed BSL shader entery from iris.properties
+ - Updated mods:
+   - Better Stats
+   - Chat Heads
+   - Enhanced Block Entities
+   - Fabric API
+   - ImmediatelyFast
+   - Lithium
+   - Modernfix
+   - ModMenu
+   - Polytone
+   - ShulkerBoxTooltip
 
 ## [1.0.6-beta.2] 1.21.3 -
 

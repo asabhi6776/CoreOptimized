@@ -68,28 +68,27 @@
 | Your Options Shall Be Respected (YOSBR)| ✅     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     |
 
-## Discontinued Mods
-
-| Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
-|-----------------------------------------|--------|--------|--------|--------|
-| BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
-| Carpet                                  | ✅     | ✅     | ✅     | ❌     |
-| Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
-| Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
-| FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
-| FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
-| Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
-| Flashback                               | ❌     | ❌     | ✅     | ✅     |
-| Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
-| Indium                                  | ✅     | ❌     | ❌     | ❌     |
-| Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
-| Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
-| Litematica                              | ✅     | ✅     | ✅     | 🛑     |
-| MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
-| MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
-| Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
-| Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
-| WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
+??? example "Click to view discontinued mods."
+    | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
+    |-----------------------------------------|--------|--------|--------|--------|
+    | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
+    | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
+    | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
+    | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+    | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
+    | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
+    | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
+    | Flashback                               | ❌     | ❌     | ✅     | ✅     |
+    | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
+    | Indium                                  | ✅     | ❌     | ❌     | ❌     |
+    | Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
+    | Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
+    | Litematica                              | ✅     | ✅     | ✅     | 🛑     |
+    | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
+    | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
+    | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
+    | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
+    | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 
 
 !!! warning "Discontinuation Warning"
