@@ -8,17 +8,18 @@
 | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
-| Better Clouds                        | ❌     | ❌     | ✅     | ✅     |
+| Better Clouds                        | ✅     | ❌     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     |
-| BetterGrassify                          | ❌     | ❌     | ✅     | ✅     |
-| Chat Animation [Smooth Chat]           | ❌     | ❌     | ✅     | ✅     |
+| BetterGrassify                          | ✅     | ❌     | ✅     | ✅     |
+| Boat Item View                              | ✅     | ❌     | ✅     | ✅     |
+| Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     |
-| Cubes Without Borders                  | ❌     | ❌     | ✅     | ✅     |
+| Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
 | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
@@ -35,7 +36,7 @@
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     |
 | Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     |
-| LambDynamicLights                      | ❌     | ✅     | ✅     | ✅     |
+| LambDynamicLights                      | ✅     | ✅     | ✅     | ✅     |
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     |
@@ -44,7 +45,7 @@
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     |
-| Not Enough Animations                  | ❌     | ❌     | ✅     | ✅     |
+| Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     |
@@ -53,18 +54,18 @@
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
-| Shulker Box Tooltip                    | ❌     | ❌     | ✅     | ✅     |
+| Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     |
 | Sodium Extra                           | ✅     | ✅     | ✅     | ✅     |
-| Sound Physics Remastered                           | ❌     | ❌     | ✅     | ✅     |
+| Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     |
 | spark                                  | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     |
-| Your Options Shall Be Respected (YOSBR)| ✅     | ❌     | ❌     | ❌     |
+| Your Options Shall Be Respected (YOSBR)| ❌     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     |
 
 ## Discontinued Mods
