@@ -1,13 +1,13 @@
 name = "Redstone Tweaks"
-filename = "Redstone Tweaks 2.4.6.zip"
+filename = "Redstone Tweaks 2.4.5.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/RvfAlf4Z/versions/hJDIQnfT/Redstone%20Tweaks%202.4.6.zip"
+url = "https://cdn.modrinth.com/data/RvfAlf4Z/versions/acYT0fGm/Redstone%20Tweaks%202.4.5.zip"
 hash-format = "sha512"
-hash = "9d7f0d65ffd1bfbe6717fceeb8f7346332f0b33be72a90a559f90f851725414ffc6a937c2175417df583d503ec7b9d3d066808666a429d9eead3b1fd0914c4ff"
+hash = "794b11827b6f8b60e519ab9abc853d2d1d39e3f453bff728c49b6f9abf0a413a959f4ad496340f802d9f90eb64de6c2efb138ad0871fa916dc6067d162376499"
 
 [update]
 [update.modrinth]
 mod-id = "RvfAlf4Z"
-version = "hJDIQnfT"
+version = "acYT0fGm"

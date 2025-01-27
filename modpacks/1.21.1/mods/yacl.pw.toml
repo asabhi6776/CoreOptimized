@@ -1,13 +1,13 @@
 name = "YetAnotherConfigLib (YACL)"
-filename = "YetAnotherConfigLib-3.6.1+1.21.2-fabric.jar"
+filename = "YetAnotherConfigLib-3.6.2+1.21-fabric.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/HlJ8azv1/YetAnotherConfigLib-3.6.1%2B1.21.2-fabric.jar"
+url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/iu96ISLv/YetAnotherConfigLib-3.6.2%2B1.21-fabric.jar"
 hash-format = "sha512"
-hash = "3efec2e9f278c87399bceec1258cd7ea2454e468308e5eaddf9644f35d93bdc1736c105d01d7d4c6e95323e49f97cd802594bd622e477c351e00e6f69a9556eb"
+hash = "0a52df2fd4126a994a2558d3c9464f886b0cb4bb7cb87cf36a12f87bd885e2525d562ff1d06625b4ff9911b89d31420e5d261ecd07f3b6ab47486543bdd017ad"
 
 [update]
 [update.modrinth]
 mod-id = "1eAoo2KR"
-version = "HlJ8azv1"
+version = "iu96ISLv"

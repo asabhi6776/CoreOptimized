@@ -45,6 +45,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
  - Removed ArmorPoser config, no longer needed.
  - Removed BSL shader entery from iris.properties
 
+## [0.0.2] 1.21.1 - 27-01-2025
+
+### Added
+ - ShulkerBoxTooltip
+ - Boat Item view
+ - Cubes Withoud borders
+ - Config support
+
+### Changes
+ - Updated all the mods
+
+
 ## [1.1.9-beta.6] 1.21.4 - 19-01-2025
 
  - Implementing a fix for crashes caused by Enhanced Block Entities.
