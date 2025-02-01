@@ -56,7 +56,6 @@ nav {
 
 /* Hero Section */
 .hero {
-  background: url('hero-bg.jpg') no-repeat center center/cover;
   height: 100vh;
   display: flex;
   justify-content: center;
@@ -126,19 +125,6 @@ nav {
   color: #cccccc;
 }
 
-/* About Us Section */
-.about-us {
-  padding: 50px 20px;
-  text-align: center;
-  background-color: #0d0d0d;
-}
-
-.about-us p {
-  max-width: 800px;
-  margin: 0 auto;
-  font-size: 18px;
-  line-height: 1.6;
-}
 
 /* Community Highlights Section */
 .community-highlights {
@@ -176,37 +162,6 @@ nav {
   color: #cccccc;
 }
 
-/* Contact Us Section */
-.contact-us {
-  padding: 50px 20px;
-  text-align: center;
-  background-color: #0d0d0d;
-}
-
-.contact-us form {
-  max-width: 600px;
-  margin: 0 auto;
-  display: flex;
-  flex-direction: column;
-  gap: 15px;
-}
-
-.contact-us input, .contact-us textarea {
-  padding: 10px;
-  border-radius: 5px;
-  border: none;
-  font-size: 16px;
-}
-
-.contact-us button {
-  background-color: #ff6600;
-  padding: 15px 30px;
-  border-radius: 5px;
-  font-size: 18px;
-  font-weight: bold;
-  border: none;
-  cursor: pointer;
-}
 
 /* Footer */
 footer {
