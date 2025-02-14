@@ -100,11 +100,6 @@ hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
-file = "mods/cit-resewn.pw.toml"
-hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "446c173c87b7908daee86b0dee89c6b628c77beb7a0bc091ff5252b7c0062080"
 metafile = true
@@ -352,16 +347,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "c2306aef23dc2f29403a6a698db2af23644d6d9edc43ec8f0302d629da7600c8"
-
-[[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

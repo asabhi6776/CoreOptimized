@@ -5,7 +5,6 @@
 | [EMF] Entity Model Features            | ✅     | ✅     | ✅     | ✅     |
 | [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ❌     | ❌     |
-| Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     |
@@ -16,16 +15,13 @@
 | Boat Item View                              | ✅     | ❌     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     |
-| CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
-| Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ✅     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
-| Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ❌     | ❌     |
@@ -71,10 +67,14 @@
 ??? example "Click to view discontinued mods."
     | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
     |-----------------------------------------|--------|--------|--------|--------|
+    | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
     | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
+    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+    | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
+    | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
     | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
     | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
     | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
