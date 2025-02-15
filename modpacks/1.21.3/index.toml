@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "416b9e20f6a696b1139d419e98c46ee88bd06ad49ebdbb98af9101cc845a7708"
+hash = "cb6611b85c47028e3133f6deb487855fa1295314420b1869f7f7c5b33f3b2775"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -66,7 +66,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
-hash = "1a04bdf3328dcc20b933ea5e802c309a8a62c6aee9ad18170e486e057ba2d596"
+hash = "8d16c0d80b1c9e9018794a4e41148b7c88745a08c5a62f9bb922d61676bdd239"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "5ea2c2c5f449648918714594e1d015e7194c3ed7c56c8c13990a48f9ebf309a3"
+hash = "65ea1fea4aaf27eb00959ae6008e060e50a8e8e912ced4e6c93bb08744dcebf8"
 metafile = true
 
 [[files]]
@@ -146,12 +146,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "3d0bf4d56ea941f856200934fdc2fb4952fe513d469f47bdb5fc586f99f16097"
+hash = "bb9a29a48b27e7abc0799d4393240ae2cdcf7d64341c9a63347769173f8bda2e"
 metafile = true
 
 [[files]]
 file = "mods/fabrishot.pw.toml"
 hash = "bcf893af157a78869ef9a72781bc5783383772d018ae2887515905f3fffcd65b"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "2d6012c02c408ba8217a03676aaea16f7b972fa4ee80d1a7eee4310ecd0f8cc1"
 metafile = true
 
 [[files]]
@@ -166,7 +171,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "c79a98c5013dd8f1e219043aef5d77a969f9703455c5d4ca50e366ba943d0295"
+hash = "5379ad762b06cadda63287e5afec87a4c70b8369b97af9096ab1f24477b6de7f"
 metafile = true
 
 [[files]]
@@ -221,7 +226,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "d42c0dfe3b031b369a555679b263f7152630823f5624518d2b5602580ae8fe12"
+hash = "3e5664fd8bb133649bf1627b4bedbc0becbd329de88aeed41bb02684f13461f3"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f90d7ae80a29d0dee810a6c65d09d17c887dc43606dc12532b1e93d344c317ed"
+hash = "3a1496d443fefe3a2a9901a2bc72d0780f83ebf704033bc7438fd3879bcfbc2b"
 metafile = true
 
 [[files]]
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "170af2cc47538de9caf10b714d81402b0e13a6b15a3e1e14d35f483f9cb276bd"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
@@ -271,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "90c188a415287020a0a05aedc6c20e5d28054a7db3e9404a191ddd322f2a1a96"
+hash = "6a03d3ec1fb2f404b4dc14a18254145116b66fef96a03fc11fa5fb6510f27d99"
 metafile = true
 
 [[files]]
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "e43454084839b810fa0fbc9a5193fca1d72470ecbc06d2138538306f08cb2849"
+hash = "063756db96c81916d61a31c9ff7ae494e4d7f4cc6be3753cc251a4f77cb0643f"
 metafile = true
 
 [[files]]
