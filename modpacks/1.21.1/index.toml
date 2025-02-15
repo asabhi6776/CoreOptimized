@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5347b8d4ace0809c3035680af123ecfc9718c525d611ca068617c3821da52cf7"
+hash = "523d1520f55566aa7d653eb7e459933421dd6805e20cc7ca02f01fcb86aa2e81"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -352,16 +352,6 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "c2306aef23dc2f29403a6a698db2af23644d6d9edc43ec8f0302d629da7600c8"
-
-[[files]]
-file = "resourcepacks/enchant-icons-countxd.pw.toml"
-hash = "bb2b6a511327bc8782c7c12c6be81c11fa3fcb7fa4fd10d4093a5170862e1ad5"
-metafile = true
-
-[[files]]
-file = "resourcepacks/even-better-enchants.pw.toml"
-hash = "590d63ddd680c1a9ce96945cec48c1b1dca146090003c850cf7a9cb855452699"
-metafile = true
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

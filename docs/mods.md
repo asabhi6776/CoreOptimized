@@ -5,7 +5,6 @@
 | [EMF] Entity Model Features            | ✅     | ✅     | ✅     | ✅     |
 | [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ❌     | ❌     |
-| Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     |
@@ -22,13 +21,11 @@
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
-| Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
 | Enhanced Block Entities                | ✅     | ❌     | ❌     | ✅     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
-| Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
-| FastQuit                                | ✅     | ❌     | ❌     | ❌     |
+| FastQuit                                | ✅     | ❌     | ✅     | ✅     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     |
@@ -71,10 +68,13 @@
 ??? example "Click to view discontinued mods."
     | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
     |-----------------------------------------|--------|--------|--------|--------|
+    | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
     | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
+    | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
+    | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
     | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
     | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
     | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
@@ -89,7 +89,6 @@
     | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
     | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
     | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
-
 
 !!! warning "Discontinuation Warning"
     We have removed these mods from the modpack to ensure that players can join any multiplayer server without issues. Based on feedback from our beta testers, several servers do not allow or support the aforementioned mods. We appreciate your understanding as we strive to maintain broad compatibility and improve the overall gameplay experience.
