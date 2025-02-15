@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "5347b8d4ace0809c3035680af123ecfc9718c525d611ca068617c3821da52cf7"
+hash = "523d1520f55566aa7d653eb7e459933421dd6805e20cc7ca02f01fcb86aa2e81"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -97,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/chatanimation.pw.toml"
 hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
+metafile = true
+
+[[files]]
+file = "mods/cit-resewn.pw.toml"
+hash = "6d511d91e17e09d36b0b0c7065b07eb604146bc9f3df0fbc932948aaf33aa440"
 metafile = true
 
 [[files]]
