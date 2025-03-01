@@ -22,6 +22,8 @@ body:
     options:
       - ATLauncher
       - Modrinth App
+      - CurseForge App
+      - MultiMC
       - Prism Launcher
       - Other (Mention in Description)
   validations:

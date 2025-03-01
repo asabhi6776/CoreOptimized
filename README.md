@@ -3,7 +3,7 @@
 <h1> Core Optimized </h1>
 
 [![ReadTheDocs](https://img.shields.io/badge/Wiki-000000?style=flat-square&logo=readthedocs)](https://coreoptimized.readthedocs.io/en/latest/)
-[![Modrinth Downloads](https://img.shields.io/modrinth/dt/2eWEIhCq?style=flat-square&logo=modrinth&label=MODRINTH&labelColor=%23000000&color=%2300af5c)](https://modrinth.com/modpack/core-optimized-by-sniperxjohn)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/2eWEIhCq?style=flat-square&logo=modrinth&label=Modrinth&labelColor=%23000000&color=%2300af5c)](https://modrinth.com/modpack/core-optimized-by-sniperxjohn)
 [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145691?style=flat-square&logo=curseforge&label=CurseForge&labelColor=%23000000&color=%23f16436)](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)
 
 
@@ -31,8 +31,10 @@ For detailed instruction please visit our Wiki page by [clicking here](https://c
 
 ## Roadmap
 
-- Replacing Mouse Tweaks with Item Scroller
-- Add Main Menu Credits
+- Curseforge Documentation.
+- Main menu UI update.
+- 1.20.4 and 1.18.2 release.
+- Fix versioning.
 
 ## Contributing
 
