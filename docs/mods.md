@@ -21,7 +21,7 @@
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     |
-| Enhanced Block Entities                | ✅     | ❌     | ❌     | ✅     |
+| Enhanced Block Entities                | ✅     | ❌     | ✅     | ✅     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     |
