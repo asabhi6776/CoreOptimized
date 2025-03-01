@@ -7,8 +7,16 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.0.6-beta.4] 1.21.3 - 01-03-2025
 
-### Changed
+### Added
+  - Enhanced Block Entities
 
+### Changed
+  - Updated Mods
+    - Simple Voice Chat
+    - Immediately Fast
+    - Entity Culling
+    - Dynamic FPS
+    - BetterGrassify
 
 
 ## [0.0.4] 1.21.1 - 01-03-2025
@@ -20,7 +28,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Dynamic FPS
     - Entity Culling
     - Fabric API
-    - Immedieatly Fast
+    - Immediately Fast
     - Iris
     - Jade
     - Lithium

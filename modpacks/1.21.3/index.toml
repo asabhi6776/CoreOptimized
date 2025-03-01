@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "cb6611b85c47028e3133f6deb487855fa1295314420b1869f7f7c5b33f3b2775"
+hash = "1d9ba87d3aadd19062fd76759c17600b751f0e82ef9228b24d965f93dbb484b8"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -76,7 +76,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "3e14659453a63d425481f3894d909a0a4bee3a3cdec0fdef053bcc166d148201"
+hash = "db49ca756de443c6d7085ec371df0d907ae474afdce633495f6c68f526ba9a34"
 metafile = true
 
 [[files]]
@@ -121,7 +121,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "ef5594aca1039c06c502f9d3f4a709195b727abb3b2893652dfe38d983ff87c2"
+hash = "c86dd05c608c904be75edc259627a003738402a0450a7e78fa17292dff70d97a"
+metafile = true
+
+[[files]]
+file = "mods/ebe.pw.toml"
+hash = "61d64eadda8079ccd7c906a3b5143ab5b9b3716918c775dad2d3d59dfbe7bb41"
 metafile = true
 
 [[files]]
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "d16fadf58ef4bfe7abc9b53e8b97b5bf9125d5378228dad4378a0d935351fa9a"
+hash = "1c2d7e9b2a7511eb4ee8a49ac62e864cbb2a254ec69527207e8937ae4698d3d0"
 metafile = true
 
 [[files]]
@@ -171,7 +176,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "5379ad762b06cadda63287e5afec87a4c70b8369b97af9096ab1f24477b6de7f"
+hash = "c879008d34c8eec55804c580f62006c5ad0203f2101d9b5f2a92c73611dd66d1"
 metafile = true
 
 [[files]]
@@ -281,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ea90ac660282d00128d60c3eb7f95bf4bb080c0d39a33ad790fac54eed095e30"
+hash = "cd85999104f66cd1e10477fab6b8f210993a329ef85646d1156bd81a31edcea2"
 metafile = true
 
 [[files]]
@@ -316,7 +321,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "c56da2f5a3c6f6eef3b46a46141c5cb4e85f2e63126e69018f214676343f92b9"
+hash = "839122d3c84a0c8ee4f2733662e3e5705e30e28646c1a34e1eb79ca22d2189d5"
 metafile = true
 
 [[files]]
