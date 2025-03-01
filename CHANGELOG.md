@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.1.10-beta.9] 1.21.4 - 01-03-2025
+
+### Changed
+  - Updated Mods
+    - Entity Culling
+    - Fabric API
+    - Iris
+    - Simple Voice Chat
+    - Dynamic FPS
+    - Better Advancements
+    - BetterGrassify
+    - More Culling
+    - ImmediatelyFast
+    - Chat Heads
+    - Sodium
+    - Lithium
+
 ## [1.0.6-beta.4] 1.21.3 - 01-03-2025
 
 ### Added
