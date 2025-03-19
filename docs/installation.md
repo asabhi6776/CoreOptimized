@@ -115,6 +115,47 @@ Follow this step-by-step guide to download, install, and play the **Core Optimiz
 ### 7. **Enjoy the Modpack!**
  - You're all set! Dive into Minecraft and enjoy your new **Core Optimized** experience.
 
+
+## CurseForge
+
+Follow these simple steps to install the **Core Optimized** modpack using the CurseForge platform:
+
+### 1. Download the CurseForge App
+ - If you haven't installed CurseForge yet, [click here](https://www.curseforge.com/download/app) to download it.
+    
+### 2. Install CurseForge
+ - Double-click the downloaded file.
+ - Follow the on-screen instructions to complete the installation.
+
+### 3. Launch the CurseForge App
+ - Once installed, open the CurseForge application.
+    
+### 4. Navigate to Minecraft Modpacks
+ - Click on the **Minecraft** icon on the left-hand side.
+ - Click on the **Browse Modpacks** button.
+
+### 5. Search for Core Optimized
+ - In the search bar, type **"Core Optimized"**.
+ - Select the correct modpack: **Core Optimized | by SniperXJohn**.
+
+### 6. Choose the Correct Version
+ - Go to the **Versions** tab.
+ - Select the version you want to install.
+ - Click the **Install** button.
+
+### 7. Wait for Installation to Complete
+ - Let the process finish—it may take a few minutes.
+    
+### 8. Launch the Modpack
+ - Click on the **Minecraft** icon again.
+ - Hover over the **Core Optimized** modpack and click the **Play** button.
+
+### 9. Sign in to Your Minecraft Account
+ - If you haven’t signed in yet, the app will prompt you to log in with your **official Minecraft account**.
+    
+### 10. Enjoy Your Modpack!
+ - That’s it! You're ready to play with the **Core Optimized** modpack. 🎮
+
 ---
 
 
