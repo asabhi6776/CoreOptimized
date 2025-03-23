@@ -28,13 +28,14 @@ For detailed instruction please visit our Wiki page by [clicking here](https://c
 - Wiki page is live [Wiki](https://coreoptimized.readthedocs.io/en/latest/)
 - Discord Server is also Live [Discord](https://discord.gg/qWc7c6tZPP)
 - The licensing has been changed to MIT to provide greater freedom to the community.
+- Curseforge Documentation is added in Wiki.
 
 ## Roadmap
 
-- Curseforge Documentation.
 - Main menu UI update.
 - 1.20.4 and 1.18.2 release.
 - Fix versioning.
+- **Spring to Life** Pack release.
 
 ## Contributing
 
