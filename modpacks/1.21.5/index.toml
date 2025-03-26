@@ -18,7 +18,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c28ec5d087596b3c0a24df3e9ef08a39ce5245a1c46879f34407019b4787a5b7"
+hash = "fa7f7e22df5ef85c47e12addda95a2793fe54abdb95fd64101623db1c0fb4690"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -43,6 +43,31 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "cb0ad1fda803dc8efe75a0cb8fb1dbf7dcc2a498d3666768387048e1fd7107f4"
+metafile = true
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
+metafile = true
+
+[[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+metafile = true
+
+[[files]]
+file = "mods/chat-heads.pw.toml"
+hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
@@ -71,13 +96,28 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
-hash = "ea22db8c3deb65c78156eddc87833f8bfe614b550e021284358810f89ad0acce"
+hash = "8dc8454a6e68e214420cacebb146c3b19eb3d9a678aa1b517545d637ad48fc53"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "19fe1d1fcb536a2f0a1eed3d4ee3d0b89022ddbecf5f3b65c0a05fa9316c8103"
 metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
 metafile = true
 
 [[files]]
@@ -96,13 +136,28 @@ hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
 
 [[files]]
+file = "mods/moreculling.pw.toml"
+hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
+metafile = true
+
+[[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "670aaf37ebb497d2d2906adb33c46c086f6b544f365fe562196f40a3a2d9f27c"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "80f29b7888771c582bedc48a2ceee6016bb36dbb6f5b9b8373e44d0d254572d8"
 metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "78b0a9102dbe17a261865d2bcd9120ac51021e656d96b57f1f404f3aa4d623e2"
+hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
 metafile = true
 
 [[files]]

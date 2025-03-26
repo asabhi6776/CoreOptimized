@@ -9,14 +9,15 @@
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ❌     |
-| BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ❌     |
+| BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
-| Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ❌     |
@@ -29,23 +30,23 @@
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ❌     |
-| ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     | ❌     |
+| ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Jade 🔍                                | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Jade 🔍                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ✅     | ✅     | ✅     | ✅     | ✅     |
-| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ❌     |
+| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ❌     |
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     |
-| More Culling                            | ✅     | ✅     | ✅     | ✅     | ❌     |
+| More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ❌     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -62,7 +63,6 @@
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ❌     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Your Options Shall Be Respected (YOSBR)| ❌     | ❌     | ❌     | ❌     | ❌     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 
 ??? example "Click to view discontinued mods."
