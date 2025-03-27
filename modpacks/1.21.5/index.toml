@@ -18,7 +18,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fa7f7e22df5ef85c47e12addda95a2793fe54abdb95fd64101623db1c0fb4690"
+hash = "9fbe10f2c38c27b3467a3423ad0ccd69988c9305ac6468f76634e0375785879f"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -43,6 +43,11 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "cb0ad1fda803dc8efe75a0cb8fb1dbf7dcc2a498d3666768387048e1fd7107f4"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "267bc0d78463c082d40ab0813da8367265dd2b176f1d7957b2efbd3b8636d49f"
 metafile = true
 
 [[files]]
@@ -78,6 +83,11 @@ metafile = true
 [[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "b75bae23390b6e4c302b655b2865bbdaaf3bef825bc63ff63dc1b92134f9fa18"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
 metafile = true
 
 [[files]]
@@ -141,6 +151,11 @@ hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+metafile = true
+
+[[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "670aaf37ebb497d2d2906adb33c46c086f6b544f365fe562196f40a3a2d9f27c"
 metafile = true
@@ -153,6 +168,16 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "02e041b8feb52e695fb62dced917eee48a04e7a9230eb7a61d8a01cf5dd6ff44"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
 metafile = true
 
 [[files]]

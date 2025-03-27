@@ -1,0 +1,13 @@
+name = "Sound Physics Remastered"
+filename = "sound-physics-remastered-fabric-1.21.5-1.4.10.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/2EyHcj8z/sound-physics-remastered-fabric-1.21.5-1.4.10.jar"
+hash-format = "sha512"
+hash = "15f74f781f277480ec3a6d66d310721a744640c669efd0712716061b5d63ace1d6d8735509b4f1ee028768c0da4787ba21a74a0ef852944109d32fed40c27583"
+
+[update]
+[update.modrinth]
+mod-id = "qyVF9oeo"
+version = "2EyHcj8z"
