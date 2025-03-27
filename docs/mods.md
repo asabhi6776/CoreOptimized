@@ -7,7 +7,7 @@
 | Animatica                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -23,7 +23,7 @@
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities                | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ✅     | ✅     | ❌     |
@@ -34,8 +34,8 @@
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ✅     | ✅     | ✅     | ✅     | ✅     |
-| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Lithium                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
+| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Lithium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ❌     |
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     |
@@ -43,7 +43,7 @@
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -56,11 +56,11 @@
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium Extra                           | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     | ❌     |
-| spark                                  | ✅     | ✅     | ✅     | ✅     | ❌     |
-| TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     | ✅     |
+| spark                                  | ✅     | ✅     | ✅     | ✅     | ✅     |
+| TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Visuality                              | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
