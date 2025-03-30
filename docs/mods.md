@@ -10,7 +10,7 @@
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
-| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ❌     |
+| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -27,7 +27,7 @@
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ✅     | ✅     | ❌     |
-| FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ❌     |
+| FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ❌     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -41,21 +41,21 @@
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
-| Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Sodium Extra                           | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Sodium Extra                           | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | spark                                  | ✅     | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ✅     |

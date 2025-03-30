@@ -11,9 +11,14 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.2.0-alpha.3",
+  "version": "1.2.0-alpha.4",
   "author": "SniperXJohn",
   "files": [
+    {
+      "projectID": 401648,
+      "fileID": 6364905,
+      "required": true
+    },
     {
       "projectID": 1026394,
       "fileID": 6351923,
@@ -21,12 +26,17 @@
     },
     {
       "projectID": 686911,
-      "fileID": 6347605,
+      "fileID": 6366685,
       "required": true
     },
     {
       "projectID": 324717,
-      "fileID": 6351396,
+      "fileID": 6353726,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 5856191,
       "required": true
     },
     {
@@ -56,17 +66,17 @@
     },
     {
       "projectID": 335493,
-      "fileID": 6292928,
+      "fileID": 6347454,
       "required": true
     },
     {
       "projectID": 844662,
-      "fileID": 6331764,
+      "fileID": 6360144,
       "required": true
     },
     {
       "projectID": 568563,
-      "fileID": 6331760,
+      "fileID": 6360712,
       "required": true
     },
     {
@@ -76,12 +86,17 @@
     },
     {
       "projectID": 306612,
-      "fileID": 6342901,
+      "fileID": 6360579,
       "required": true
     },
     {
       "projectID": 308769,
       "fileID": 6327842,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 6365997,
       "required": true
     },
     {
@@ -120,6 +135,21 @@
       "required": true
     },
     {
+      "projectID": 563977,
+      "fileID": 6363584,
+      "required": true
+    },
+    {
+      "projectID": 511319,
+      "fileID": 6091019,
+      "required": true
+    },
+    {
+      "projectID": 447673,
+      "fileID": 6362088,
+      "required": true
+    },
+    {
       "projectID": 394468,
       "fileID": 6348518,
       "required": true
@@ -147,6 +177,11 @@
     {
       "projectID": 667299,
       "fileID": 6336634,
+      "required": true
+    },
+    {
+      "projectID": 315811,
+      "fileID": 6365479,
       "required": true
     }
   ],
