@@ -5,6 +5,24 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0-alpha.4] 1.21.5 - 31-03-2025
+### Added
+  - BetterF3
+  - Ferrite Core
+  - Mouse Tweaks
+  - Puzzle
+  - Reeses Sodium Options
+  - Shulker Box Tooltips
+  - Sodium Extra
+### Updated
+  - Entity Texture Features
+  - Entity Model Features
+  - Jade
+  - Dynamic FPS
+  - ImmediatelyFast
+  - Better Clouds
+  - Fabric Api  
+
 ## [1.2.0-alpha.3] 1.21.5 - 28-03-2025
 ### Added
   - Better Clouds

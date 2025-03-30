@@ -18,7 +18,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9fbe10f2c38c27b3467a3423ad0ccd69988c9305ac6468f76634e0375785879f"
+hash = "b7d2d2fb3a040bc08e8f355fc852d252aad5aac5fd04f336879a0ddeed8177ef"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -47,12 +47,17 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "267bc0d78463c082d40ab0813da8367265dd2b176f1d7957b2efbd3b8636d49f"
+hash = "f66b01a8420eb61efd77b82086aac3f91c50041847694f270f4ab1d7e3ba7cb1"
 metafile = true
 
 [[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "dc1578a021bb4e5699524f5216d8aa9b08c9d30bfbfe0bc72bf07f5391c3f3b5"
 metafile = true
 
 [[files]]
@@ -77,12 +82,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "9221afe223b693c13e2dfac3c45bf2bb6bf3050f0a6a9c582d7634266b0fbd2e"
+hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "b75bae23390b6e4c302b655b2865bbdaaf3bef825bc63ff63dc1b92134f9fa18"
+hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
 metafile = true
 
 [[files]]
@@ -92,12 +97,12 @@ metafile = true
 
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
-hash = "2055e1138d7b9c4db4ab93f000e6a282d515cd206c326a887f9810669bb2ac01"
+hash = "f2d2dd0de19a6b32d96c89edf875f1c40c2b949be575a5b82ce2da58750c2190"
 metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "72660a323de83e26e5f42a259aa6ec086312cd0870db8dc16e9cbc4cfe9d4fa4"
+hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
 metafile = true
 
 [[files]]
@@ -106,8 +111,13 @@ hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
 metafile = true
 
 [[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9b7adaecaf408656fbb6011735c8003fa87a020dcc83783b1e0e71310e462cb3"
+hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
 metafile = true
 
 [[files]]
@@ -117,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "19fe1d1fcb536a2f0a1eed3d4ee3d0b89022ddbecf5f3b65c0a05fa9316c8103"
+hash = "279a5891055ba9ba7e5129324e0c4f1ba5299ceefcba2511e96a91bf51d072ea"
 metafile = true
 
 [[files]]
@@ -151,6 +161,11 @@ hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
 metafile = true
@@ -161,8 +176,28 @@ hash = "670aaf37ebb497d2d2906adb33c46c086f6b544f365fe562196f40a3a2d9f27c"
 metafile = true
 
 [[files]]
+file = "mods/puzzle.pw.toml"
+hash = "f599da7c46d2acdca321efcf35d78c53d69a73168e86344971b857bc2c754932"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
+metafile = true
+
+[[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "80f29b7888771c582bedc48a2ceee6016bb36dbb6f5b9b8373e44d0d254572d8"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "abe9878dcb237d56e2ba70c17db8c721c6c2b8e62b241bc333539d5bc6be938f"
 metafile = true
 
 [[files]]
