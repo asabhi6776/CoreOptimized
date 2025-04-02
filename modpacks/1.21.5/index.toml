@@ -18,7 +18,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b7d2d2fb3a040bc08e8f355fc852d252aad5aac5fd04f336879a0ddeed8177ef"
+hash = "dc783302e148aa731c5419d38e8a60e5ddda7f65bf69d1e13f89a95be75766f6"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -47,7 +47,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "f66b01a8420eb61efd77b82086aac3f91c50041847694f270f4ab1d7e3ba7cb1"
+hash = "ad21e8d9d99662ac72138f536aacb6ff6876f66312b463a920a9c57cd2cba272"
 metafile = true
 
 [[files]]
@@ -73,6 +73,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+metafile = true
+
+[[files]]
+file = "mods/chatanimation.pw.toml"
+hash = "a59ce679862d915b6a8bdfe207af78012214fb5a6952e0663eb07c98d7c88793"
 metafile = true
 
 [[files]]
@@ -122,7 +127,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "8dc8454a6e68e214420cacebb146c3b19eb3d9a678aa1b517545d637ad48fc53"
+hash = "623f91f5cb2cfe0e7c3a6fc48ae5984dfad62e85389e2567ab5421f7d9d02c51"
 metafile = true
 
 [[files]]
@@ -166,8 +171,23 @@ hash = "4aef3c4dbc01c945f4a30f63c03607aad77d16ab194983510c10ce516312e258"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "e94c47d7679c5a6a4a3deccaa7bba8f7c3961a70f6c03c32adc809d7135c87cc"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
+metafile = true
+
+[[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
 metafile = true
 
 [[files]]
@@ -192,7 +212,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "80f29b7888771c582bedc48a2ceee6016bb36dbb6f5b9b8373e44d0d254572d8"
+hash = "f57e369906e6b2686fcd6e6da61c326ac99fbcf35427facf18d815afcb6dee2d"
 metafile = true
 
 [[files]]
