@@ -14,7 +14,7 @@
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -42,9 +42,9 @@
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ❌     |
+| No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
-| OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ❌     |
+| OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -59,7 +59,7 @@
 | Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | spark                                  | ✅     | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |

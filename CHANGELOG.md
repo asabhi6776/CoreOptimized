@@ -5,6 +5,36 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0-alpha.5] 1.21.5 - 02-04-2025
+### Added
+  - Text Placeholder API
+  - OptiGUI
+  - No Chat Reports
+  - Chat Animation
+### Updated
+  - Better Clouds
+  - Iris Shaders
+  - Simple Voice Chat
+  
+## [1.1.10-beta.11] 1.21.4 - 02-04-2025
+### Changed
+  - Updated Mods
+    - Better Advancements
+    - Better Clouds
+    - Better Stats
+    - BetterGrassify
+    - Dynamic FPS
+    - Entity Culling
+    - Fabric Language Kotlin
+    - Lithium
+    - More Culling
+    - Not Enough Animations
+    - Polytone
+    - Presence Footsteps
+    - Puzzle
+    - Simple Voice Chat
+    - Sound Physics Remastered
+
 ## [1.2.0-alpha.4] 1.21.5 - 31-03-2025
 ### Added
   - BetterF3
