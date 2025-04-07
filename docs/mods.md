@@ -19,8 +19,8 @@
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Debugify                                | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ✅     |
+| Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -29,7 +29,7 @@
 | FastQuit                                | ✅     | ❌     | ✅     | ✅     | ❌     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ❌     |
-| Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -37,7 +37,7 @@
 | LibJF                                   | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     |
