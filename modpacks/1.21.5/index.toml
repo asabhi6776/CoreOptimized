@@ -5,6 +5,10 @@ file = "config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
 
 [[files]]
+file = "config/debugify.json"
+hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
+
+[[files]]
 file = "config/entity_model_features.json"
 hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
 
@@ -18,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "dc783302e148aa731c5419d38e8a60e5ddda7f65bf69d1e13f89a95be75766f6"
+hash = "c0f9fba0ac44be516ad97dfd2eee9f682a2f7616b309c67669b5b72ee2f50f3b"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -47,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "ad21e8d9d99662ac72138f536aacb6ff6876f66312b463a920a9c57cd2cba272"
+hash = "b6b1943d8f42eec18067e411a5a4ee8575f1ad51339c24c6371765d9f37609e4"
 metafile = true
 
 [[files]]
@@ -86,6 +90,16 @@ hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
 metafile = true
 
 [[files]]
+file = "mods/cubes-without-borders.pw.toml"
+hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "847dce2251028733f139692907e89466896dc6ca35cfcc1bdaa0ec1f02aebefb"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
 metafile = true
@@ -121,6 +135,11 @@ hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
 metafile = true
 
 [[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "f2f1f50c4ea90248c09bdd33c0cd3153fc00b35d0876f2bc128f570ca976131a"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
 metafile = true
@@ -148,6 +167,11 @@ metafile = true
 [[files]]
 file = "mods/main-menu-credits.pw.toml"
 hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
+metafile = true
+
+[[files]]
+file = "mods/modelfix.pw.toml"
+hash = "14800fc12fd4b92497c0f26455523783bdf59194233bdaa71d4864b3d436929a"
 metafile = true
 
 [[files]]
