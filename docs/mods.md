@@ -34,7 +34,7 @@
 | Iris Shaders                            | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Jade 🔍                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | LambDynamicLights                      | ✅     | ✅     | ✅     | ✅     | ✅     |
-| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ❌     |
+| LibJF                                   | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Lithium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -50,7 +50,7 @@
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Respackopts                            | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Respackopts                            | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     |

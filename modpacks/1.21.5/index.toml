@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c0f9fba0ac44be516ad97dfd2eee9f682a2f7616b309c67669b5b72ee2f50f3b"
+hash = "a97d6b11d6f61fad97a9ad5a19326dd468ef13dbc48103b8583201f44f96e182"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -101,7 +101,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "b4d85c87d21d79bc7e24bbab04de050cc8d7f6fc6c9ebb1fd4e7d8f885016350"
+hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "760fa5f6840b4b5a929222cae241fe7d9166caad02caa9d5f67cf033536119e0"
+hash = "c09ef02727d7b388c8ece69dc61457495d3ad888d2b10f756749e926bd4cdaad"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "2e06b604a52b4de2cd14a3debe656a75abbb876b769e116abb91f31de32cb4dc"
+hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "279a5891055ba9ba7e5129324e0c4f1ba5299ceefcba2511e96a91bf51d072ea"
+hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
 metafile = true
 
 [[files]]
@@ -160,8 +160,13 @@ hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
 metafile = true
 
 [[files]]
+file = "mods/libjf.pw.toml"
+hash = "9dffa972f13ec4e093624fc6bbc7b7d28c66ad91094c83b3983770f4095477b5"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
-hash = "7f02f413a157cf69274d6e035096b84bc937bec49909a21010c79906eb90d632"
+hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
 metafile = true
 
 [[files]]
@@ -230,6 +235,11 @@ hash = "55a727cabdd9d6e84fb0232b49d0dfa207751002e7f1f63b959baa35e2f29868"
 metafile = true
 
 [[files]]
+file = "mods/respackopts.pw.toml"
+hash = "bb6fc144334d9b567219d3ec0c25e9854c25735f61ff681d4d4e36a6f0f7b773"
+metafile = true
+
+[[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
 hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
 metafile = true
@@ -246,12 +256,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "477ec070ee28993084640f772e546e1eb6f02704af5bb378c813b52949f263ee"
+hash = "700caca572649f238e804258f79d25969031be3e1b01d0384eb54a13200caba6"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "02e041b8feb52e695fb62dced917eee48a04e7a9230eb7a61d8a01cf5dd6ff44"
+hash = "6e6d211a726a79c4e9ce7a82ced3c06fd61d19a5c4a583531388962930e835fd"
 metafile = true
 
 [[files]]
