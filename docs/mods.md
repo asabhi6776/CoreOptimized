@@ -61,7 +61,7 @@
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     |
-| World Play Time                        | ✅     | ✅     | ✅     | ✅     | ❌     |
+| World Play Time                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 

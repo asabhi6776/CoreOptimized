@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [1.2.0-beta.1] 1.21.5 - 19-04-2025
+### Added
+  - World play time
+### Updated
+  - Fabric API
+  - Better Clouds
+### Changes
+  - 1.21.5 release moved to beta stage
+
+
 ## [1.2.0-alpha.7] 1.21.5 - 13-04-2025
 ### Added
   - RespackOpts
