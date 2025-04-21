@@ -51,7 +51,6 @@
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -87,6 +86,7 @@
     | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
     | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
     | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
+    | Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
     | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
     | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 
