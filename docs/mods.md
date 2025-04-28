@@ -12,7 +12,7 @@
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
