@@ -12,7 +12,7 @@
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -51,7 +51,6 @@
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -87,6 +86,7 @@
     | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
     | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
     | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
+    | Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
     | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
     | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 

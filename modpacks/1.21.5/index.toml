@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0cd4404d05202915c145abb6302f76e08efb140408a061ec404b73c3fec8ec5b"
+hash = "3aba0c08467f2d007f29771ba337cdcf406679f996b6aa1e3612b5053f88008b"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -67,6 +67,11 @@ metafile = true
 [[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+metafile = true
+
+[[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "2a59657d4ebebbd8a53bccc982b36909240d3e32f60a298f93e4ecf046937d4a"
 metafile = true
 
 [[files]]
@@ -121,7 +126,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "9fb9f5a25c9ac4fd320b743148c049768bffeb38678194c1ab31a1946604ee9c"
+hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c3fda5f4bda7791d585772f6164efa57e78c70308f3f3beb32ae49271fc084a9"
+hash = "4f91b0b457fcd875c378c1ab161ac57fbbfb06f5a99ca97c606addb6d6daa6c4"
 metafile = true
 
 [[files]]
@@ -246,7 +251,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "f57e369906e6b2686fcd6e6da61c326ac99fbcf35427facf18d815afcb6dee2d"
+hash = "8ff84533e8fe06943d7d72e25e9b4393837e574a5c7c9e358206294b2cb0939c"
 metafile = true
 
 [[files]]
@@ -272,6 +277,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "24050805ccbaac24f4fc352200756b903ac7ef473d99169275b3fbb9f1ebe1b0"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
 metafile = true
 
 [[files]]
