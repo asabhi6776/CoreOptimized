@@ -1,13 +1,13 @@
 name = "CoreOptimized"
 author = "SniperXJohn"
-version = "1.1.10-beta.11"
+version = "1.1.10-beta.12"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "fe882caab16d5258fdf9feb3504a9f887ac3d2b5d0aae2ad21289c7f01fb1879"
+hash = "f40db815c6560ecf99a17d00ebdeb2983853c9e7a5962d90215d995154689244"
 
 [versions]
-fabric = "0.16.10"
+fabric = "0.16.14"
 minecraft = "1.21.4"
