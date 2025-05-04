@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "3aba0c08467f2d007f29771ba337cdcf406679f996b6aa1e3612b5053f88008b"
+hash = "aeafa6d278f98060ad0ff2bdfd21461304ef5da253da79847b5b5f624827259a"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -92,6 +92,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "13ae813426f52226d8363499d722df0933e84534f216eef127c198c18bcdbb6b"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "278a349024e41e039f9f4a278532b56d1774cd2f7fde04f2cff298f3e085d995"
 metafile = true
 
 [[files]]

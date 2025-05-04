@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "0c2c208bb9199bc3bc7f8abf565faa7c1a9c40295fb62e0d2ee7ce4cf474769a"
+hash = "c412f0d235624de6559a099cc19d833c463e59ae081606c4d22df373e2be43f7"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -56,7 +56,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "e17649950e4439539916c49f01b249054fdf4351ed66bf2384e472fb507d5d03"
+hash = "25e3fecb8180893095cc52585cc77ae943e2ea9e7382936e00c78a893d46d455"
 metafile = true
 
 [[files]]
@@ -91,7 +91,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "c22a79e12714a5cbef7623b480bf066cd49e5710286abee69e5fc06484f3234e"
+hash = "a8b8e89a322aae5f20d15a3aa21cd5f47e14853f36b9303e3ef0fa717660115a"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d1a2a4ef509bb718243d16e2950b1289f286428c3067685f4ef40f4ec4f8a0a6"
+hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
 metafile = true
 
 [[files]]
@@ -186,7 +186,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "c716469739cf0e6c33cd1c71ce67cd942a23395b5ecb3f04b59ddba87e0347f6"
+hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
 metafile = true
 
 [[files]]
@@ -196,7 +196,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "974a2f4fd6bff1195c326696fa9e246c3b6820ae0fefe96a011bef4e6912e43f"
+hash = "df9d69dc784ef61e99064407952d34c294f62fe1155b5260f825bd9a82e2f3a2"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "71961578135f5043c71d9e50efd68195fbbd53f2d00346d3a66e2eff83971b69"
+hash = "e0f0d669474ff2d0937b16971a24edbd6d1be0eca58f1b4503b320a9b1159dae"
 metafile = true
 
 [[files]]
@@ -291,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "4b8f88d21be88fc7f51be5acad184c2d3a86474a8d8673fc3fc67e0bb2d4fc7b"
+hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
 metafile = true
 
 [[files]]
@@ -301,12 +301,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "d9c1bcc4b8ab05e309cd5cb88caf280dfd6901bcc679a7b504af1dcdb7b6a8d2"
+hash = "09d2dbee70e91e8859e6f62e4181a80264d6dd24cc686fbedb93dda9f69fdfe6"
 metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "bb2f4145fdc981a3a54283567005b0ca59bda0458cda20781ab7e82a43477f76"
+hash = "0fd9181c76ca7837c6393feebef4a586568e4a25dd5ce537af34878c126de537"
 metafile = true
 
 [[files]]
