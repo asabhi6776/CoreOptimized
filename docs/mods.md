@@ -18,7 +18,7 @@
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Continuity                              | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     |
