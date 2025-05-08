@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+
+## [1.2.0-beta.4] 1.21.5 - ---05-2025
+### Added
+  - FastQuit
+### Updated
+  - Dynamic FPS
+  - Fabric API
+  - Jade
+  - More Culling
+
 ## [1.2.0-beta.3] 1.21.5 - 04-05-2025
 ### Added
   - Continuity
@@ -18,7 +28,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Polytone
   - Fresh Animations
   - Redstone Tweaks
-
 
 ## [1.1.10-beta.12] 1.21.4 - 04-05-2025
 ### Updated
