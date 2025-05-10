@@ -1,5 +1,8 @@
 <div align="center">
 
+![Cover](docs/assets/coreoptimized_logo_update.png)
+> **_NOTE:_**  We will be updating the logo on June 1st.
+
 <h1> Core Optimized </h1>
 
 [![ReadTheDocs](https://img.shields.io/badge/Wiki-000000?style=flat-square&logo=readthedocs)](https://coreoptimized.readthedocs.io/en/latest/)
