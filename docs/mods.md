@@ -45,7 +45,7 @@
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |

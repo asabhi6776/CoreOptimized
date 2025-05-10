@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
 
 [[files]]
@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "a42be0e74df9208d2870a40aa53fcf8bc11f8201973f72259bd0d29185cded91"
+hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
 metafile = true
 
 [[files]]
@@ -232,6 +232,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
 metafile = true
 
 [[files]]
