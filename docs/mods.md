@@ -16,7 +16,6 @@
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
-| CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -71,6 +70,7 @@
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
     | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
+    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
     | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
     | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |

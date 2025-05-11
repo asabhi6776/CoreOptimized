@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Jade
   - More Culling
   - Chat Heads
+  - Respackopts
 
 ## [1.2.0-beta.3] 1.21.5 - 04-05-2025
 ### Added

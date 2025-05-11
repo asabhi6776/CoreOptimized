@@ -131,7 +131,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "524f0edfbfb4f402042dc470dcd1ab21abf12808f2d15c9a688ccb176d2d63c6"
+hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
 [[files]]
@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "bb6fc144334d9b567219d3ec0c25e9854c25735f61ff681d4d4e36a6f0f7b773"
+hash = "47aece2ecbe7c8a7a7b0c68b619713a4a6f9921db9912f061f4d1ed9d2c7f80f"
 metafile = true
 
 [[files]]
