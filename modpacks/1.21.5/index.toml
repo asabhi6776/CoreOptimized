@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "aeafa6d278f98060ad0ff2bdfd21461304ef5da253da79847b5b5f624827259a"
+hash = "fc3d0be01d2dc36de077678143d0030d873aaaedd0c089605350bdfe2f3185cf"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -81,7 +81,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "9fc6f3e67904d607a85528ceb2d4d1ea97a5807df5bb24c1106070e605c78110"
+hash = "2cf850f2efd53156d011279577f1a749368b990835c193e0e5218b83d43143f6"
 metafile = true
 
 [[files]]
@@ -111,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "6776faa0af7b67803be2671ebc8c8d25f3ebbdb498cf7457b8bf6baea65a5f9b"
+hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
 metafile = true
 
 [[files]]
@@ -131,12 +131,17 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "12d88ff814663555fb216d47884a166374a76210ea7c75814daa6e897203abbf"
+hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+metafile = true
+
+[[files]]
+file = "mods/fastquit.pw.toml"
+hash = "08114da8c86093301d6b6e07349709395599c4731626058a27a5395dd6369ff4"
 metafile = true
 
 [[files]]
@@ -161,7 +166,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5a67e5e6aa5c39c9920a3293d70ff2a5a7b90e34299483dce5933e512b63bbf0"
+hash = "ced9729e413bbe2bd78889cbd3d3e93ae56b06c9728972a06ff03afe8a0f4eba"
 metafile = true
 
 [[files]]
@@ -201,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/moreculling.pw.toml"
-hash = "f08109925ea37a67f4fe60eb44a0bbed52a8a14b9ee56da7173f8116363826b3"
+hash = "8d250e4781a41beb98270b2f36e042415067f92081c6fcf843d7ea89a61b4cdc"
 metafile = true
 
 [[files]]
@@ -226,7 +231,12 @@ metafile = true
 
 [[files]]
 file = "mods/placeholder-api.pw.toml"
-hash = "764bd77698a443694f79bf744611890efd85cc8f1e59f16786879060d5bf92e3"
+hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
 metafile = true
 
 [[files]]
@@ -246,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "bb6fc144334d9b567219d3ec0c25e9854c25735f61ff681d4d4e36a6f0f7b773"
+hash = "47aece2ecbe7c8a7a7b0c68b619713a4a6f9921db9912f061f4d1ed9d2c7f80f"
 metafile = true
 
 [[files]]

@@ -16,7 +16,6 @@
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     |
-| CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -26,7 +25,7 @@
 | Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ❌     |
+| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -45,7 +44,7 @@
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Polytone                                | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -71,6 +70,7 @@
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
     | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
+    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
     | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
     | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
