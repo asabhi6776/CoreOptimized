@@ -1,0 +1,13 @@
+name = "AdvancementsFullscreen"
+filename = "advancementsfullscreen-mc1.21.2+1.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7BgsROit/versions/QKmQxZeU/advancementsfullscreen-mc1.21.2%2B1.2.jar"
+hash-format = "sha512"
+hash = "b064f5b66219baa7068f05dddc63f9b317542fb93839fe315cc12e5000b6a499a6d65951783d98410dcacc6e4b1661d9ec5f9208c5d94c7893ff0916f7cb16f5"
+
+[update]
+[update.modrinth]
+mod-id = "7BgsROit"
+version = "QKmQxZeU"
