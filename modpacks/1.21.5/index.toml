@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "fc3d0be01d2dc36de077678143d0030d873aaaedd0c089605350bdfe2f3185cf"
+hash = "ba6bb7331adf96d6c2e3d8e4168dc69caac7c3e9cb3fff37f5c03a60b841fb60"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -43,6 +43,11 @@ hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
 [[files]]
 file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
+file = "mods/advancementsfullscreen.pw.toml"
+hash = "b8f110dbeee18281cb9360cc2550789663d5b81f493037032808af920b3046bf"
+metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -136,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "794cc08a62d7b8472efbacc12d38d495f55084fd05a2004d945243167fbaaeea"
+hash = "1e9015af19e1fb358585873d1d02a83d4503927a9386464efe5802ca651e16ce"
 metafile = true
 
 [[files]]
@@ -261,7 +266,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "f4ed28d8b0a88eb80a17b3ff6518402973060ce2f802daab5971fc26a79199db"
+hash = "09555e2480bda5f9f3dc3c2636843470491c147cd0bd32a48147af0efe1e607e"
 metafile = true
 
 [[files]]
@@ -312,4 +317,13 @@ metafile = true
 [[files]]
 file = "mods/zoomify.pw.toml"
 hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "894dfd1d291ca68175a877cb4864bf3f8638c92c5fff7596e00298fa985b23b8"
+
+[[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "63afe0bdced729726cdeea08c7af847d0e58d51682f093062d253adb8c795422"
 metafile = true
