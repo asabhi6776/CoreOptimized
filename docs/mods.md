@@ -6,7 +6,7 @@
 | [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ✅     |
+| Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -63,8 +63,8 @@
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 
-!!! note "Temporary Changes"
-    - Better Advancements is temporarily replaced with AdvancementsFullscreen in 1.21.5.
+<!-- !!! note "Temporary Changes"
+    - Better Advancements is temporarily replaced with AdvancementsFullscreen in 1.21.5. -->
 
 ??? example "Click to view discontinued mods."
     | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |

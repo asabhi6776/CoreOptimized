@@ -45,11 +45,6 @@ file = "config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
-file = "mods/advancementsfullscreen.pw.toml"
-hash = "b8f110dbeee18281cb9360cc2550789663d5b81f493037032808af920b3046bf"
-metafile = true
-
-[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "cb0ad1fda803dc8efe75a0cb8fb1dbf7dcc2a498d3666768387048e1fd7107f4"
 metafile = true
