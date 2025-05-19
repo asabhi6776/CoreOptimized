@@ -61,6 +61,7 @@
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
+| YOSBR                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 
 <!-- !!! note "Temporary Changes"

@@ -51,7 +51,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-advancements.pw.toml"
-hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
+hash = "51ab728390a44a09607dd2ff4dd88e23b65972b8e6389acc02e19489a3a254f3"
 metafile = true
 
 [[files]]
@@ -121,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
+hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
 metafile = true
 
 [[files]]
@@ -151,7 +151,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -206,7 +206,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e0f0d669474ff2d0937b16971a24edbd6d1be0eca58f1b4503b320a9b1159dae"
+hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
 metafile = true
 
 [[files]]
@@ -286,7 +286,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0a6fccc10af5a38576a0bb21944403a64a498abdad8b067978c632e69a3e5ab7"
+hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
 metafile = true
 
 [[files]]
@@ -332,6 +332,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+metafile = true
+
+[[files]]
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
