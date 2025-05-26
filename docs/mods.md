@@ -8,7 +8,7 @@
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |

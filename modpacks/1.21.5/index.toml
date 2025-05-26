@@ -22,7 +22,7 @@ hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "ba6bb7331adf96d6c2e3d8e4168dc69caac7c3e9cb3fff37f5c03a60b841fb60"
+hash = "060b153ede523c11a459c7e535aeaa8e7b1ef339213f0ffb1c73b0316b373486"
 
 [[files]]
 file = "config/voicechat/translations.properties"
@@ -55,6 +55,11 @@ hash = "1a7cea44bad8bd6e27677bfc63733f11f1867b635d8918c722f38e8f5cf552ae"
 metafile = true
 
 [[files]]
+file = "mods/better-mount-hud.pw.toml"
+hash = "385f6606afc7086a39eaceec2df95e0c2c5d7aa3a3b31cb67e2a337eb10a4167"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "7eec1f23021757cffb4d9cbb954da4e543cecfc5739a2b5f6d78b1ed6ea10ee6"
 metafile = true
@@ -66,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "edbed5e708caab35dbe3ea9f00b8a44f3e66a48ff64e81db153e4442249fea80"
+hash = "42e205b3e26dcc7778b5d2d75522422ab55b77ea8acfb6cabaed3e8291e1319a"
 metafile = true
 
 [[files]]
@@ -131,7 +136,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "08d4ccb59b4068787d57a323c46c336a883dccf6a42ea684976a40f2cc9a69f6"
+hash = "fee206a23f1e16df638415ce80292e973b23aaf3883affc826458a32a6797092"
 metafile = true
 
 [[files]]
@@ -156,7 +161,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "b145e5dd9741ce6de8408c8c60f9a657f02fd417ddf710a87f2af506b6297256"
+hash = "d5e9cba7c6d829f50503cd92834b2224e854b4f1eb6b8b03333f0ba3c1c61d01"
 metafile = true
 
 [[files]]
@@ -236,7 +241,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "1e9015af19e1fb358585873d1d02a83d4503927a9386464efe5802ca651e16ce"
+hash = "45473d5027f61ec3fe7c60e4835c6215aa12f48086d237c42bdfd34d22c90905"
 metafile = true
 
 [[files]]
@@ -286,7 +291,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "97aa0bb7bc113c8f1cbde3ce1b50d9180dd6e4df6c81860b939572f8948e3026"
+hash = "4e4f1161a4029f3863634ca739651b0b289db8dfce58eba0081d451ebeab427a"
 metafile = true
 
 [[files]]
