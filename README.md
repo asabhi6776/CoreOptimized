@@ -39,6 +39,7 @@ For detailed instruction please visit our Wiki page by [clicking here](https://c
 - Main menu UI update.
 - 1.20.4 and 1.18.2 release.
 - Fix versioning.
+- Add YOSBR.
 
 ## Contributing
 
