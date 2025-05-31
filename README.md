@@ -1,7 +1,7 @@
 <div align="center">
 
 ![Cover](docs/assets/coreoptimized_logo_update.png)
-> **_NOTE:_**  We will be updating the logo on June 1st.
+> **_NOTE:_**  The logo has been updated on all platforms.
 
 <h1> Core Optimized </h1>
 
