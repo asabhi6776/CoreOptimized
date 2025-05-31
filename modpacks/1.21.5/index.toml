@@ -235,6 +235,11 @@ hash = "9445550cf3fcfaaa145d60528e01c55d2fa798bcfc1232c141ddf3b94b6e0022"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "c9f156a56c3647f8003cc76e36accacf12406be6febeb35341e6f7df7a8dcaaa"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "37d94eccb60749412f669a737642a603eb549225c9a49c45320a0ca097dfc513"
 metafile = true

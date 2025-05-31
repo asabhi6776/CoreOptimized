@@ -50,11 +50,6 @@ hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
 
 [[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "51ab728390a44a09607dd2ff4dd88e23b65972b8e6389acc02e19489a3a254f3"
-metafile = true
-
-[[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "25e3fecb8180893095cc52585cc77ae943e2ea9e7382936e00c78a893d46d455"
 metafile = true
@@ -252,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/optigui.pw.toml"
 hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
+metafile = true
+
+[[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "5946527395c7315f3125f410e11c93f00591a9877edd5a5e567785ab9f42ec9e"
 metafile = true
 
 [[files]]

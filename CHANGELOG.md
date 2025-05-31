@@ -17,6 +17,12 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - ImmediatelyFast
   - BetterGrassify
 
+## [1.1.10-beta.13] 1.21.4 - -
+
+## [1.0.6-beta.5] 1.21.3 - -
+
+## [0.0.5] 1.21.1 - -
+
 ## [1.2.0-beta.5] 1.21.5 - 18-05-2025
 ### Added
   - Fresh Animations
@@ -206,7 +212,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Lithium
 
 ## [1.1.10-beta.9] 1.21.4 - 01-03-2025
-
 ### Changed
   - Updated Mods
     - Entity Culling
