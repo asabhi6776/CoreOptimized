@@ -15,7 +15,7 @@ theme:
     - navigation.top
     - navigation.indexes
   locale: en
-  logo: assets/logo.png
+  logo: assets/coreoptimized-logo.png
   favicon: assets/favicon.ico
   font: 
     text: Merriweather Sans
