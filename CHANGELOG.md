@@ -10,6 +10,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
   - Better Mount HUD
   - YOSBR
+  - Paginated Advancements & Custom Frames
 ### Updated
   - Fabric API
   - Polytone
@@ -18,10 +19,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - BetterGrassify
 
 ## [1.1.10-beta.13] 1.21.4 - -
+### Added
+  - YOSBR
+### Updated
+  - Fabric API
+  - Polytone
+  - BetterGrassify
 
 ## [1.0.6-beta.5] 1.21.3 - -
+### Added
+  - YOSBR
+### Updated
+  - Fabric API
+  - BetterGrassify
 
 ## [0.0.5] 1.21.1 - -
+### Added
+  - YOSBR
+### Updated
+  - Fabric API
+  - BetterGrassify
+  - Modernfix
 
 ## [1.2.0-beta.5] 1.21.5 - 18-05-2025
 ### Added

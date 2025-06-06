@@ -71,7 +71,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "e0145e3e408cd0aaab144b366e86baa0689ded740bef57ed7b5b7599142960d9"
+hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
 metafile = true
 
 [[files]]
@@ -141,7 +141,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
@@ -261,7 +261,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "b33df2a834b3576200f63aeb2262f43e7b23b7f31355feecf9539d388d9a45e5"
+hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
 metafile = true
 
 [[files]]
