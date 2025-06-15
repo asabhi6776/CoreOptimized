@@ -1,57 +1,64 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/audioplayer/audioplayer-server.properties"
-hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
-
-[[files]]
-file = "config/debugify.json"
-hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
-
-[[files]]
-file = "config/entity_model_features.json"
-hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
-
-[[files]]
-file = "config/entity_texture_features.json"
-hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
-
-[[files]]
-file = "config/iris.properties"
-hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
+file = "config/fabric_loader_dependencies.json"
+hash = "f0ce430ab22cf826bc9856bab7989fe73b6bffa8a0d0443c6710f8141565b17b"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c412f0d235624de6559a099cc19d833c463e59ae081606c4d22df373e2be43f7"
+hash = "541fedbe521e7cf303fef176fb28c074f4bcc5f87a055d11555c734d16d9e9c2"
 
 [[files]]
-file = "config/voicechat/translations.properties"
+file = "config/yosbr/config/PaginatedAdvancements.json5"
+hash = "3a1c71d2011cac176e00697237148ee882393b19394374862f8025f129d4c5a2"
+
+[[files]]
+file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
+hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
+
+[[files]]
+file = "config/yosbr/config/entity_model_features.json"
+hash = "fbb9a47d877b3b9638c3c57bd53cde5292811a513083ea58c81c1a971a700b3a"
+
+[[files]]
+file = "config/yosbr/config/entity_texture_features.json"
+hash = "1bfc640ac9a5347f2cc06edb01f10cb750fd7073d9809ab66f121ab2e0b9b35e"
+
+[[files]]
+file = "config/yosbr/config/iris.properties"
+hash = "2b9348b31a8a0d8239c5a3bf9cc3afb7b6d2a7b1bc14cd3558bb2c6c72bc7028"
+
+[[files]]
+file = "config/yosbr/config/voicechat/translations.properties"
 hash = "b8215b84232be41438ffb7c7304b57b0677c9cad49b717db59900872080adf20"
 
 [[files]]
-file = "config/voicechat/username-cache.json"
+file = "config/yosbr/config/voicechat/username-cache.json"
 hash = "080e092a2cdf65562653c853debb74b8a052c9423a12598eada8076de8ef9648"
 
 [[files]]
-file = "config/voicechat/voicechat-client.properties"
+file = "config/yosbr/config/voicechat/voicechat-client.properties"
 hash = "90fe49918c922fc32f98ccf770ca16651da6d2c02d042578e708397c5be15ba5"
 
 [[files]]
-file = "config/voicechat/voicechat-server.properties"
+file = "config/yosbr/config/voicechat/voicechat-server.properties"
 hash = "7d49f4a92ed5c5490880869e52a58d291f787f42d93923697aa388830cab3e62"
 
 [[files]]
-file = "config/voicechat/voicechat-volumes.properties"
+file = "config/yosbr/config/voicechat/voicechat-volumes.properties"
 hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
+
+[[files]]
+file = "config/yosbr/options.txt"
+hash = "d4d926d2bfc41259fbb9703df0064376b47ccf76118e8ba3107cc31b0f68a43d"
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
-metafile = true
-
-[[files]]
-file = "mods/better-advancements.pw.toml"
-hash = "d6137fabcdc6232b5286bf7ead13b51f56d5bb70bc23c28c04666c01dfe8e592"
 metafile = true
 
 [[files]]
@@ -76,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "e0145e3e408cd0aaab144b366e86baa0689ded740bef57ed7b5b7599142960d9"
+hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
 metafile = true
 
 [[files]]
@@ -121,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "19183871606b6b95796af7ca4a16b81aa8cf29f22df8bb2fbd8dd6e9a66b5a63"
+hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
 metafile = true
 
 [[files]]
@@ -146,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "687d9f69912b725a879bf3b4da8fb3f63eead93e4ce3e719c2be67d56b70c0b5"
+hash = "18e346acc11ee4082d56b804810909a69010a26eb27ac1ac3840489a6ed754fb"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "97e7fb0bf5c563366b7c6121fa2decb67597107e5594932c6a098cccc980629e"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
 metafile = true
 
 [[files]]
@@ -186,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
+hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
@@ -206,7 +213,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "d0af0219628ebf4ec7b48a66fc88c3c0dc896195b11476c3a86fb5e73c3c705c"
+hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
 metafile = true
 
 [[files]]
@@ -255,13 +262,18 @@ hash = "f59ab3633f781c5b5af3234f694da4c4d5195c9211b1ece7e410b54ec1a183eb"
 metafile = true
 
 [[files]]
+file = "mods/paginatedadvancements.pw.toml"
+hash = "5946527395c7315f3125f410e11c93f00591a9877edd5a5e567785ab9f42ec9e"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
 metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "e0f0d669474ff2d0937b16971a24edbd6d1be0eca58f1b4503b320a9b1159dae"
+hash = "18124e5924bef68f0f391d5c8c7da7d21fb336c1b2c2db7c2e564e5323915b49"
 metafile = true
 
 [[files]]
@@ -286,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "0a6fccc10af5a38576a0bb21944403a64a498abdad8b067978c632e69a3e5ab7"
+hash = "46d2f0f9eb6e9c09618d92dea45977299330a55bca46fd4e2dda5e45d84ea641"
 metafile = true
 
 [[files]]
@@ -335,13 +347,14 @@ hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
 metafile = true
 
 [[files]]
-file = "mods/zoomify.pw.toml"
-hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+file = "mods/yosbr.pw.toml"
+hash = "1bb9b2e75c6934b1f18648e9b37e20abcf6a4a2547c7cdb0abe88407267e0c10"
 metafile = true
 
 [[files]]
-file = "options.txt"
-hash = "d4d926d2bfc41259fbb9703df0064376b47ccf76118e8ba3107cc31b0f68a43d"
+file = "mods/zoomify.pw.toml"
+hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
+metafile = true
 
 [[files]]
 file = "resourcepacks/Redstone Tweaks 2.4.7.zip.rpo"

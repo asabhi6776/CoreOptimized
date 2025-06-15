@@ -6,9 +6,8 @@
 | [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ❌     | ❌     | ❌     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Better Advancements                     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     |
-| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ❌     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -44,6 +43,7 @@
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     |
+| Paginated Advancements & Custom Frames    | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
@@ -61,19 +61,21 @@
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ✅     |
 | YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     |
+| YOSBR                                  | ✅     | ❌     | ✅     | ✅     | ✅     |
 | Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     |
 
-<!-- !!! note "Temporary Changes"
-    - Better Advancements is temporarily replaced with AdvancementsFullscreen in 1.21.5. -->
+!!! note "Changes"
+    - In all versions, Better Advancements is being replaced by Paginated Advancements and Custom Frames.
 
 ??? example "Click to view discontinued mods."
     | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 |
     |-----------------------------------------|--------|--------|--------|--------|
     | Armor Poser                             | ✅     | ❌     | ✅     | ✅     |
+    | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
     | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
-    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     | ❌     |
+    | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
     | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
     | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
@@ -89,7 +91,7 @@
     | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
     | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
     | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
-    | Shulker+                               | ✅     | ❌     | ❌     | ❌     | ❌     |
+    | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
     | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
     | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
 
