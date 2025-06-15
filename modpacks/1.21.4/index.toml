@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "72028ee2d4464eb37fcdfafb39bab016e265f6f761bfd67dab103d2cb7b18e11"
+hash = "06d953295265b2f415532373736703632cbddcfe916a8f6534ab3006f57a6c4f"
 metafile = true
 
 [[files]]
@@ -273,7 +273,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "dbd855235acba3433bce72af61138ad37de733c81537bed6ce963eefbdb9755d"
+hash = "18124e5924bef68f0f391d5c8c7da7d21fb336c1b2c2db7c2e564e5323915b49"
 metafile = true
 
 [[files]]

@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.2.0-beta.6] 1.21.5 - -
+## [1.2.0-beta.6] 1.21.5 - 15-06-2025
 ### Added
   - Better Mount HUD
   - YOSBR
@@ -17,29 +17,34 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Spark
   - ImmediatelyFast
   - BetterGrassify
+  - LambDynamicLights
 
-## [1.1.10-beta.13] 1.21.4 - -
+## [1.1.10-beta.13] 1.21.4 - 15-06-2025
 ### Added
   - YOSBR
 ### Updated
   - Fabric API
   - Polytone
   - BetterGrassify
+  - LambDynamicLights
 
-## [1.0.6-beta.5] 1.21.3 - -
+## [1.0.6-beta.5] 1.21.3 - 15-06-2025
 ### Added
   - YOSBR
 ### Updated
   - Fabric API
   - BetterGrassify
+### Changed
+  - Sodium downgrade to support Iris
 
-## [0.0.5] 1.21.1 - -
+## [0.0.5] 1.21.1 - 15-06-2025
 ### Added
   - YOSBR
 ### Updated
   - Fabric API
   - BetterGrassify
   - Modernfix
+  - LambDynamicLights
 
 ## [1.2.0-beta.5] 1.21.5 - 18-05-2025
 ### Added
