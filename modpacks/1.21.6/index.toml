@@ -1,0 +1,81 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/better-stats.pw.toml"
+hash = "b6902ca150221725f7d80308f8ad0064c9c341848ad0718bc9b1dad5b5111387"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "3c93ec937ac334843447418da8f7f810cdf32a8c21b90eafc39c7604cf7c32f6"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "24ee27482a8ff2e3de6423144131320e79c65b8ba0c4e52e9931f2e1257bdd41"
+metafile = true
+
+[[files]]
+file = "mods/fabric-language-kotlin.pw.toml"
+hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "a9790b94803106e4a07bbe1e72759ec91a18423f10fbede249a7071986fe79d0"
+metafile = true
+
+[[files]]
+file = "mods/iris.pw.toml"
+hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "eb1368b1c8909ed0867f9423aa5885b50a3740d01fe5c057db3b61a3094ac6be"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "f719f367af3abd8289af7f2307f74fd6dcf27786553f8eb6d07f482879991c88"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "11b5a9241c028f5e3cf9befd6975ec80cff1497a7dd23dde17c0f74e9a7b7a52"
+metafile = true
+
+[[files]]
+file = "mods/optigui.pw.toml"
+hash = "43aea184f4522b8219d178ba91e12874e3f2e22ac32fcd72a22519ddcdc671ce"
+metafile = true
+
+[[files]]
+file = "mods/puzzle.pw.toml"
+hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
+metafile = true
+
+[[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "c7daa151af23e7f93b5635c0b2635f1e44cef77f2ca64fdbd14889e792d1b86b"
+metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml"
+hash = "1745f4ec1732e16be5f2c88780a66ca2a94c76c06c5e862db0b2c6cf63b16a47"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "6a42bf12aa7ee876a076549b82beb0d10fddfb7c59cf5d5ab3f9866efb4354bc"
+metafile = true
+
+[[files]]
+file = "mods/visuality.pw.toml"
+hash = "d1de6d3e889db21acd36afb754f20b6ccc8c850cb7ef839047eb440e6114d652"
+metafile = true
