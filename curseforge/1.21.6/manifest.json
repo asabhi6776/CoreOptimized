@@ -1,0 +1,114 @@
+{
+  "minecraft": {
+    "version": "1.21.6",
+    "modLoaders": [
+      {
+        "id": "fabric-0.16.14",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "CoreOptimized",
+  "version": "1.3.0-alpha.1",
+  "author": "SniperXJohn",
+  "files": [
+    {
+      "projectID": 1026394,
+      "fileID": 6664109,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 6663039,
+      "required": true
+    },
+    {
+      "projectID": 60089,
+      "fileID": 6665313,
+      "required": true
+    },
+    {
+      "projectID": 667464,
+      "fileID": 6663365,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 6662741,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 6654253,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 6528301,
+      "required": true
+    },
+    {
+      "projectID": 459857,
+      "fileID": 6365997,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 6661428,
+      "required": true
+    },
+    {
+      "projectID": 482600,
+      "fileID": 6663180,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 6663179,
+      "required": true
+    },
+    {
+      "projectID": 308702,
+      "fileID": 6664210,
+      "required": true
+    },
+    {
+      "projectID": 619986,
+      "fileID": 6661440,
+      "required": true
+    },
+    {
+      "projectID": 563977,
+      "fileID": 6663321,
+      "required": true
+    },
+    {
+      "projectID": 430090,
+      "fileID": 6663316,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 6661395,
+      "required": true
+    },
+    {
+      "projectID": 711539,
+      "fileID": 6663360,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 6661433,
+      "required": true
+    },
+    {
+      "projectID": 374274,
+      "fileID": 4581910,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
