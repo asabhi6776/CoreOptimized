@@ -2,29 +2,29 @@
 
 | Mod Name                                | 1.21.1 | 1.21.2 | 1.21.3 | 1.21.4 | 1.21.5 | 1.21.6 |
 |-----------------------------------------|--------|--------|--------|--------|--------|--------|
-| [EMF] Entity Model Features            | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| [EMF] Entity Model Features            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| [ETF] Entity Texture Features          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ❌     | ❌     | ❌     | ❌     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Clouds                        | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
-| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
-| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
-| Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Cubes Without Borders                  | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities                | ✅     | ❌     | ✅     | ✅     | ❌     | ❌     |
-| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -36,8 +36,8 @@
 | Mod Menu                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Model Gap Fix                           | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     | ❌     |
-| More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
-| More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
+| More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
@@ -47,21 +47,21 @@
 | Presence Footsteps                     | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                        | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     |
-| Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Reese's Sodium Options                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
-| Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| Shulker Box Tooltip                    | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Simple Voice Chat                      | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sodium                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Sodium Extra                           | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Sodium Extra                           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sound Physics Remastered                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
-| spark                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| spark                                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | TCDCommons API                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Text Placeholder API                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Visuality                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| YOSBR                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
-| Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| YetAnotherConfigLib (YACL)             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| YOSBR                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
+| Zoomify                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 
 !!! note "Changes"
     - In all versions, Better Advancements is being replaced by Paginated Advancements and Custom Frames.
