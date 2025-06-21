@@ -6,6 +6,34 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.3.0-alpha.2] 1.21.6 - --06-2025
+### Added
+  - Better Mound HUD
+  - Boat Item View
+  - Chat Heads
+  - Cloth Config API
+  - Entity Model Features
+  - Entity Texture Features
+  - Entity Culling
+  - FastQuit
+  - More Chat History
+  - More Culling
+  - Placeholder API
+  - Reeses Sodium Options
+  - Shulker Box Tooltips
+  - Sodium Extra
+  - Spark
+  - Visuality
+  - Yet another Config Library
+  - Zoomify
+### Updated
+  - ImmediatelyFast
+  - Better Statistics Screen
+  - Jade
+  - LambDynamicLight
+  - Fabric API
+  - Mod Menu
+
 ## [1.3.0-alpha.1] 1.21.6 - 18-06-2025
 ### Changes
   - Initial alpha release.
