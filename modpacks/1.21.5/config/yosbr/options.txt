@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.4.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.5.zip","file/FreshAnimations_v1.9.4.zip"]
 incompatibleResourcePacks:["betterclouds","jade","spark","yet_another_config_lib_v3"]
 lastServer:
 lang:en_us

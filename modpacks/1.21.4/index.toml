@@ -57,13 +57,18 @@ file = "config/yosbr/options.txt"
 hash = "d4d926d2bfc41259fbb9703df0064376b47ccf76118e8ba3107cc31b0f68a43d"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "c5048fc150b79625fe3304de6b57643436f6e232f4f5493cbe0476494e54120e"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "a3ea07b2cf0ca4069cac00d405228f5d2f4a9794ee82238bca8612b6f55b6c03"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "25e3fecb8180893095cc52585cc77ae943e2ea9e7382936e00c78a893d46d455"
+hash = "e76d3055c56a90d9ffc2bc9ca5f2142a0cfb0222a547db41c632c68910c20485"
 metafile = true
 
 [[files]]
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "8c328fbe4e513fc61f221926fe79db047008e3acc776eb141756f4843728ebc4"
+hash = "321066a558542e9b7caeb2e3a93eb4bddd4d3fc2e3d39afbd02e902b17c8f897"
 metafile = true
 
 [[files]]
@@ -128,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "a63069aac3fc618562c8f4fa4f76e0bd3625a90f53d1dc3ff4974862d54dde20"
+hash = "02cd8c09f7bf92fbc852338e45af3af980a40e52fae6aca14e3c1530645bdb33"
 metafile = true
 
 [[files]]
@@ -158,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -213,7 +218,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "f7e23e7fe8a8a92cebf1012f44ced149c27b7400b67f50d92eb3f095e4f45474"
+hash = "bc2593ee70b981e2b23074ff2ef9a074c15aecdc6f4ac35ca2d96a56dddf6e1e"
 metafile = true
 
 [[files]]
@@ -253,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "5d2e07cd857d24d53067a6909b01c078e542dd9b372204c974449ba416713d4e"
+hash = "8852975e4cf5a83cd7cee6ef32e739bb5cfe8d38c0c44a16089924af41472f68"
 metafile = true
 
 [[files]]
@@ -273,7 +278,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "18124e5924bef68f0f391d5c8c7da7d21fb336c1b2c2db7c2e564e5323915b49"
+hash = "4476fe5430edf34b0d812542981ac741844077a7518c245b4417b8d2c0d53ed3"
 metafile = true
 
 [[files]]
@@ -303,7 +308,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "fdc2b264bfae9dbef68222edc1c220708df9ecc9bb8fa74b79ce1ebab6fe5355"
+hash = "8f5755dc875a33fcde94daed49d9b91b5ebd44562e4cce0de7a38981f155728f"
 metafile = true
 
 [[files]]
@@ -343,7 +348,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "75b191c621b271734901f012011f22e0c8f5c21ee5de1bfa369ace9540fd1e76"
+hash = "10f163a2191248c9e512c162a4697e954df7d4a5d837260ec01ac81be6c5447d"
 metafile = true
 
 [[files]]
@@ -372,5 +377,5 @@ metafile = true
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
-hash = "b4a0e54b7e05e967417adf96aa8a09c18c0877cda18e90e1e90e5fdb6dc039cd"
+hash = "b1429957f0dc3c6fc808e94d74b0aa0e4e57e7001f194d261b914790bc28c2d5"
 metafile = true
