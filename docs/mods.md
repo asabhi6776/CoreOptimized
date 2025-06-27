@@ -13,7 +13,7 @@
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Boat Item View                              | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
-| Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
+| Chat Animation [Smooth Chat]           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |
@@ -39,7 +39,7 @@
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| No Chat Reports                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Not Enough Animations                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Paginated Advancements & Custom Frames    | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     |

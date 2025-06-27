@@ -16,6 +16,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Model gap Fix
   - Not Enough Animations
   - Redstone Tweaks
+  - No Chat Reports
+  - Chat Animation
 ### Updated
   - Fabric API
   - Fabric Language Kotlin
