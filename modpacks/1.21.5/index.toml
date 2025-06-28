@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "35858461eff0a3d425083811be07a963a2bbcfd99ae889a06d673f2519cc810d"
+hash = "b02911b443272d0d7596817cd3feaf3ce21085c7476d9525d7ebc0b5956a53cd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "060b153ede523c11a459c7e535aeaa8e7b1ef339213f0ffb1c73b0316b373486"
+hash = "6237ae10857f0f8ca59baac47812ae1790c57dd9971f1e0a12ea2205a3f8e86e"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -54,7 +54,12 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "894dfd1d291ca68175a877cb4864bf3f8638c92c5fff7596e00298fa985b23b8"
+hash = "102cc4817a7598f45699c7853a0c04de5ab56f0d3a69be89fd563ce40771be77"
+
+[[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
@@ -63,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "1a7cea44bad8bd6e27677bfc63733f11f1867b635d8918c722f38e8f5cf552ae"
+hash = "3e4437c853f98971f45aafcc58580d7f4cc115c801df5cada5ba18c63cbe4976"
 metafile = true
 
 [[files]]
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "42e205b3e26dcc7778b5d2d75522422ab55b77ea8acfb6cabaed3e8291e1319a"
+hash = "d8a788b59e239573694e09a72c14dff19cffdd5b85671fd6722130d7f4f0e831"
 metafile = true
 
 [[files]]
@@ -128,17 +133,17 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "a119aa71d4ec78d6ef21bc8c409a2e2a938d493b7f7aacfa63c0998e8d370e11"
+hash = "9a386c47e3ee11b91e443d8ec1b6084eb0266b5ddbd127ea3e90c7fa4ff5d9fd"
 metafile = true
 
 [[files]]
 file = "mods/entity-model-features.pw.toml"
-hash = "9e85c1d81c240528f05a386717bc69d02f4d7862c53c7ddccbeb17f742000771"
+hash = "ac15d0873dd1f711e886f07f463b2bd9912940a344ef4dd4219aa456ba4760e4"
 metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "138e20f1257a5fed553a89c8701a5c15f22986a2e8b77c87bea3eafa59995920"
+hash = "f91706e274edf8016379c50d22d607dc344754f051b7cf30835c0e758ba995e0"
 metafile = true
 
 [[files]]
@@ -148,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "7526ccbba405cff20b86350c9e0a59c8c470a59df70abb2fc307b6537a76105b"
+hash = "191d25d191a31ada2de9916f4f6ad9b339c1775b104ea4046e414422a09888bc"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -198,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "5773d3e597b591a9cd1d6d0808aa5820ecfef9f95c3ebe88aae485980f032e8a"
+hash = "29bc0f585963a84e1f78af8a1ab779e34dcc4c1657190297bca9cd95aeb90d36"
 metafile = true
 
 [[files]]
@@ -238,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "f1873dc9fe8a5cbea26ceffba3ec46098bce4eef7f4efd29ea849df9ccc2f66c"
+hash = "931d706e7a535b283cdbf8330464a0d3484c3251ea94e466e26021bbbbc222f9"
 metafile = true
 
 [[files]]
@@ -288,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "8ff84533e8fe06943d7d72e25e9b4393837e574a5c7c9e358206294b2cb0939c"
+hash = "8a5eece3c0860ae9e430f4b24f5c4720f5bc3993ceb69bddf53034f8a34fc2da"
 metafile = true
 
 [[files]]
@@ -328,7 +333,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "07d2a07067af1330cda2f153bf753dd2dea151062be830acb74b6a39a308fe60"
+hash = "dc66d444a8cfd427c3c05d47babcc43f7fca842c1d7731116bd07c7d88441edc"
 metafile = true
 
 [[files]]
@@ -342,6 +347,15 @@ hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
 
 [[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
+
+[[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "63afe0bdced729726cdeea08c7af847d0e58d51682f093062d253adb8c795422"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "b1429957f0dc3c6fc808e94d74b0aa0e4e57e7001f194d261b914790bc28c2d5"
 metafile = true

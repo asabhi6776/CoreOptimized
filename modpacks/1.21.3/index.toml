@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "5ebc1383525915812a6f06b9103cfcd26f2a6a5f7e928e0bba405004d78817f1"
+hash = "89527b85432c179bb22ddbb6f10eac3e13d81273322825435fa3363323e31755"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "9a0f8f00af0ac6ee3aa1477c361c6e8fca3f59d8b2a49837fe12aaac95f59efc"
+hash = "861c7bebcc254ee8e5e0de520626a5b659617db2c0f9aae4498b4032f34af1b0"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -57,13 +57,18 @@ file = "config/yosbr/options.txt"
 hash = "d2fc5f7ea65ed37180a7eb55312cf4d2248d264abff5021fe009a819c73a1668"
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "353e6baf1f2f39aa16867955bec2242146388a851b32dbcd702e8e98154d777d"
+metafile = true
+
+[[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "52a45d702db639cc31867999dcf89163f8ade1049c619544d97d213d9a06c77a"
 metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "c3dace795f661588f7bdde6afd616dff6d3e72462f6cb81de27924c8a5653863"
+hash = "c0f9da328913cb7442c14d81645332c1794ac00a649e642c3906aff3c8cbdb74"
 metafile = true
 
 [[files]]
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "5419cab41996adb48f851d83d491306e1e0454c184d5159b8e3a287119b79aa9"
+hash = "68fc6f29e489481565a46b7b38fb4814afe44ffa80d75013ef3952be291a9670"
 metafile = true
 
 [[files]]
@@ -128,7 +133,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "34ef3b2634e0c8466530e488cc024ea95dfcf70d378599aa8c8b54d901bff0c5"
+hash = "04851cf23a0fef9e213180bf5926b705c5ad2d0b04d41934b915cc1ccfabd841"
 metafile = true
 
 [[files]]
@@ -143,7 +148,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "ffd140accaec252adf6647a226d858001d4d7baf7a69703ae94ede9f0cd686c6"
+hash = "c9177bb50ac98e6029d51100ae5259e04e24e174bb774cccc8f043befd89734c"
 metafile = true
 
 [[files]]
@@ -158,7 +163,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "967a780be97bec40b8bca4945a053ee4fbd05d58e218c4fb803959ac0d0c7f08"
+hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
 metafile = true
 
 [[files]]
@@ -218,7 +223,7 @@ metafile = true
 
 [[files]]
 file = "mods/malilib.pw.toml"
-hash = "0e3e0a8c5ee562e8f5ecd09d5ee1d2fd9790713d5e939f19ee0e6a4a58adf307"
+hash = "7ded2108571bbaa0be4c438e6ef4c6af25409b18d659feb07c0f43dcaf52fa39"
 metafile = true
 
 [[files]]
@@ -253,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "ecc5e185561e914c11653801798455493f130199c37577ff09bb4b8e2e7c0631"
+hash = "408ad9a2cef59858e157092e608ef709e0ab2d896cf59e7f293fe567b72c81df"
 metafile = true
 
 [[files]]
@@ -298,7 +303,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "33c5ab3b28af8ebb02d8bf71e0e126011ccb03b5862b0e571ef356d3fd4f7cec"
+hash = "8ca44e2d8824fabc2400035b5ccf45d5d567acbca03f7baf4aa4b45183446b42"
 metafile = true
 
 [[files]]
@@ -308,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "063756db96c81916d61a31c9ff7ae494e4d7f4cc6be3753cc251a4f77cb0643f"
+hash = "29ebd09725b8a0a99e3c9eeb2e1b5c2a48063939d348a370844ed65f14ddf29b"
 metafile = true
 
 [[files]]
@@ -333,7 +338,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "6dc5a79a6401ab102d8078801c4f738848af9e16a2ee78b3ad6681c1bb90eeef"
+hash = "d60bf3b6d631a39aabaf12e48dd6443c4176930f63d05f08011fdb940c86f4a6"
 metafile = true
 
 [[files]]

@@ -6,6 +6,69 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.3.0-alpha.3] 1.21.6 - 28-06-2025
+### Added
+  - Animatica
+  - Better Clouds
+  - BetterF3
+  - Cubes Without Borders
+  - Held Item Info
+  - Model gap Fix
+  - Not Enough Animations
+  - Redstone Tweaks
+  - No Chat Reports
+  - Chat Animation
+### Updated
+  - Fabric API
+  - Fabric Language Kotlin
+  - Dynamic FPS
+  - Sodium Extra
+  - RespackOpts
+  - Simple Voice Chat
+
+## [1.2.0-beta.7] 1.21.5 - 28-06-2025
+### Added
+  - Animatica
+  - Redstone Tweaks
+### Updated
+  - BetterGrassify
+  - Dynamic FPS
+  - Entity Culling
+  - Lithium
+  - Not Enough Animations
+  - Fabric API
+  - Fabric Language Kotlin
+  - Better Clouds
+  - Entity Model Features
+  - Simple Voice Chat
+
+## [1.1.2] 1.21.4 - 28-06-2025
+### Added
+  - Animatica
+### Updated
+  - Fabric Language kotlin
+  - Entity Culling
+  - BetterGrassify
+  - Better Clouds
+  - Dynamic FPS
+  - Not Enough Animations
+  - Simple Voice Chat
+  - Polytone
+  - Redstone Tweaks
+
+## [1.0.6-beta.6] 1.21.3 - 28-06-2025
+### Added
+  - Animatica
+### Updated
+  - Fabric Language kotlin
+  - Entity Culling
+  - BetterGrassify
+  - Better Clouds
+  - Dynamic FPS
+  - Not Enough Animations
+  - Simple Voice Chat
+  - Sodium
+
 ## [1.3.0-alpha.2] 1.21.6 - 22-06-2025
 ### Added
   - Better Mound HUD
