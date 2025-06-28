@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6165cd4d519d2782e6f401a5ebe1d1ac716dff9d11af35e87ec57b8f58ec0738"
+hash = "f42c900ce1461a75f6b8a25ad531bf8481c833c0aaa7967334e8b837d8396d29"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "4434d766e45e20f20c3d2235240857fc2b86fb132e3923b23d5d9d409dd9f351"
+hash = "319f34a97fce51d85c89e9663e68fdc791a74b6d02ba4e7de6c9887fda69ce6c"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -46,7 +46,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "14f608bd727a9734b2e9b4b29ea4344af391f21fd9174500fda878edc7eabb03"
+hash = "6d78cbc3a31b0fddd388278480e913e10bf2260171a92fa54b100042704b0b87"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3d5da87182e681fc30531abe525662e988d605b7ed77346ea664aacc82004a21"
+hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
 metafile = true
 
 [[files]]
@@ -297,6 +297,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"

@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.2.0-beta.6",
+  "version": "1.2.0-beta.7",
   "author": "SniperXJohn",
   "files": [
     {
@@ -21,7 +21,7 @@
     },
     {
       "projectID": 1026394,
-      "fileID": 6560869,
+      "fileID": 6664108,
       "required": true
     },
     {
@@ -52,6 +52,11 @@
     {
       "projectID": 574741,
       "fileID": 5838117,
+      "required": true
+    },
+    {
+      "projectID": 533006,
+      "fileID": 6680910,
       "required": true
     },
     {
@@ -101,12 +106,12 @@
     },
     {
       "projectID": 335493,
-      "fileID": 6501954,
+      "fileID": 6662091,
       "required": true
     },
     {
       "projectID": 844662,
-      "fileID": 6360144,
+      "fileID": 6666191,
       "required": true
     },
     {
@@ -116,17 +121,17 @@
     },
     {
       "projectID": 448233,
-      "fileID": 6355881,
+      "fileID": 6675266,
       "required": true
     },
     {
       "projectID": 306612,
-      "fileID": 6614851,
+      "fileID": 6687827,
       "required": true
     },
     {
       "projectID": 308769,
-      "fileID": 6528301,
+      "fileID": 6688121,
       "required": true
     },
     {
@@ -161,7 +166,7 @@
     },
     {
       "projectID": 360438,
-      "fileID": 6401322,
+      "fileID": 6658792,
       "required": true
     },
     {
@@ -186,7 +191,7 @@
     },
     {
       "projectID": 433760,
-      "fileID": 6356224,
+      "fileID": 6688531,
       "required": true
     },
     {
@@ -256,7 +261,7 @@
     },
     {
       "projectID": 416089,
-      "fileID": 6439696,
+      "fileID": 6687378,
       "required": true
     },
     {
@@ -266,7 +271,7 @@
     },
     {
       "projectID": 667299,
-      "fileID": 6336634,
+      "fileID": 6662862,
       "required": true
     },
     {
@@ -277,6 +282,11 @@
     {
       "projectID": 453763,
       "fileID": 6528594,
+      "required": true
+    },
+    {
+      "projectID": 548744,
+      "fileID": 6684371,
       "required": true
     },
     {

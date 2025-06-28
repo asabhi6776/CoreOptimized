@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "35858461eff0a3d425083811be07a963a2bbcfd99ae889a06d673f2519cc810d"
+hash = "b02911b443272d0d7596817cd3feaf3ce21085c7476d9525d7ebc0b5956a53cd"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "060b153ede523c11a459c7e535aeaa8e7b1ef339213f0ffb1c73b0316b373486"
+hash = "6237ae10857f0f8ca59baac47812ae1790c57dd9971f1e0a12ea2205a3f8e86e"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -54,7 +54,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "894dfd1d291ca68175a877cb4864bf3f8638c92c5fff7596e00298fa985b23b8"
+hash = "102cc4817a7598f45699c7853a0c04de5ab56f0d3a69be89fd563ce40771be77"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -345,6 +345,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "c9a5dca078d983e94d629ca4bf402fff78e364e5b5365ff43373d77eec268432"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

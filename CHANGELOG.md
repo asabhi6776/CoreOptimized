@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.3.0-alpha.3] 1.21.6 - --06-2025
+## [1.3.0-alpha.3] 1.21.6 - 28-06-2025
 ### Added
   - Animatica
   - Better Clouds
@@ -26,7 +26,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - RespackOpts
   - Simple Voice Chat
 
-## [1.2.0-beta.7] 1.21.5 - --06-2025
+## [1.2.0-beta.7] 1.21.5 - 28-06-2025
 ### Added
   - Animatica
   - Redstone Tweaks
@@ -42,7 +42,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Entity Model Features
   - Simple Voice Chat
 
-## [1.1.2] 1.21.4 - --06-2025
+## [1.1.2] 1.21.4 - 28-06-2025
 ### Added
   - Animatica
 ### Updated
@@ -56,7 +56,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Polytone
   - Redstone Tweaks
 
-## [1.0.6-beta.6] 1.21.3 - --06-2025
+## [1.0.6-beta.6] 1.21.3 - 28-06-2025
 ### Added
   - Animatica
 ### Updated
