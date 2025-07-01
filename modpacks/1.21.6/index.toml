@@ -303,6 +303,11 @@ file = "resourcepacks/Redstone Tweaks 2.5.zip.rpo"
 hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
+file = "resourcepacks/fresh-animations.pw.toml"
+hash = "63afe0bdced729726cdeea08c7af847d0e58d51682f093062d253adb8c795422"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "b1429957f0dc3c6fc808e94d74b0aa0e4e57e7001f194d261b914790bc28c2d5"
 metafile = true
