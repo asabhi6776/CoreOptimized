@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "f42c900ce1461a75f6b8a25ad531bf8481c833c0aaa7967334e8b837d8396d29"
+hash = "d43b19c69f2e556b387b4080448df44abb49272016741edd592a95a3a259b158"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "319f34a97fce51d85c89e9663e68fdc791a74b6d02ba4e7de6c9887fda69ce6c"
+hash = "94355c0fbecf03e6a358337b7fd5b3da50a67418ab3c899d5ae91452b8509cdf"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -46,7 +46,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "6d78cbc3a31b0fddd388278480e913e10bf2260171a92fa54b100042704b0b87"
+hash = "5d12e341a21e78baa97a3ecc34c546baa44b8dacc809d23c75c1b4ac6ed7f1e1"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -86,6 +86,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "6bf767c29257ddaa705195652f5e9ff57854bbcb4d67fc0735a764b077ab9c96"
+metafile = true
+
+[[files]]
+file = "mods/capes.pw.toml"
+hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
 metafile = true
 
 [[files]]
@@ -130,7 +135,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3eaeb9f0bd3ce711cf42f9edc1397bb7ce4e2974d7fc54d2356e01f2e0a4504d"
+hash = "256b3418c1af70c2ae837937a7d53f007cb12eb81eec57afbc03e33cdb43cef6"
 metafile = true
 
 [[files]]
@@ -160,7 +165,7 @@ metafile = true
 
 [[files]]
 file = "mods/iris.pw.toml"
-hash = "e3ed2c112bfe0abbc4d2c52c7d4c2086fe136e133784775c2f5a43d8f899868c"
+hash = "f9acd9fa6c8e3e28c54f196c3840ae9227265a966d511e21be5056951706ea00"
 metafile = true
 
 [[files]]
@@ -260,7 +265,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "51da860039269831a6c489852a8096cdbde4147003e6535a449ed198e80d8b3f"
+hash = "4f55b1a2ba7045c22027af34c2ea7850724c54dcd030471fdaaae4003f624053"
 metafile = true
 
 [[files]]
@@ -275,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "b48f383658b3d564a166cf6a26f856b5dd2d2aa61995f7a9beb64e72cd716716"
+hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
 metafile = true
 
 [[files]]

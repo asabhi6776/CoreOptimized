@@ -4,28 +4,28 @@
 |-----------------------------------------|--------|--------|--------|--------|--------|--------|--------|
 | [EMF] Entity Model Features             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | [ETF] Entity Texture Features           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
-| Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
-| Cubes Without Borders                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Cubes Without Borders                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities                 | ✅     | ❌     | ✅     | ✅     | ❌     | ❌     | ❌     |
-| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Fabric Language Kotlin                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Fabric Language Kotlin                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| FerriteCore                             | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fresh Animations                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Held Item Info                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | ImmediatelyFast                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -38,10 +38,10 @@
 | ModernFix                               | ✅     | ❌     | ❌     | ✅     | ❌     | ❌     | ❌     |
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Mouse Tweaks                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Mouse Tweaks                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
 | Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
@@ -60,7 +60,7 @@
 | Visuality                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | World Play Time                         | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     |
 | YetAnotherConfigLib (YACL)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| YOSBR                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| YOSBR                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Zoomify                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 
 !!! note "Changes"
