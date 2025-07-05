@@ -6,6 +6,25 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.4.0-alpha.1] 1.21.7 - 05-07-2025
+### Changes
+  - Initial alpha release.
+  - Stable and tested.
+  - [Click Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click) for modlist.
+  - Capes config crashes the game, please edit the file, we will fix this in next update.
+
+## [1.3.0-alpha.4] 1.21.6 - 05-07-2025 ⚠️⚠️
+### Added
+  - Fresh Animation
+  - Capes
+### Updated
+  - Iris Shaders
+  - Simple Voice Chat
+  - Spark
+  - Fabric API
+### Notes
+  - Mojang released 1.21.7 to address some bugs and issues in this version. Please upgrade to 1.21.7, don't expect regular update for this version.
+
 ## [1.3.0-alpha.3] 1.21.6 - 28-06-2025
 ### Added
   - Animatica
