@@ -6,7 +6,7 @@
 | [ETF] Entity Texture Features           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -46,7 +46,7 @@
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
 | Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Redstone Tweaks                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Redstone Tweaks                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Respackopts                             | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Shulker Box Tooltip                     | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |

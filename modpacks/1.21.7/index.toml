@@ -67,6 +67,11 @@ hash = "92a9a3bdf5d80ef7f487e91112dc8b5e309824217845bc00eeb9245cacf23883"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "457d586ce9576da9c0a9ead71f08d45a04e5d7ab2b94125ac2533ec7acf8acdf"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -324,4 +329,9 @@ metafile = true
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"
 hash = "63afe0bdced729726cdeea08c7af847d0e58d51682f093062d253adb8c795422"
+metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "4630fa484a590c22d82d63189259913bb345883b04e5e179bb8b087375d9dbb6"
 metafile = true
