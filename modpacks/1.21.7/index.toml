@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "482da12eea36aee7915acf19c4e62c6bd3a7034e034d84a75b36c52047dc4b2f"
+hash = "1678dd34bb8e20774544ceb8e29e90ba1df04272877490ebca1356f1d7f7727a"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "7c18fb489a91a4685f684813a1cdd4681942b4a62c3ab1823aee2e8a7c2f3a44"
+hash = "a69f4cf3eea29c4bb9d24066594f783de6cd0f7e782ad762fe884c6dfaa0dda8"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -54,7 +54,7 @@ hash = "58242ef3075b166845e0081281b01113a55b9d095104a68b167e7b4bc08b87c5"
 
 [[files]]
 file = "config/yosbr/options.txt"
-hash = "4e7491b6e62f04dbb22ac865b1efc8d69e30131f1b786c6b6cc9b7b6e5182394"
+hash = "1f0dd6bbfc8ae7f9505189f3cdb122acb205c0687295574a169c8c7878a4804c"
 
 [[files]]
 file = "mods/animatica.pw.toml"
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "28204de4900d8a33b63369909abded5d81e02451a1496f54a7555cd125a81e70"
+hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
 metafile = true
 
 [[files]]
@@ -243,7 +243,7 @@ metafile = true
 
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
-hash = "4d5f9f63a3d6dcd564d19598e6362937738eb17acc572eeab49c0dc8c5d7b851"
+hash = "ca512a7a5b1033f5f8823e015a95a6090907dd01738f9ca8fc4ef188d56c88d3"
 metafile = true
 
 [[files]]
@@ -330,6 +330,10 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "33a6300bdf82bd4297aeba3c660ebb0f0993121b97f0824a939468e4dcb81d15"
 metafile = true
+
+[[files]]
+file = "resourcepacks/Redstone Tweaks 2.5.1.zip.rpo"
+hash = "5c353417428ccd7e9182d2a4ff226640dcea2af2d90b9a0876219545be60577c"
 
 [[files]]
 file = "resourcepacks/fresh-animations.pw.toml"

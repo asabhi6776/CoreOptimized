@@ -49,7 +49,7 @@ damageTiltStrength:1.0
 highContrast:false
 highContrastBlockOutline:false
 narratorHotkey:true
-resourcePacks:["vanilla","fabric","file/FreshAnimations_v1.9.4.zip"]
+resourcePacks:["vanilla","fabric","file/Redstone Tweaks 2.5.1.zip","file/FreshAnimations_v1.9.4.zip"]
 incompatibleResourcePacks:["jade"]
 lastServer:
 lang:en_us
