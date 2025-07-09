@@ -16,7 +16,7 @@
 | Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     |
+| Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Cubes Without Borders                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -73,26 +73,26 @@
     | Better Advancements                     | ✅     | ❌     | ✅     | ✅     |
     | BSL Shaders                             | ✅     | ✅     | ✅     | ✅     |
     | Carpet                                  | ✅     | ✅     | ✅     | ❌     |
-    | Chat Reporting Helper                  | ❌     | ✅     | ✅     | ✅     |
+    | Chat Reporting Helper                   | ❌     | ✅     | ✅     | ✅     |
     | CIT Resewn                              | ✅     | ❌     | ❌     | ❌     |
     | Dynamic Lights                          | ✅     | 🛑     | 🛑     | 🛑     |
     | Enchant Icons                           | ✅     | ❌     | ❌     | ❌     |
-    | Even Better Enchants                   | ✅     | ❌     | ✅     | ✅     |
-    | FabricSkyboxes                         | ✅     | ❌     | ❌     | ❌     |
-    | FabricSkyBoxes Interop                 | ✅     | ❌     | ❌     | ❌     |
-    | Fast Better Grass                      | ❌     | ✅     | ✅     | ✅     |
+    | Even Better Enchants                    | ✅     | ❌     | ✅     | ✅     |
+    | FabricSkyboxes                          | ✅     | ❌     | ❌     | ❌     |
+    | FabricSkyBoxes Interop                  | ✅     | ❌     | ❌     | ❌     |
+    | Fast Better Grass                       | ❌     | ✅     | ✅     | ✅     |
     | Flashback                               | ❌     | ❌     | ✅     | ✅     |
-    | Freecam (Modrinth Edition)             | ✅     | ✅     | ✅     | ✅     |
+    | Freecam (Modrinth Edition)              | ✅     | ✅     | ✅     | ✅     |
     | Indium                                  | ✅     | ❌     | ❌     | ❌     |
-    | Item Scroller                            | ❌     | ❌     | ✅     | ✅     |
-    | Just Enough Items                      | ✅     | ❌     | ❌     | 🛑     |
+    | Item Scroller                           | ❌     | ❌     | ✅     | ✅     |
+    | Just Enough Items                       | ✅     | ❌     | ❌     | 🛑     |
     | Litematica                              | ✅     | ✅     | ✅     | 🛑     |
     | MaLiLib                                 | ✅     | ✅     | ✅     | ❌     |
     | MiniHUD                                 | ✅     | ✅     | ✅     | ❌     |
-    | Roughly Enough Items (REI)             | ❌     | ✅     | ✅     | 🛑     |
-    | Shulker+                               | ✅     | ❌     | ❌     | ❌     |
-    | Tweakeroo                              | ✅     | ✅     | ✅     | ❌     |
-    | WorldEdit                              | ✅     | ❌     | ✅     | 🛑     |
+    | Roughly Enough Items (REI)              | ❌     | ✅     | ✅     | 🛑     |
+    | Shulker+                                | ✅     | ❌     | ❌     | ❌     |
+    | Tweakeroo                               | ✅     | ✅     | ✅     | ❌     |
+    | WorldEdit                               | ✅     | ❌     | ✅     | 🛑     |
 
 !!! warning "Discontinuation Warning"
     We have removed these mods from the modpack to ensure that players can join any multiplayer server without issues. Based on feedback from our beta testers, several servers do not allow or support the aforementioned mods. We appreciate your understanding as we strive to maintain broad compatibility and improve the overall gameplay experience.
