@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - ImmediatelyFast
   - ShulkerBoxTooltip
   - Simple Voice Chat
+  - Capes
 
 ## [1.4.0-alpha.2] 1.21.7 - 08-07-2025
 ### Added 
