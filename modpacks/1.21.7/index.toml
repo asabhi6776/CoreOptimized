@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1678dd34bb8e20774544ceb8e29e90ba1df04272877490ebca1356f1d7f7727a"
+hash = "5ee9f6ba353689aa5651e3a6b8c031c3fa21df470d51059fd1961eb369fe6908"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a69f4cf3eea29c4bb9d24066594f783de6cd0f7e782ad762fe884c6dfaa0dda8"
+hash = "0884c7c59acc5112e04e6c7aacfef041ab457c9e346005fac20b6b9f50d22b52"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
+hash = "147833f29c84ad85d9b6fb60fc71d64f9b493d2240561e5c437af71ecd95d82f"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
 
 [[files]]
