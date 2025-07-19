@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "1678dd34bb8e20774544ceb8e29e90ba1df04272877490ebca1356f1d7f7727a"
+hash = "5ee9f6ba353689aa5651e3a6b8c031c3fa21df470d51059fd1961eb369fe6908"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a69f4cf3eea29c4bb9d24066594f783de6cd0f7e782ad762fe884c6dfaa0dda8"
+hash = "0884c7c59acc5112e04e6c7aacfef041ab457c9e346005fac20b6b9f50d22b52"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "20d7b9a3333ef86d70c3b3becaeccc9ef5961c41e8cd936bb1df9cf0b946c546"
+hash = "147833f29c84ad85d9b6fb60fc71d64f9b493d2240561e5c437af71ecd95d82f"
 metafile = true
 
 [[files]]
@@ -143,7 +143,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "cf5fa2962068a4975d4adbce3abcf0d34ca316e3b81f21f4d2707853f5192755"
+hash = "dff937930734d00e3cd2c644d20d5015df3ad53cc9d23fae2704326774cadbad"
 metafile = true
 
 [[files]]
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "3ab863279b0298b5782884d871201457f2dc8b6d28ef112621a2a91cdb4b1226"
+hash = "6a2b381b6a18c0b74dbc04a25cc8266964c3a5535885caa0dc5fa6c213fc8855"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "9d6b46943f6ad2518f3acb4598d4afdb74843a069dde3cd7c9fa8dd89723de50"
+hash = "3447c30e10bb52798f1bb68c86a3c4d800139af22056baa8ae406b788e1d8548"
 metafile = true
 
 [[files]]
@@ -278,12 +278,12 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "7ddf2626d6803eb28b56b12bb18b0e8a9b1d828806d7af7b2b0ab8be0da759fc"
+hash = "bcaa1650a5c5cb79e1063ba3d5bd5bf0ab3d78b8e0199e217a42617f8225a8cc"
 metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "c8b5a1924109b9103d1fd65c23ae18b00fc3b20720a0060d83e1ae3b5fda86e8"
+hash = "40630d6f1fdd0011a3aa9270af99b331103a9eaed6e7832650e85b325a50bc85"
 metafile = true
 
 [[files]]
