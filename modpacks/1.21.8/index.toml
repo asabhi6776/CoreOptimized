@@ -83,7 +83,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "b142575f02e92313bbf70fa85b0a3ae18b23d5da7bb8811b0012dbe5d5fe597a"
+hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
 metafile = true
 
 [[files]]
@@ -93,7 +93,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
+hash = "147833f29c84ad85d9b6fb60fc71d64f9b493d2240561e5c437af71ecd95d82f"
 metafile = true
 
 [[files]]
