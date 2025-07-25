@@ -1,0 +1,13 @@
+name = "Better Clouds"
+filename = "better-clouds-1.10.2-alpha+1.21.8-fabric.rev.124e2fb.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5srFLIaK/versions/QUujU5IR/better-clouds-1.10.2-alpha%2B1.21.8-fabric.rev.124e2fb.jar"
+hash-format = "sha512"
+hash = "58f07d2fc6bf2d572d0e25873ef2f10755f9b89b5135fc74e358be2100915ba7615642ff2ba8a6c6dff05dddea866c14cdf32bfcfafa00534994aec43a99a0c7"
+
+[update]
+[update.modrinth]
+mod-id = "5srFLIaK"
+version = "QUujU5IR"

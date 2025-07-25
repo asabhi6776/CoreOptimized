@@ -6,7 +6,7 @@
 | [ETF] Entity Texture Features           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |

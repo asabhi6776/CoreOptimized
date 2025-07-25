@@ -7,10 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 
 ## [1.5.0-beta.1] 1.21.8 - ---07-2025
+### Added
+  - Better Clouds
 ### Updated
   - Capes
   - BetterGrassify
   - Spark
+  - Debugify
+  - Sound Physics Remastered
 
 ## [1.5.0-alpha.1] 1.21.8 - 19-07-2025
 ### Changed

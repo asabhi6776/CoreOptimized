@@ -67,6 +67,11 @@ hash = "8b8e03d3ab7eaa7d93cd25d79f6e21fc5fd4124beb3b6735c09af0261ff7ee17"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "5f42a643c0f15703c13f991071149d443dec5c31d109a48263b4430c628752a1"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -123,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
+hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
 
 [[files]]
@@ -293,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c81b0c7cdfbb4bcbe9c42355c6ac11458e9a87c75fc10f727167beaadcea7e17"
+hash = "67644682da40a0544280729c66d54e6a0e4b6814807c717a19e5ce26b6b9afec"
 metafile = true
 
 [[files]]
