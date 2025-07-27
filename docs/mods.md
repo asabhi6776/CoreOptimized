@@ -6,7 +6,7 @@
 | [ETF] Entity Texture Features           | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Animatica                               | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -43,7 +43,7 @@
 | Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     |
+| Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     |
 | Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |

@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "93724bd69dbdcfd9e32c523eda99af933a494b69a16036329dae17581a2d79d0"
+hash = "ebc8832643ed23c11074c79d7bb004977b0fe42147f9a8dba1290858b836b58d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a59bc22bd1a36d2841659e40ae9e3150b66de95031c63191178612b96ffdebd7"
+hash = "649b00f8c5e8249ea843af33b3c5ccf335b214d0e19643841c04111e8d4c69e4"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -67,6 +67,11 @@ hash = "8b8e03d3ab7eaa7d93cd25d79f6e21fc5fd4124beb3b6735c09af0261ff7ee17"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "5f42a643c0f15703c13f991071149d443dec5c31d109a48263b4430c628752a1"
+metafile = true
+
+[[files]]
 file = "mods/better-mount-hud.pw.toml"
 hash = "6ef53c2c4e506e111b4bd7c1bc8804a5a7dcb2f6e3b79054575e73f6ce61ee94"
 metafile = true
@@ -83,7 +88,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettergrassify.pw.toml"
-hash = "b142575f02e92313bbf70fa85b0a3ae18b23d5da7bb8811b0012dbe5d5fe597a"
+hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
 metafile = true
 
 [[files]]
@@ -93,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "e63121dc71d3caaf9f872cf3a1869f86945ba9132599cba085a858f2209c503c"
+hash = "c54c63db8982ebcdcc966c4d95a30e42379c1db5cb8875840d736bec8c7ceb9a"
 metafile = true
 
 [[files]]
@@ -123,7 +128,7 @@ metafile = true
 
 [[files]]
 file = "mods/debugify.pw.toml"
-hash = "bbf9d695a6bc75a6126aa49591f2ac0545bc3c20e370949ce3b4105b9405fb8a"
+hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
 
 [[files]]
@@ -148,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
+hash = "e27164b011d0fdd2c60313e0fd7b33ff88c340c03d36a6f03ec1e9cdfd975456"
 metafile = true
 
 [[files]]
@@ -257,6 +262,11 @@ hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
 metafile = true
 
 [[files]]
+file = "mods/polytone.pw.toml"
+hash = "08a6cdde32565831b80288a5a209e0fa5f7e778517f22896b455e42e2970390c"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
 metafile = true
@@ -293,12 +303,12 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "c81b0c7cdfbb4bcbe9c42355c6ac11458e9a87c75fc10f727167beaadcea7e17"
+hash = "67644682da40a0544280729c66d54e6a0e4b6814807c717a19e5ce26b6b9afec"
 metafile = true
 
 [[files]]
 file = "mods/spark.pw.toml"
-hash = "618e5a322ce8133e22c58972e1bd0f57d52862d7f5d4d6051e5d2fdb9a9fd8ca"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
 metafile = true
 
 [[files]]
