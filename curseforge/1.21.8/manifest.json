@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.5.0-alpha.1",
+  "version": "1.5.0-beta.1",
   "author": "SniperXJohn",
   "files": [
     {
@@ -21,12 +21,7 @@
     },
     {
       "projectID": 1026394,
-      "fileID": 6664109,
-      "required": true
-    },
-    {
-      "projectID": 596224,
-      "fileID": 6712811,
+      "fileID": 6795000,
       "required": true
     },
     {
@@ -60,6 +55,11 @@
       "required": true
     },
     {
+      "projectID": 1285973,
+      "fileID": 6796515,
+      "required": true
+    },
+    {
       "projectID": 475358,
       "fileID": 6679741,
       "required": true
@@ -70,8 +70,13 @@
       "required": true
     },
     {
+      "projectID": 482160,
+      "fileID": 6732003,
+      "required": true
+    },
+    {
       "projectID": 408481,
-      "fileID": 6775494,
+      "fileID": 6796814,
       "required": true
     },
     {
@@ -100,6 +105,11 @@
       "required": true
     },
     {
+      "projectID": 596224,
+      "fileID": 6810436,
+      "required": true
+    },
+    {
       "projectID": 335493,
       "fileID": 6695571,
       "required": true
@@ -121,7 +131,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 6772478,
+      "fileID": 6813886,
       "required": true
     },
     {
@@ -205,6 +215,11 @@
       "required": true
     },
     {
+      "projectID": 958094,
+      "fileID": 6795308,
+      "required": true
+    },
+    {
       "projectID": 563977,
       "fileID": 6663321,
       "required": true
@@ -231,12 +246,12 @@
     },
     {
       "projectID": 535489,
-      "fileID": 6780011,
+      "fileID": 6809526,
       "required": true
     },
     {
       "projectID": 361579,
-      "fileID": 6713614,
+      "fileID": 6796742,
       "required": true
     },
     {

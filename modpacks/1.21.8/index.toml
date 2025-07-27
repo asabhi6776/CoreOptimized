@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "93724bd69dbdcfd9e32c523eda99af933a494b69a16036329dae17581a2d79d0"
+hash = "ebc8832643ed23c11074c79d7bb004977b0fe42147f9a8dba1290858b836b58d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "a59bc22bd1a36d2841659e40ae9e3150b66de95031c63191178612b96ffdebd7"
+hash = "649b00f8c5e8249ea843af33b3c5ccf335b214d0e19643841c04111e8d4c69e4"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "70ef4c56ac7d929c6d7b86b0922450df1fdd4bd7042a77f5b57ec73e13701466"
+hash = "e27164b011d0fdd2c60313e0fd7b33ff88c340c03d36a6f03ec1e9cdfd975456"
 metafile = true
 
 [[files]]
@@ -259,6 +259,11 @@ metafile = true
 [[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "48b2b721576bd33428a9d5ab090788d946494abf49fff230a66461bc8b6c0093"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "08a6cdde32565831b80288a5a209e0fa5f7e778517f22896b455e42e2970390c"
 metafile = true
 
 [[files]]
