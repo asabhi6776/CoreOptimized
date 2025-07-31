@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "5f42a643c0f15703c13f991071149d443dec5c31d109a48263b4430c628752a1"
+hash = "88659f5d11aeb365815e78183d3bf3fb4bb85a0614cd13209c40013bef2f2d04"
 metafile = true
 
 [[files]]
@@ -98,7 +98,7 @@ metafile = true
 
 [[files]]
 file = "mods/capes.pw.toml"
-hash = "c54c63db8982ebcdcc966c4d95a30e42379c1db5cb8875840d736bec8c7ceb9a"
+hash = "bfa3ef713975bd287cdddd1afb713ed0f16326427cf2d78af4030f8b21b95be3"
 metafile = true
 
 [[files]]
@@ -178,7 +178,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "cf0b694687c823b69ebb1cc78f72fdd83cc86c106354b30a7c157f4ca534c9ef"
+hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
 
 [[files]]
@@ -193,7 +193,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "65d542a720b52feeaab878439636d8ca361ccc512a054e96696e4972b6ecfd8f"
+hash = "f4360b358a2607a715e0a361872b4d08c85e872f2f86c6ddf4c531fa6ff7cd25"
 metafile = true
 
 [[files]]
@@ -267,6 +267,11 @@ hash = "08a6cdde32565831b80288a5a209e0fa5f7e778517f22896b455e42e2970390c"
 metafile = true
 
 [[files]]
+file = "mods/presence-footsteps.pw.toml"
+hash = "747d4782e6884c24b8ec2e993cca4b10f2ae8ba022eea59af00171745a1c0cf7"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
 metafile = true
@@ -278,7 +283,7 @@ metafile = true
 
 [[files]]
 file = "mods/respackopts.pw.toml"
-hash = "ac1c065f7726c35c3bcc2ee11130be8578418fda96a8eb5317a8a361f982d071"
+hash = "d2d74dfbf7b07c41caf6197d366972ec859bdb89e541df0fc4ae718979870689"
 metafile = true
 
 [[files]]

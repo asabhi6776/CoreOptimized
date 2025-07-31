@@ -44,7 +44,7 @@
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     |
-| Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     |
+| Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Redstone Tweaks                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Reese's Sodium Options                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |

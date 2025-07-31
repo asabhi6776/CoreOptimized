@@ -6,6 +6,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.5.1] 1.21.8 - ---08-2025
+### Added
+  - Presence Footsteps
+### Updated
+  - Better Clouds
+  - Capes
+  - ImmediatelyFast
+  - LambDynamicLights
+  - RespackOpts
+### Changed
+  - Removed Enhanced Block Entity
+  - Removed World Play Time 
+  - Removed Modernfix 
+
 ## [1.5.0-beta.1] 1.21.8 - 27-07-2025
 ### Added
   - Better Clouds
