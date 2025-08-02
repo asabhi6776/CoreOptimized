@@ -4,11 +4,6 @@
   <img src=assets/coreoptimized_logo_update.png>
 </div>
 
-<center>
-  [![Modrinth Downloads](https://img.shields.io/modrinth/dt/2eWEIhCq?style=flat-square&logo=modrinth&label=Modrinth&labelColor=%23000000&color=%2300af5c)](https://modrinth.com/modpack/core-optimized-by-sniperxjohn)
-  [![CurseForge Downloads](https://img.shields.io/curseforge/dt/1145691?style=flat-square&logo=curseforge&label=CurseForge&labelColor=%23000000&color=%23f16436)](https://www.curseforge.com/minecraft/modpacks/core-optimized-by-sniperxjohn)
-</center>
-
 Welcome to the official documentation for **CoreOptimized**! This project is a performance-optimized modpack that provides a great gaming experience, focusing on efficient resource usage and Quality of Life (QoL) enhancements. Whether you're a player looking for a smoother Minecraft experience or you're just curious about how CoreOptimized works, you've come to the right place.
 
 CoreOptimized is built with performance and quality in mind, ensuring that your gameplay is smooth and enjoyable. This documentation will help you understand how to install, configure, and make the most out of CoreOptimized.
