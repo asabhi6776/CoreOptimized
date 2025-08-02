@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "ebc8832643ed23c11074c79d7bb004977b0fe42147f9a8dba1290858b836b58d"
+hash = "6a7d937658ced15b21910053cc375907e5762704c3dc1e7b31ae31891f7b047f"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "649b00f8c5e8249ea843af33b3c5ccf335b214d0e19643841c04111e8d4c69e4"
+hash = "c7106f6261b7a5513323c85e67fe27be024cf5fe900790a28ae02ffc8d8e9f2b"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "5fca26659b0eea90c3ee02e2d809365d1f1ea36c824938afb0b0e4541ccd3d33"
+hash = "b4bd86d54ddfc83ddf62c6c84a1299c0fb3d5d9709f42c2d340941d8fe50176c"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
-hash = "747d4782e6884c24b8ec2e993cca4b10f2ae8ba022eea59af00171745a1c0cf7"
+hash = "5dff8bca658ae787c75fd2a37a40c8512a5fbc8a2421d106f94e08c8640b9075"
 metafile = true
 
 [[files]]

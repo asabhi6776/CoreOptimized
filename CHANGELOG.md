@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.5.1] 1.21.8 - ---08-2025
+## [1.5.1] 1.21.8 - 02-08-2025
 ### Added
   - Presence Footsteps
 ### Updated
@@ -15,10 +15,27 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - ImmediatelyFast
   - LambDynamicLights
   - RespackOpts
+  - Jade
 ### Changed
   - Removed Enhanced Block Entity
   - Removed World Play Time 
-  - Removed Modernfix 
+  - Removed Modernfix
+
+## [1.2.1] 1.21.5 - 02-08-2025
+### Updated
+  - Better Clouds
+  - Entity Culling
+  - Fabric API
+  - ImmediatelyFast
+  - LambDynamicLights
+  - Not Enough Animations
+  - Polytone
+  - Simple Voice Chat
+  - Sound Physics Remastered
+  - Redstone Tweaks
+### Changed
+  - Removed Enhanced Block Entity
+  - Removed Modernfix
 
 ## [1.5.0-beta.1] 1.21.8 - 27-07-2025
 ### Added
