@@ -1,1 +1,1 @@
-{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.16.14"}},"minecraft":{"+recommends":{"Core Optimized":">1.5.0-beta.1"}},"polytone":{"-depends":{"minecraft":""}}}}
+{"version":1,"overrides":{"fabricloader":{"+depends":{"fabricloader":">=0.16.14"}},"minecraft":{"+recommends":{"Core Optimized":">1.5.1"}},"polytone":{"-depends":{"minecraft":""}}}}
