@@ -33,13 +33,14 @@ For detailed instruction please visit our Wiki page by [clicking here](https://c
 - The licensing has been changed to MIT to provide greater freedom to the community.
 - Curseforge Documentation is added in Wiki.
 - Pack released for Minecraft version 1.21.5.
+- Pack release for Minecraft version 1.21.8.
+- Added YOSBR
 
 ## Roadmap
 
 - Main menu UI update.
 - 1.20.4 and 1.18.2 release.
 - Fix versioning.
-- Add YOSBR.
 
 ## Contributing
 
