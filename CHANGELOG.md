@@ -6,6 +6,16 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.5.2] 1.21.8 - 15-08-2025
+### Updated
+  - Better Clouds
+  - Jade
+  - Fabric Language Kotlin
+  - Simple Voice Chat
+  - Fabric API
+### Changed
+  - Fabric Loader updated to 0.17.2
+
 ## [1.5.1] 1.21.8 - 02-08-2025
 ### Added
   - Presence Footsteps

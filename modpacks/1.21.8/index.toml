@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "6a7d937658ced15b21910053cc375907e5762704c3dc1e7b31ae31891f7b047f"
+hash = "c3b715031d3548fc133e60cfda43a781939227dd13d5bd874470928c81540acb"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c7106f6261b7a5513323c85e67fe27be024cf5fe900790a28ae02ffc8d8e9f2b"
+hash = "ccd00778651dd422521def0f56bb1714be2eae644e456c4a171b13e34bdf5da9"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -68,7 +68,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "88659f5d11aeb365815e78183d3bf3fb4bb85a0614cd13209c40013bef2f2d04"
+hash = "282db0e5ff1ca083192720a2c6779f8bcb2e95729028836c1b5b99e148f4aeba"
 metafile = true
 
 [[files]]
@@ -153,12 +153,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "e27164b011d0fdd2c60313e0fd7b33ff88c340c03d36a6f03ec1e9cdfd975456"
+hash = "59acfaf613f3df57ed4934a25e991e7f74751c19494be2e53d5eb86f6c659ced"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "f217a0233c8aef84e914e1f8e90718be2496a923725215190d375ab3140379ab"
+hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
 metafile = true
 
 [[files]]
@@ -188,7 +188,7 @@ metafile = true
 
 [[files]]
 file = "mods/jade.pw.toml"
-hash = "b4bd86d54ddfc83ddf62c6c84a1299c0fb3d5d9709f42c2d340941d8fe50176c"
+hash = "6c25890be6c8210af61c260972b632ed38d17e6d4cfaf50bfdf1009c6013388f"
 metafile = true
 
 [[files]]
@@ -293,7 +293,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "ffc35cee2eeb4a9c854e062ace8cfa89cf8724390c044eec4c5200446929c24c"
+hash = "3d4e09db818e622bdaf1ca38dde12b7412b7c6cdab893806cdd1920abe909aa8"
 metafile = true
 
 [[files]]
