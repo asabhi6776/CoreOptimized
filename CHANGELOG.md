@@ -8,6 +8,17 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [1.5.2] 1.21.8 - 15-08-2025
 ### Updated
+  - Entity Texture Features
+  - Entity Model Features
+  - Fabric API
+  - Jade
+  - Better Statistics Screen
+  - LambDynamicLights
+  - Better Clouds
+  
+
+## [1.5.2] 1.21.8 - 15-08-2025
+### Updated
   - Better Clouds
   - Jade
   - Fabric Language Kotlin
