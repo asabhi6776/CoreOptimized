@@ -6,7 +6,9 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.5.2] 1.21.8 - 15-08-2025
+## [1.5.3] 1.21.8 - 06-09-2025
+### Added
+  - Architectury API (Required by Better Stats)
 ### Updated
   - Entity Texture Features
   - Entity Model Features
@@ -15,7 +17,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Better Statistics Screen
   - LambDynamicLights
   - Better Clouds
-  
+  - Not Enough Animations
+  - Mod Menu
+  - OptiGUI
+  - Simple Voice Chat
 
 ## [1.5.2] 1.21.8 - 15-08-2025
 ### Updated
