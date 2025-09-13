@@ -158,12 +158,12 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "18a90284cb04058c019dfcb2673a786b1b47a2b759308fca767be44fb07cfdee"
+hash = "f9b05ef1c6fb7e4d1c44b9468d7deacfe493d9f34182587e21ef1cb696fc677e"
 metafile = true
 
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
-hash = "36587a2be418f365faa1a6deac5eadcc00b6a79ebacab25ad87839f9ddc021e7"
+hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
@@ -258,7 +258,7 @@ metafile = true
 
 [[files]]
 file = "mods/paginatedadvancements.pw.toml"
-hash = "a3d8f556cae0e5922043be6613c122fc586f99275c339c5900e09cd86d5e9781"
+hash = "14e980e7f1d355c10a65b9e433ed30e9111490f416230f85602a2881f2308876"
 metafile = true
 
 [[files]]
@@ -268,7 +268,7 @@ metafile = true
 
 [[files]]
 file = "mods/polytone.pw.toml"
-hash = "08a6cdde32565831b80288a5a209e0fa5f7e778517f22896b455e42e2970390c"
+hash = "9193c83b491310aa8072eab6b314c2303f7b03d721f57464f28e082678ed659e"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "471b2225f045c020a80fa2f01e28f96e9e467ad8e470a0189d10e593c6853a26"
+hash = "6f231b54070140499b300f0165d45b4ec3755963b01329bd463a1105099e810f"
 metafile = true
 
 [[files]]
