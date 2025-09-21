@@ -13,6 +13,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Fabric Language Kotlin
   - Simple Voice Chat
   - Polytone
+  - Chat Heads
+  - LambDynamicLights
+  - Sound Physics Remastered
 
 ## [1.5.3] 1.21.8 - 06-09-2025
 ### Added

@@ -108,7 +108,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "21ecdd06d63e862c24703ef6fd496eef5c6dfa72ada035853304619ee9e63122"
+hash = "ade1b7e69863b637fce80130baba133817cf8eaf49d60f39bb86039b917c41bb"
 metafile = true
 
 [[files]]
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "a9630d395372cf3774c5751058bd944d4848adde75acc1c12187962cc0fe60ef"
+hash = "9f351fd00f843bcc2d6aa30d5e43e737b90e4a9b3b2345594aa0efd5f6a13b10"
 metafile = true
 
 [[files]]
@@ -298,7 +298,7 @@ metafile = true
 
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
-hash = "6f231b54070140499b300f0165d45b4ec3755963b01329bd463a1105099e810f"
+hash = "75450d4d7139edebd35377d96e7267c777d53faf9f11d46f48c10044308336b0"
 metafile = true
 
 [[files]]
@@ -313,7 +313,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "67644682da40a0544280729c66d54e6a0e4b6814807c717a19e5ce26b6b9afec"
+hash = "fe112716d0da39a5f27510f6e722c2b3cea58dca84bf08f69d3f50d4e6bab839"
 metafile = true
 
 [[files]]
