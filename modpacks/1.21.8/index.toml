@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "77f8f56519159066a25bdc476570a856055c666db524e69423ad08e7e0c42dd4"
+hash = "d9f45bca5543606703510765e15d47985fff9f80b4bc7adda62dfda893afa7ec"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "b4407311b3c52946b41ffb55f12709c64497beef537a67bdce15bab7f2caa1f3"
+hash = "8cb4a7be45b6222d627f8949f3c44aaf908782b0cf97813525edc20b7b6a9179"
 
 [[files]]
 file = "config/yosbr/config/PaginatedAdvancements.json5"
@@ -198,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "9f351fd00f843bcc2d6aa30d5e43e737b90e4a9b3b2345594aa0efd5f6a13b10"
+hash = "515242951a767e965d9f7589da4202202480d3d5a834ff133900f2f586afa916"
 metafile = true
 
 [[files]]
