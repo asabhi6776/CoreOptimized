@@ -1,0 +1,124 @@
+{
+  "minecraft": {
+    "version": "1.21.9",
+    "modLoaders": [
+      {
+        "id": "fabric-0.17.2",
+        "primary": true
+      }
+    ]
+  },
+  "manifestType": "minecraftModpack",
+  "manifestVersion": 1,
+  "name": "CoreOptimized",
+  "version": "1.6.0-alpha.1",
+  "author": "SniperXJohn",
+  "files": [
+    {
+      "projectID": 1026394,
+      "fileID": 6795000,
+      "required": true
+    },
+    {
+      "projectID": 686911,
+      "fileID": 7051459,
+      "required": true
+    },
+    {
+      "projectID": 574741,
+      "fileID": 7049948,
+      "required": true
+    },
+    {
+      "projectID": 408481,
+      "fileID": 7051580,
+      "required": true
+    },
+    {
+      "projectID": 407206,
+      "fileID": 7049115,
+      "required": true
+    },
+    {
+      "projectID": 348521,
+      "fileID": 6669836,
+      "required": true
+    },
+    {
+      "projectID": 335493,
+      "fileID": 7049386,
+      "required": true
+    },
+    {
+      "projectID": 306612,
+      "fileID": 7046314,
+      "required": true
+    },
+    {
+      "projectID": 308769,
+      "fileID": 6985480,
+      "required": true
+    },
+    {
+      "projectID": 455508,
+      "fileID": 7050301,
+      "required": true
+    },
+    {
+      "projectID": 482600,
+      "fileID": 7049462,
+      "required": true
+    },
+    {
+      "projectID": 360438,
+      "fileID": 7050265,
+      "required": true
+    },
+    {
+      "projectID": 518319,
+      "fileID": 5286193,
+      "required": true
+    },
+    {
+      "projectID": 630104,
+      "fileID": 7052896,
+      "required": true
+    },
+    {
+      "projectID": 430090,
+      "fileID": 7053095,
+      "required": true
+    },
+    {
+      "projectID": 416089,
+      "fileID": 7048931,
+      "required": true
+    },
+    {
+      "projectID": 667299,
+      "fileID": 7036515,
+      "required": true
+    },
+    {
+      "projectID": 374274,
+      "fileID": 4581910,
+      "required": true
+    },
+    {
+      "projectID": 315811,
+      "fileID": 7050869,
+      "required": true
+    },
+    {
+      "projectID": 394468,
+      "fileID": 7048978,
+      "required": true
+    },
+    {
+      "projectID": 393442,
+      "fileID": 7047973,
+      "required": true
+    }
+  ],
+  "overrides": "overrides"
+}
