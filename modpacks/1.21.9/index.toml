@@ -46,6 +46,11 @@ hash = "1fdcd8d6cbf60fbcc81ee6a39a93f866837ab0d2a47682e3be5f78ad355885b6"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "4ad437eb55c2434087ce42fff98632c32c700f3fca6c4fce6d85237a33193af6"
+metafile = true
+
+[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "fe9c77327c94f4a60632f3a56a7a9496f9f2f00e12ab42541eb433266a423b16"
 metafile = true
@@ -62,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/cloth-config.pw.toml"
-hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
+hash = "ab92afc9c86b581a10eb4e8dc52a3640deeb6d03fb662f6f53b2a21e87d74405"
 metafile = true
 
 [[files]]
@@ -78,6 +83,16 @@ metafile = true
 [[files]]
 file = "mods/fabric-language-kotlin.pw.toml"
 hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "fbf9806c22ee5bccbe08f7dec15b742f5ae3a70caf186d6dce0d42f28790f559"
+metafile = true
+
+[[files]]
+file = "mods/held-item-info.pw.toml"
+hash = "c740306a2d1a8559d45a6c763a65869b95933b93326e5f308d7a0c1b8f22395d"
 metafile = true
 
 [[files]]
@@ -116,6 +131,11 @@ hash = "fa3e6df3d222c94014c840673aa92455210d404eadceb05dd5ab3ae5a3eab6db"
 metafile = true
 
 [[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5dd45d5fd5e1ae2bd521b93a70b83c69b57ada18f424c6562d8c6ea9980cfb3e"
+metafile = true
+
+[[files]]
 file = "mods/morechathistory.pw.toml"
 hash = "096bce1d87ff7f759d07ae6501043c5d2db1bcdffb5ea566425843f12ff8e348"
 metafile = true
@@ -126,8 +146,18 @@ hash = "204a4b3b041fad4bb4dc543c74d540fcf239710494d2130cebe700bf1d8a7805"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "4762935a3ab92c3ad07f3eb43a7bb8f9997066c9f8e9c68745f286e395f7b51e"
+metafile = true
+
+[[files]]
 file = "mods/puzzle.pw.toml"
 hash = "978c05608ae60f7e40925d145910c124bb90db5db0ea8f8786fccd677eced4d6"
+metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml"
+hash = "1600b1e64b297d68bafb4f5e5eeef08117645ac24922696da10c711ae587c06b"
 metafile = true
 
 [[files]]
@@ -143,6 +173,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "85ebe0d8d1f0f6bd943c1a87f5df47869fde7ede4d9d0bc90a2aff13a760c5dc"
+metafile = true
+
+[[files]]
+file = "mods/sodium-extra.pw.toml"
+hash = "4f57108f9e1c6281cfdaf3812e6bc2a2f16609a845c9912218ada90b1603e1b3"
 metafile = true
 
 [[files]]

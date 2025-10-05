@@ -13,11 +13,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Sound Physics Remastered
   - Spark
   - Visuality
+  - Better Clouds
+  - FerrotCore
+  - Held Item Info
+  - Mod Menu
+  - Reeses Sodium Options
+  - Sodium Extra
 ### Updated
   - LambDynamicLights
   - Chat Heads
   - Fabric API
   - Lithium
+  - Cloth Config
 
 ## [1.6.0-alpha.1] 1.21.9 - 01-10-2025
 ### Changed
