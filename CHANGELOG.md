@@ -6,6 +6,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.7.0-alpha.1] 1.21.10 - 01-10-2025
+### Changed
+  - Alpha release of 1.21.10
+  - See modlist [Here](https://coreoptimized.readthedocs.io/en/latest/mods/Click)
+
 ## [1.6.0-alpha.3] 1.21.9 - 05-11-2025 ⚠️
 ### Added
   - Entity Model Features
