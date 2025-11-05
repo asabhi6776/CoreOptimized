@@ -6,7 +6,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
-## [1.6.0-alpha.3] 1.21.9 - ---10-2025
+## [1.6.0-alpha.3] 1.21.9 - 05-11-2025 ⚠️
 ### Added
   - Entity Model Features
   - Entity Texture Features
@@ -14,6 +14,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Mouse Tweaks
   - OptiGUI
   - Redstone Tweaks
+  - Boat Item View
+  - Chat Animation
+  - Entity Culling
+  - Not Enough Animations
+  - Better Stats
+  - BetterF3
+  - Boat Item View
+  - Chat Animation
+  - Entity Culling
+  - No chat reports
+  - Not Enough Animations
+  - Paginated Advancements and Custom Item Frames
 ### Updated
   - AudioPlayer
   - Better Clouds
@@ -22,6 +34,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
   - Iris
   - RespackOpts
   - ShulkerBoxTooltip
+  - LambdynamicLights
+### Notes
+  - There will be no update on version 1.21.9
 
 ## [1.6.0-alpha.2] 1.21.9 - 05-10-2025
 ### Added

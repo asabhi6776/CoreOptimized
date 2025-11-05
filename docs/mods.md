@@ -8,12 +8,12 @@
 | AudioPlayer                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Clouds                           | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Better Mount HUD                        | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Better Statistics Screen                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| BetterF3                                | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | BetterGrassify                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Boat Item View                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Capes                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Chat Animation [Smooth Chat]            | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Chat Heads                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Cloth Config API                        | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Continuity                              | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -21,7 +21,7 @@
 | Debugify                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ✅     | ✅     | ❌     |
 | Dynamic FPS                             | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Enhanced Block Entities                 | ✅     | ❌     | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     | ❌     |
-| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Entity Culling                          | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric API                              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Fabric Language Kotlin                  | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | FastQuit                                | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
@@ -39,10 +39,10 @@
 | More Chat History                       | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | More Culling                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Mouse Tweaks                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
-| Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| No Chat Reports                         | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
+| Not Enough Animations                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | OptiGUI                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| Paginated Advancements & Custom Frames  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Polytone                                | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ❌     |
 | Presence Footsteps                      | ✅     | ❌     | ✅     | ✅     | ✅     | ❌     | ❌     | ✅     | ❌     |
 | Puzzle                                  | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
@@ -55,11 +55,11 @@
 | Sodium Extra                            | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Sound Physics Remastered                | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | spark                                   | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| TCDCommons API                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| TCDCommons API                          | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Text Placeholder API                    | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
 | Visuality                               | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
-| World Play Time                         | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     | ❌     |
-| YetAnotherConfigLib (YACL)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     |
+| World Play Time                         | ✅     | ✅     | ✅     | ✅     | ✅     | ❌     | ❌     | ❌     | ✅     |
+| YetAnotherConfigLib (YACL)              | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | YOSBR                                   | ✅     | ❌     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 | Zoomify                                 | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     | ✅     |
 
