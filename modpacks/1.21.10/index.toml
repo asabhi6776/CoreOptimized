@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "aea0bdbef5abf431690fdbc1a1f586514432a2e5b9122cf02b0b0f90b85018da"
+hash = "38694b70d875fc55630d5cdde4d86b0776ea6e4d366bc1e421bb2cea391e3e63"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "2eb5e6c66a60e48b37de7e97240b98028be3bb4f515eede463c2de6b860a1eff"
+hash = "36783b1e95c75648b3f4f0143db4bde86c13df0bb0c8fc79693969268e754cdf"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
@@ -90,7 +90,7 @@ metafile = true
 
 [[files]]
 file = "mods/chat-heads.pw.toml"
-hash = "4a9910d74bb7a85600abaf36ae568bcfb10e76062b9d5d718656f5d172e79419"
+hash = "ddec1890704528e72700fadabe505ae0a4d4d15b7ce45c1026fb4088c3d1a674"
 metafile = true
 
 [[files]]
@@ -130,7 +130,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabric-api.pw.toml"
-hash = "b51659a7fdd17e134028a747bd8e4e8fb9ab9d88038577d088049a5c381f09dc"
+hash = "cbda4f1881cfb9f054395a3db225df4202d1f2e7bd0ed27d803b837fcf728621"
 metafile = true
 
 [[files]]
