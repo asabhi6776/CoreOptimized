@@ -11,7 +11,7 @@
   "manifestType": "minecraftModpack",
   "manifestVersion": 1,
   "name": "CoreOptimized",
-  "version": "1.7.0-alpha.1",
+  "version": "1.7.0-beta.1",
   "author": "SniperXJohn",
   "files": [
     {
@@ -76,7 +76,7 @@
     },
     {
       "projectID": 407206,
-      "fileID": 7124837,
+      "fileID": 7192600,
       "required": true
     },
     {
@@ -116,7 +116,7 @@
     },
     {
       "projectID": 306612,
-      "fileID": 7185203,
+      "fileID": 7203251,
       "required": true
     },
     {

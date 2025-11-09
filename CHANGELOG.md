@@ -6,6 +6,40 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.7.0-beta.1] 1.21.10 - 09-11-2025
+### Updated
+  - Chat Heads
+  - Fabric API
+
+## [1.5.5] 1.21.8 - 09-11-2025
+### Added
+  - World Play Time
+### Updated
+  - ImmediatelyFast
+  - Better Clouds
+  - Chat heads
+  - Zoomify
+  - Sound Physics Remastered
+  - Lithium
+  - More Culling
+  - Sodium
+  - BetterGrassify
+  - ShulkerBoxTooltip
+  - Simple Voice Chat
+  - Entity Culling
+  - Iris
+  - Not Enough Animations
+  - Respackopts
+  - Sodium Extra
+  - No Chat Reports
+  - Redstone Tweaks
+  - LambDynamicsLights
+  - Fabric API
+  - Fabric Language Kotlin
+  - Polytone
+### Change
+  - Upgraded Fabric Loader to 0.17.3
+
 ## [1.7.0-alpha.1] 1.21.10 - 01-10-2025
 ### Changed
   - Alpha release of 1.21.10
