@@ -55,7 +55,7 @@ metafile = true
 
 [[files]]
 file = "mods/audioplayer.pw.toml"
-hash = "4a329a21a6b89720d40e2cfb0e697d5e82fc954ffb507b13854895f47f1f5136"
+hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
 metafile = true
 
 [[files]]
@@ -101,6 +101,11 @@ metafile = true
 [[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "717d8ac591dba59be4767a179e1359747561e54ccfcac42161fd6bf54339a78b"
+metafile = true
+
+[[files]]
+file = "mods/continuity.pw.toml"
+hash = "b152c75412428e5f53667cb0836fa1323ca93cbd925e456239710a2e261d9963"
 metafile = true
 
 [[files]]
@@ -255,7 +260,7 @@ metafile = true
 
 [[files]]
 file = "mods/shulkerboxtooltip.pw.toml"
-hash = "bd7760e94351d6e7c19eb1f155c7a5a7fd281340b7bd556da2765e931f6c9ab5"
+hash = "c9fd548aa345384fe05cc143a191e6e507a07c20a08f31562966f5423a4e39d9"
 metafile = true
 
 [[files]]
