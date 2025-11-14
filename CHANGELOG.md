@@ -6,6 +6,17 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
 
+## [1.7.0-beta.3] 1.21.10 - 14-11-2025
+### Added
+  - Modernfix
+  - Better Clouds
+  - Debugify
+### Updated
+  - Lithium
+  - OptiGUI
+### Changes
+  - Adding Modernfix-mVUS it is a fork of modernfix by amazing **Coredex**
+
 ## [1.7.0-beta.2] 1.21.10 - 12-11-2025
 ### Added
   - Continuity

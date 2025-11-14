@@ -2,15 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/fabric_loader_dependencies.json"
-hash = "7f9c905fd3d4f6ef4e7290fdd890be344de509c17fbc005752b70d1ee73c3d1b"
+hash = "bd65d4faad8e404e0e90ba565a2fdf5a3b64dedac6043bc714c3b1e09389389d"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c16f022a51e441ea06549b60811de6aee512d2f4830e92e8d78ea13e4e254334"
+hash = "50ce71d3bfd9676ff82888e4d826cc1582d5b602be18c2d6668a561a76fe9277"
 
 [[files]]
 file = "config/yosbr/config/audioplayer/audioplayer-server.properties"
 hash = "1e611c9173c793c6434b998bcaaf40b0f3a0131ab3619292c1a4384594db4121"
+
+[[files]]
+file = "config/yosbr/config/debugify.json"
+hash = "70785772d8e66e1b75fa58ef0ceff1b598a78a025b05908ffd03c66cb6a1216d"
 
 [[files]]
 file = "config/yosbr/config/entity_model_features.json"
@@ -56,6 +60,11 @@ metafile = true
 [[files]]
 file = "mods/audioplayer.pw.toml"
 hash = "0941c5b9cafbbc4bea49d36493abb63b6e392f2bcce6b7381b0283dfc3eaec94"
+metafile = true
+
+[[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "d2933afa6dcca20f4846bc1977fecc4ed759dc7af53896274dd133242d22693e"
 metafile = true
 
 [[files]]
@@ -111,6 +120,11 @@ metafile = true
 [[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
+metafile = true
+
+[[files]]
+file = "mods/debugify.pw.toml"
+hash = "f1f40ce8f46ea0b772aee0dffb1626e20cb48194ee0fad8a5ab6afbaa6e57658"
 metafile = true
 
 [[files]]
@@ -180,7 +194,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithium.pw.toml"
-hash = "ed9d0d5d4078c137900006321d35515cee46058b92df1128ea37cda3e5e1bb2b"
+hash = "84957275e9dc6f07f4244ce3303536e3d73b0e72eb1696ccd024168a52c29c98"
 metafile = true
 
 [[files]]
@@ -191,6 +205,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "b261880bd245c83c51b729199452da12b0766a4aa0210fc79d0c48161cbfcc49"
+metafile = true
+
+[[files]]
+file = "mods/modernfix-mvus.pw.toml"
+hash = "d50b7be11b0ef674f0f5b7b4307dc4919683fa63bdc72703912258a528398e61"
 metafile = true
 
 [[files]]
@@ -225,7 +244,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "4bf3b4e6ce176f34d70fa961fee580956567b0a79e25e3be58e020b7e9f42e32"
+hash = "08b89b53c392b5fa29198418df8598404d93c58eae40d432caed797c828adbd5"
 metafile = true
 
 [[files]]
